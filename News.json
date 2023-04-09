@@ -145,46 +145,6 @@
     {
       "RepositoryURL": "https://dekotas.org/repo.json",
       "PackageID": "com.sean.5genabler"
-    },
-    {
-      "RepositoryURL": "https://tweakrain.tk/repos/misaka/misaka.json",
-      "PackageID": "com.Outlander.font2"
-    },
-    {
-      "RepositoryURL": "https://tweakrain.tk/repos/misaka/misaka.json",
-      "PackageID": "com.Outlander.font"
-    },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.adelstar.samsungemoji"
-    },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.adelstar.windowsemojis"
-    },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.sean.settingsc1"
-    },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.L95vz.mariocoin"
-    },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.sean.yangjiiii.exoder"
-    },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.sean.yangjiiii.constance"
-    },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.dekotastm.flappy"
-    },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.sean.yangjiiii.lineat"
     }
   ]
 }
