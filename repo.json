@@ -258,6 +258,11 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1088825037236219934/1091984208945233973/Wallpaper_ControlCenter.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.CCWP-1.1.misaka",
+                    "Description": "FilePicker Support"
                 }
             ],
             "PackageID": "com.straight-tamago.CCWP"
