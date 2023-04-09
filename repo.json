@@ -30,7 +30,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.Disable_Homebar.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.Disable_Homebar.misaka",
                     "Description": "misaka形式に"
                 }
             ],
@@ -118,7 +118,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.LockScreenIcons.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.LockScreenIcons.misaka",
                     "Description": null
                 }
             ],
@@ -144,7 +144,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.DialSound_Piano.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.DialSound_Piano.misaka",
                     "Description": "misaka形式に"
                 }
             ],
@@ -170,7 +170,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.Enable_Internal.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.Enable_Internal.misaka",
                     "Description": "misaka形式に"
                 }
             ],
@@ -195,7 +195,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.RespringCC_Shortcut.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.RespringCC_Shortcut.misaka",
                     "Description": "misaka形式に"
                 }
             ],
@@ -220,12 +220,12 @@
             "Releases": [
                 {
                     "Version": "1.1",
-                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.SpringAlert.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.SpringAlert.misaka",
                     "Description": null
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.SpringAlert_1.2.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.SpringAlert_1.2.misaka",
                     "Description": "all lang"
                 }
             ],
@@ -253,38 +253,6 @@
             "Screenshot": [
                 "https://pbs.twimg.com/media/FsqvyXKaMAAiTWs?format=jpg&name=large"
             ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1088825037236219934/1091984208945233973/Wallpaper_ControlCenter.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.straight-tamago.CCWP"
-        },
-        {
-            "Name": "CC WallPaper",
-            "Description": "Add Shazam module before using",
-            "Author": {
-                "Label": "straight-tamago",
-                "Links": [
-                    {
-                        "Label": "straight-tamago (Main Dev)",
-                        "Link": "https://twitter.com/straight_tamago"
-                    },
-                    {
-                        "Label": "nbxy (Icon & Tweak Settings Design)",
-                        "Link": "https://twitter.com/straight_tamago"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1078899188609319024/1078903220648288416/IMG_1521.jpg",
-            "Category": null,
-            "Caption": "Add Shazam module before using",
-            "Screenshot": [
-                "https://pbs.twimg.com/media/FsqvyXKaMAAiTWs?format=jpg&name=large"
-            ],
-            "MinAppVersion": "0.0",
             "Releases": [
                 {
                     "Version": "1.0",
