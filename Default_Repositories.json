@@ -4,7 +4,7 @@
     "Repositories": [
       "https://github.com/hanabiADHD/TinyBoss/raw/main/tinyboss.json",
       "https://betterave.c22code.repl.co/repo",
-      "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json"
     ]
   },
   {
@@ -25,7 +25,7 @@
     "Section": "Other",
     "Repositories": [
       "https://dekotas.org/repo.json",
-      "https://github.com/Fomri/fomrirepo/raw/main/repo.json",
+      "https://github.com/Fomri/fomrirepo/raw/main/repo.json"
     ]
   }
 ]
