@@ -1,7 +1,10 @@
 {
-  "Update": "2023/04/09 13:50(UTC)",
+  "Update": "2023/04/09 14:28(UTC)",
   "Tweaks": [
-
+{
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.AP-WP"
+},
 {
     "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
     "PackageID": "com.34306.Checlock"
