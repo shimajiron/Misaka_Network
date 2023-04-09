@@ -2,6 +2,10 @@
   "Update": "2023/04/09 00:49(UTC)",
   "Tweaks": [
   {
+      "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
+      "PackageID": "www.iwishkem.tk.SamsungNote7"
+  },
+  {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.AlwaysVPN"
   },
