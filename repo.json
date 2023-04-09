@@ -1,0 +1,298 @@
+{
+    "RepositoryName": "misaka.app",
+    "RepositoryDescription": "misaka official repository",
+    "RepositoryAuthor": "straight-tamago",
+    "RepositoryIcon": "https://media.discordapp.net/attachments/1079878178035736656/1089222751950217226/A7AEE3BC-EFC7-47DC-B269-E5FD2550E0FD.jpg",
+    "RepositoryWebsite": "https://asset.watch.impress.co.jp/img/iw/docs/1106/553/mokuyou.png",
+    "DefaultHeaderImage": "https://cdn.discordapp.com/attachments/963821657703718964/1091331292462841898/IMG_0364.png",
+    "RepositoryContents": [
+        {
+            "Name": "Disable Homebar",
+            "Description": "Hide Homebar (ホームバーを非表示にします。)",
+            "Author": {
+                "Label": "straight-tamago",
+                "Links": [
+                    {
+                        "Label": "straight-tamago",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "nbxy (Icon & Header)",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1079878178035736656/1090199030388244530/FE89AB07-0D26-4E7F-BDF5-B487038F0192.jpg",
+            "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1090202250049224724/007441E9-0C6A-4EEB-8F0E-69B83F44C478.jpg",
+            "Category": null,
+            "Caption": "Hide Homebar (ホームバーを非表示にします。)",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.Disable_Homebar.misaka",
+                    "Description": "misaka形式に"
+                }
+            ],
+            "PackageID": "com.straight-tamago.Disable_Homebar"
+        },
+        {
+            "Name": "Dock Color",
+            "Description": "Change Dock Color (Dockの色を変更)",
+            "Author": {
+                "Label": "straight-tamago",
+                "Links": [
+                    {
+                        "Label": "straight-tamago",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "nbxy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Change Dock Color (Dockの色を変更します。)",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091746692052815982/DockColor.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.Dock_Color"
+        },
+        {
+            "Name": "ControlCenter Color",
+            "Description": "Change ControlCenter Color (コントロールセンターの色を変更)",
+            "Author": {
+                "Label": "straight-tamago",
+                "Links": [
+                    {
+                        "Label": "straight-tamago",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "nbxy",
+                        "Link": "https://twitter.com/ChromiumCandy"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1080122575834857573/736F035A-4D1B-4D75-B3A6-6DC8FA513178.png",
+            "Category": null,
+            "Caption": "Change Module and Background colors (モジュールと背景の色を変更します。)",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091752704688259123/ControlCenterColor.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.ControlCenter_Color"
+        },
+        {
+            "Name": "LockScreen Icons",
+            "Description": "Change LS UI (ロックスクリーンの下にあるボタンのデザイン)",
+            "Author": {
+                "Label": "Coolwcat & しまじろん",
+                "Links": [
+                    {
+                        "Label": "しまじろん",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+
+                ]
+            },
+            "Icon": null,
+            "Category": "Change LS Light & Camera UI (ロックスクリーンの下にあるボタンのデザイン)",
+            "Caption": null,
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.LockScreenIcons.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.LockScreen_Icons.misaka"
+        },
+        {
+            "Name": "DialSound Piano",
+            "Description": "Change dial sound to piano (ダイアル音をピアノにするよ)",
+            "Author": {
+                "Label": "Coolwcat",
+                "Links": [
+                    
+                    {
+                        "Label": "Coolwcat",
+                        "Link": "https://twitter.com/coolwcat"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Change dial sound to piano (ダイアル音をピアノにするよ)",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.DialSound_Piano.misaka",
+                    "Description": "misaka形式に"
+                }
+            ],
+            "PackageID": "com.straight-tamago.DialSound_Piano"
+        },
+        {
+            "Name": "Enable Internal",
+            "Description": "システムをInternalモードに設定",
+            "Author": {
+                "Label": "yyyywaiwai",
+                "Links": [
+                    
+                    {
+                        "Label": "yyyywaiwai",
+                        "Link": "https://twitter.com/yyyyyy_public"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "システムをInternalモードに設定",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.Enable_Internal.misaka",
+                    "Description": "misaka形式に"
+                }
+            ],
+            "PackageID": "com.straight-tamago.Enable_Internal"
+        },
+        {
+            "Name": "RespringCC Shortcut",
+            "Description": "Install RespringCC before using",
+            "Author": {
+                "Label": "しまじろん",
+                "Links": [
+                    {
+                        "Label": "しまじろん",
+                        "Link": "https://twitter.com/straight_tamago"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "別途RespringCCをインストールしておく必要あり",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.RespringCC_Shortcut.misaka",
+                    "Description": "misaka形式に"
+                }
+            ],
+            "PackageID": "com.straight-tamago.RespringCC_Shortcut"
+        },
+        {
+            "Name": "SpringAlert",
+            "Description": "beta alert and low battery alerts",
+            "Author": {
+                "Label": "しまじろん",
+                "Links": [
+                    {
+                        "Label": "しまじろん",
+                        "Link": "https://twitter.com/straight_tamago"
+                    }
+                ]
+            },
+            "Icon": null,
+            "Category": null,
+            "Caption": "Change the strings for beta alerts and low battery alerts.",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.1",
+                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.SpringAlert.misaka",
+                    "Description": null
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://github.com/shimajiron/VDFStore/raw/main/com.straight-tamago.SpringAlert_1.2.misaka",
+                    "Description": "all lang"
+                }
+            ],
+            "PackageID": "com.straight-tamago.SpringAlert"
+        },
+        {
+            "Name": "CC WallPaper",
+            "Description": "Add Shazam module before using",
+            "Author": {
+                "Label": "straight-tamago",
+                "Links": [
+                    {
+                        "Label": "straight-tamago (Main Dev)",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "nbxy (Icon & Tweak Settings Design)",
+                        "Link": "https://twitter.com/straight_tamago"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1078899188609319024/1078903220648288416/IMG_1521.jpg",
+            "Category": null,
+            "Caption": "Add Shazam module before using",
+            "Screenshot": [
+                "https://pbs.twimg.com/media/FsqvyXKaMAAiTWs?format=jpg&name=large"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1088825037236219934/1091984208945233973/Wallpaper_ControlCenter.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.CCWP"
+        },
+        {
+            "Name": "CC WallPaper",
+            "Description": "Add Shazam module before using",
+            "Author": {
+                "Label": "straight-tamago",
+                "Links": [
+                    {
+                        "Label": "straight-tamago (Main Dev)",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "nbxy (Icon & Tweak Settings Design)",
+                        "Link": "https://twitter.com/straight_tamago"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1078899188609319024/1078903220648288416/IMG_1521.jpg",
+            "Category": null,
+            "Caption": "Add Shazam module before using",
+            "Screenshot": [
+                "https://pbs.twimg.com/media/FsqvyXKaMAAiTWs?format=jpg&name=large"
+            ],
+            "MinAppVersion": "0.0",
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1088825037236219934/1091984208945233973/Wallpaper_ControlCenter.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.CCWP"
+        }
+    ]
+}

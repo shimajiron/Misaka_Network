@@ -1,0 +1,72 @@
+{
+  "Tweak01": [
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.ARIAPass"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
+      "PackageID": "com.yangjiii.usagipasscode"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
+      "PackageID": "com.Kumiki.LockOnimai"
+    
+    }
+  ],
+  "HeaderTweaks": [
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/VDFStore/main/repo.json",
+      "PackageID": "com.straight-tamago.Disable_Homebar"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
+      "PackageID": "com.hn.gspc"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/ichitaso/misaka/main/repo.json",
+      "PackageID": "com.ichitaso.iphonex-respring"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
+      "PackageID": "com.leemin.samsungdiscordping"
+    }
+    
+  ],
+  "TopTweaks": [
+      {
+          "RepositoryURL": "https://raw.githubusercontent.com/sugiuta/repo-mdc/master/repo.json",
+          "PackageID": "com.sugiuta.hidepasscodeblur"
+        },
+        {
+          "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+          "PackageID": "jp.ChromiumCandy.Clearity"
+        },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
+      "PackageID": "com.yangjiii.applesymbols1.0"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
+      "PackageID": "com.coolwcat.lsui15"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
+      "PackageID": "com.Kumiki.NoNameBatteryWidget"
+    
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.Respple2"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
+      "PackageID": "com.coolwcat.appleroundfontios15"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "com.fall20c.ResPM"
+    }
+    
+  ]
+}
