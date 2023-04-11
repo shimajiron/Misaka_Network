@@ -1,7 +1,7 @@
 {
   "Update": "2023/04/10 06:28(UTC)",
   "Tweaks": [
-  Remasterered
+  
   {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
       "PackageID": "com.straight-tamago.GenshinCC_Remastered"
