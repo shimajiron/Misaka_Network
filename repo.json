@@ -266,6 +266,37 @@
                 }
             ],
             "PackageID": "com.straight-tamago.CCWP"
+        },
+        {
+            "Name": "GenshinCC_Remastered",
+            "Description": "CC icons are Genshin elements",
+            "Author": {
+                "Label": "34306 & straight-tamago",
+                "Links": [
+                    {
+                        "Label": "34306",
+                        "Link": "https://twitter.com/Little_34306"
+                    },
+                    {
+                        "Label": "straight-tamago (Main Dev)",
+                        "Link": "https://twitter.com/straight_tamago"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1078899188609319024/1078903220648288416/IMG_1521.jpg",
+            "Category": "Control Center",
+            "Caption": "CC icons are Genshin elements",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/1089248899438485564/1095194597665284137/IMG_2777.png"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.GenshinCC_Remastered.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.GenshinCC_Remastered"
         }
     ]
 }
