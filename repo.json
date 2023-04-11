@@ -263,6 +263,11 @@
                     "Version": "1.1",
                     "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.CCWP-1.1.misaka",
                     "Description": "FilePicker Support"
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.CCWP-1.2.misaka",
+                    "Description": "ImagePicker Support"
                 }
             ],
             "PackageID": "com.straight-tamago.CCWP"
