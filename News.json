@@ -1,7 +1,18 @@
 {
-  "Update": "2023/04/10 06:28(UTC)",
+  "Update": "2023/04/10 11:41(UTC)",
   "Tweaks": [
-  
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.Anti-OTA-A"
+  },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.Anti-F-OTA"
+  },
+    {
+      "RepositoryURL": "https://dekotas.org/repo.json",
+      "PackageID": "com.dekotastm.musicmodulechanger"
+  },
   {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
       "PackageID": "com.straight-tamago.GenshinCC_Remastered"
