@@ -68,7 +68,7 @@
             "PackageID": "com.straight-tamago.Dock_Color"
         },
         {
-            "Name": "ControlCenter Color",
+            "Name": "ColorCC",
             "Description": "Change ControlCenter Color (コントロールセンターの色を変更)",
             "Author": {
                 "Label": "straight-tamago",
@@ -95,7 +95,7 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.straight-tamago.ControlCenter_Color"
+            "PackageID": "com.straight-tamago.ColorCC"
         },
         {
             "Name": "LockScreen Icons",
