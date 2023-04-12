@@ -1,6 +1,14 @@
 {
   "Update": "2023/04/10 11:41(UTC)",
   "Tweaks": [
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
+      "PackageID": "com.leemin.samsungdiscordping"
+    },
+        {
+      "RepositoryURL": "https://dekotas.org/repo.json",
+      "PackageID": "com.dekotastm.novulntools"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.Anti-OTA-A"
@@ -149,22 +157,6 @@
     {
       "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
       "PackageID": "com.fomri.NFC16"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
-      "PackageID": "com.fomri.LegalPacMan"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
-      "PackageID": "com.fomri.CameraTXT15"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
-      "PackageID": "com.fomri.NFC16"
-    },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.sean.5genabler"
     }
   ]
 }
