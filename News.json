@@ -1,6 +1,14 @@
 {
-  "Update": "2023/04/10 11:41(UTC)",
+  "Update": "2023/04/12 12:42(UTC)",
   "Tweaks": [
+    {
+      "RepositoryURL": "https://dekotas.org/repo.json",
+      "PackageID": "com.dekotastm.settingsc1pro"
+  },
+  {
+    "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
+    "PackageID": "www.iwishkem.tk.Clockonike"
+},
         {
       "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
       "PackageID": "com.leemin.samsungdiscordping"
