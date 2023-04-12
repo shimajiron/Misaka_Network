@@ -27,6 +27,7 @@
             "Category": null,
             "Caption": "Hide Homebar (ホームバーを非表示にします。)",
             "Screenshot": null,
+            "ViewCount": true,
             "Releases": [
                 {
                     "Version": "1.0",
