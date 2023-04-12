@@ -57,6 +57,7 @@
             "Category": null,
             "Caption": "Change Dock Color (Dockの色を変更します。)",
             "Screenshot": null,
+            "ViewCount": true,
             "Releases": [
                 {
                     "Version": "1.0",
@@ -86,6 +87,7 @@
             "Category": null,
             "Caption": "Change Module and Background colors (モジュールと背景の色を変更します。)",
             "Screenshot": null,
+            "ViewCount": true,
             "Releases": [
                 {
                     "Version": "1.0",
@@ -116,6 +118,7 @@
             "Category": "Change LS Light & Camera UI (ロックスクリーンの下にあるボタンのデザイン)",
             "Caption": null,
             "Screenshot": null,
+            "ViewCount": true,
             "Releases": [
                 {
                     "Version": "1.0",
@@ -142,6 +145,7 @@
             "Category": null,
             "Caption": "Change dial sound to piano (ダイアル音をピアノにするよ)",
             "Screenshot": null,
+            "ViewCount": true,
             "Releases": [
                 {
                     "Version": "1.0",
@@ -168,6 +172,7 @@
             "Category": null,
             "Caption": "システムをInternalモードに設定",
             "Screenshot": null,
+            "ViewCount": true,
             "Releases": [
                 {
                     "Version": "1.0",
@@ -193,6 +198,7 @@
             "Category": null,
             "Caption": "別途RespringCCをインストールしておく必要あり",
             "Screenshot": null,
+            "ViewCount": true,
             "Releases": [
                 {
                     "Version": "1.0",
@@ -218,6 +224,7 @@
             "Category": null,
             "Caption": "Change the strings for beta alerts and low battery alerts.",
             "Screenshot": null,
+            "ViewCount": true,
             "Releases": [
                 {
                     "Version": "1.1",
@@ -254,6 +261,7 @@
             "Screenshot": [
                 "https://pbs.twimg.com/media/FsqvyXKaMAAiTWs?format=jpg&name=large"
             ],
+            "ViewCount": true,
             "Releases": [
                 {
                     "Version": "1.0",
@@ -300,6 +308,7 @@
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/1089248899438485564/1095194597665284137/IMG_2777.png"
             ],
+            "ViewCount": true,
             "Releases": [
                 {
                     "Version": "1.0",
