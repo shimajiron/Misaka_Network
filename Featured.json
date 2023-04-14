@@ -9,7 +9,7 @@
       "PackageID": "jp.ChromiumCandy.AP-WP"
     },
     {
-      "RepositoryURL": "ttps://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.moderncc"
     },
   ],
@@ -57,7 +57,7 @@
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
-      "PackageID": "com.Kumiki.lspokebuttonfix"
+      "PackageID": "com.sugiuta.lspokebuttonfix"
     
     },
     {
