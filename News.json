@@ -1,6 +1,31 @@
 {
-  "Update": "2023/04/12 12:42(UTC)",
+  "Update": "2023/04/14 08:27(UTC)",
   "Tweaks": [
+    
+  {
+    "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+    "PackageID": "jp.ChromiumCandy.Animatica"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+  "PackageID": "jp.ChromiumCandy.misakaBG"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+  "PackageID": "jp.ChromiumCandy.AlwaysVPN"
+},
+{
+  "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
+  "PackageID": "www.iwishkem.tk.iOS16Clock_1"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.quicksand85"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.soundmanager"
+},
     {
       "RepositoryURL": "https://dekotas.org/repo.json",
       "PackageID": "com.dekotastm.settingsc1pro"
