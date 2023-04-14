@@ -1,71 +1,73 @@
 {
   "Tweak01": [
     {
+      "RepositoryURL": "https://github.com/Fomri/fomrirepo/raw/main/repo.json",
+      "PackageID": "com.fomri.Whitelist"
+    },
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "jp.ChromiumCandy.ARIAPass"
+      "PackageID": "jp.ChromiumCandy.AP-WP"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-      "PackageID": "com.yangjiii.usagipasscode"
+      "RepositoryURL": "ttps://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.moderncc"
     },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
-      "PackageID": "com.Kumiki.LockOnimai"
-    
-    }
   ],
   "HeaderTweaks": [
     {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-      "PackageID": "com.straight-tamago.Disable_Homebar"
+      "PackageID": "com.straight-tamago.ColorCC"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
-      "PackageID": "com.hn.gspc"
+      "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
+      "PackageID": "www.iwishkem.tk.Clockonike"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
+      "PackageID": "com.leemin.comicsans"
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/ichitaso/misaka/main/repo.json",
       "PackageID": "com.ichitaso.iphonex-respring"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
-      "PackageID": "com.leemin.samsungdiscordping"
     }
+    
+    
     
   ],
   "TopTweaks": [
       {
-          "RepositoryURL": "https://raw.githubusercontent.com/sugiuta/repo-mdc/master/repo.json",
-          "PackageID": "com.sugiuta.hidepasscodeblur"
+          "RepositoryURL": "https://puck.roeegh.dev/repo.json",
+          "PackageID": "dev.roeegh.NotificationShadow"
         },
         {
           "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-          "PackageID": "jp.ChromiumCandy.Clearity"
+          "PackageID": "jp.ChromiumCandy.Anti-F-OTA"
+        },
+        {
+          "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
+          "PackageID": "com.hn.sfredit"
         },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-      "PackageID": "com.yangjiii.applesymbols1.0"
+      "PackageID": "com.yangjiii.hidedock"
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
-      "PackageID": "com.coolwcat.lsui15"
+      "PackageID": "com.coolwcat.lock_win10"
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
-      "PackageID": "com.Kumiki.NoNameBatteryWidget"
+      "PackageID": "com.Kumiki.lspokebuttonfix"
     
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "jp.ChromiumCandy.Respple2"
+      "PackageID": "jp.fall20c.MGM"
     },
+    
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
-      "PackageID": "com.coolwcat.appleroundfontios15"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "com.fall20c.ResPM"
+      "RepositoryURL": "https://dekotas.org/repo.json",
+      "PackageID": "com.L95vz.mariocoin"
     }
     
   ]
