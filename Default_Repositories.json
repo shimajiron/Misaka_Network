@@ -1,34 +1,34 @@
 [
-  {
-    "Section": "Official",
-    "Repositories": [
-      "https://github.com/hanabiADHD/TinyBoss/raw/main/tinyboss.json",
-      "https://betterave.c22code.repl.co/repo",
-      "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json"
-    ]
-  },
-  {
-    "Section": "Private Testers",
-    "Repositories": [
-      "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "https://puck.roeegh.dev/repo.json",
-      "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
-      "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-      "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
-      "https://raw.githubusercontent.com/ichitaso/misaka/main/repo.json",
-      "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
-      "https://raw.githubusercontent.com/sugiuta/repo-mdc/master/repo.json",
-      "https://raw.githubusercontent.com/34306/iPA/main/repo.json"
-    ]
-  },
-  {
-    "Section": "Other",
-    "Repositories": [
-      "https://dekotas.org/repo.json",
-      "https://github.com/Fomri/fomrirepo/raw/main/repo.json",
-      "https://tweakrain.tk/repos/misaka/misaka.json",
-      "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
-      "https://www.iwishkem.tk/misaka.json"
-    ]
-  }
-]
+    {
+      "Section": "Official",
+      "Repositories": [
+        "https://betterave.c22code.repl.co/repo",
+        "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json"
+      ]
+    },
+    {
+      "Section": "Private Testers",
+      "Repositories": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+        "https://puck.roeegh.dev/repo.json",
+        "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
+        "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
+        "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
+        "https://raw.githubusercontent.com/ichitaso/misaka/main/repo.json",
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
+        "https://raw.githubusercontent.com/sugiuta/repo-mdc/master/repo.json",
+        "https://raw.githubusercontent.com/34306/iPA/main/repo.json"
+      ]
+    },
+    {
+      "Section": "Others",
+      "Repositories": [
+        "https://github.com/Fomri/fomrirepo/raw/main/repo.json",
+        "https://dekotas.org/repo.json",
+        "https://tweakrain.tk/repos/misaka/misaka.json",
+        "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+        "https://www.iwishkem.tk/misaka.json",
+        "https://raw.githubusercontent.com/tdquang266/MDC/main/repo.json" 
+      ]
+    }
+  ]
