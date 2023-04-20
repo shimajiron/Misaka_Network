@@ -1,7 +1,30 @@
 {
-  "Update": "2023/04/14 08:27(UTC)",
+  "Update": "2023/04/20 16:32(UTC)",
   "Tweaks": [
-    
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.nothingclock15"
+  },
+  {
+    "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+    "PackageID": "com.epos.trollfacelock"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+  "PackageID": "com.hackzy.onecc"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.tomorrowclock"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.odinclock"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/tdquang266/MDC/main/repo.json",
+  "PackageID": "com.tdquang.at-untitled-ui"
+},
   {
     "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
     "PackageID": "jp.ChromiumCandy.Animatica"
