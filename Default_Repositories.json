@@ -24,7 +24,6 @@
       "Section": "Others",
       "Repositories": [
         "https://github.com/Fomri/fomrirepo/raw/main/repo.json",
-        "https://dekotas.org/repo.json",
         "https://tweakrain.tk/repos/misaka/misaka.json",
         "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
         "https://www.iwishkem.tk/misaka.json",
