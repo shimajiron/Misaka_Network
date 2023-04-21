@@ -49,10 +49,6 @@
   "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
   "PackageID": "com.epos.soundmanager"
 },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.dekotastm.settingsc1pro"
-  },
   {
     "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
     "PackageID": "www.iwishkem.tk.Clockonike"
@@ -61,10 +57,6 @@
       "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
       "PackageID": "com.leemin.samsungdiscordping"
     },
-        {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.dekotastm.novulntools"
-    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.Anti-OTA-A"
@@ -72,10 +64,6 @@
     {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.Anti-F-OTA"
-  },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.dekotastm.musicmodulechanger"
   },
   {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
@@ -94,16 +82,8 @@
     "PackageID": "com.34306.Checlock"
 },
 {
-  "RepositoryURL": "https://dekotas.org/repo.json",
-  "PackageID": "com.dekotastm.ccoonectlabels"
-},
-{
   "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
   "PackageID": "www.iwishkem.tk.VersionChanger"
-},
-  {
-    "RepositoryURL": "https://dekotas.org/repo.json",
-    "PackageID": "com.dekotastm.batterychanger"
 },
   {
       "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
@@ -134,25 +114,13 @@
       "PackageID": "com.fomri.SC"
   },
   {
-    "RepositoryURL": "https://dekotas.org/repo.json",
-    "PackageID": "com.dekotastm.mutemsgchanger"
-  },
-  {
     "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
     "PackageID": "com.epos.paint"
   },
     {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.dekotas.passchanger"
-    },
-    {
       "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
       "PackageID": "com.yangjiii.oneuilsui"
     },
-      {
-          "RepositoryURL": "https://dekotas.org/repo.json",
-          "PackageID": "com.dekotastm.maskedfaceid"
-        },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
       "PackageID": "com.yangjiii.icecream"
@@ -174,10 +142,6 @@
       "PackageID": "com.epos.compile"
     },
     {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.dekotas.emojicategorychanger"
-    },
-    {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.gradient"
     },
@@ -189,10 +153,6 @@
       "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
       "PackageID": "www.iwishkem.tk.LegacyCandy"
     },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.dekotastm.epicdynamicness"
-    },
 
     {
       "RepositoryURL": "https://puck.roeegh.dev/repo.json",
@@ -201,10 +161,6 @@
     {
       "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
       "PackageID": "com.hn.sfredit"
-    },
-    {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.dekotastm.snake"
     },
     {
       "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
