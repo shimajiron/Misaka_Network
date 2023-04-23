@@ -1,6 +1,54 @@
 {
-  "Update": "2023/04/20 16:32(UTC)",
+  "Update": "2023/04/23 14:52(UTC)",
   "Tweaks": [
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.comicrelieffont"
+  },
+  {
+    "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+    "PackageID": "com.epos.shootastarfont"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.sicafont"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.3dfluentemojis"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.toadlock"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.tailslock"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.gastlylock"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.boomlock"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+  "PackageID": "com.hackzy.scharge"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.stencilclock"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.eulaclock"
+},
+{
+  "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+  "PackageID": "com.epos.aulacclock"
+},
     {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.nothingclock15"
