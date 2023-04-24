@@ -1,6 +1,10 @@
 {
-  "Update": "2023/04/23 14:52(UTC)",
+  "Update": "2023/04/24 15:48(UTC)",
   "Tweaks": [
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.14prolock"
+  },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.comicrelieffont"
