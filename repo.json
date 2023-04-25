@@ -312,6 +312,11 @@
                     "Version": "1.1",
                     "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.GenshinCC_Remastered-1.1.misaka",
                     "Description": "icon bug fix"
+                },
+                {
+                    "Version": "1.3",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.GenshinCC_Remastered-1.3.misaka",
+                    "Description": "toggle bug fix"
                 }
             ],
             "PackageID": "com.straight-tamago.GenshinCC_Remastered"
