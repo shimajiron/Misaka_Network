@@ -320,6 +320,29 @@
                 }
             ],
             "PackageID": "com.straight-tamago.GenshinCC_Remastered"
+        },
+        {
+            "Name": "おにまいLock+Sakura",
+            "Description": "OnimaiLock+Sakura",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "Kumiki"
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/931433207423971358/1101485052321341581/IMG_0680.jpg",
+            "HeaderImage": null,
+            "Category": null,
+            "Caption": "お兄ちゃんはおしまい！",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/1079878178035736656/1101486161727328266/MhpE1Ac.jpg"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1079878178035736656/1101481750917546035/com.Kumiki.LockOnimai_SakuraPlus.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.Kumiki.LockOnimai_SakuraPlus"
         }
     ]
 }
