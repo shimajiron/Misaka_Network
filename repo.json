@@ -340,6 +340,11 @@
                     "Version": "1.0",
                     "Package": "https://cdn.discordapp.com/attachments/1079878178035736656/1101481750917546035/com.Kumiki.LockOnimai_SakuraPlus.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "1.1",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.Kumiki.LockOnimai_SakuraPlus-1.1.misaka",
+                    "Description": null
                 }
             ],
             "PackageID": "com.Kumiki.LockOnimai_SakuraPlus"
