@@ -345,6 +345,11 @@
                     "Version": "1.1",
                     "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.Kumiki.LockOnimai_SakuraPlus-1.1.misaka",
                     "Description": null
+                },
+                {
+                    "Version": "1.2",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.Kumiki.LockOnimai_SakuraPlus-1.2.misaka",
+                    "Description": null
                 }
             ],
             "PackageID": "com.Kumiki.LockOnimai_SakuraPlus"
