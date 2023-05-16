@@ -1,7 +1,38 @@
 {
   "Update": "2023/04/24 15:48(UTC)",
-  "Tweaks": [
-
+  "Tweaks": [  
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.novulntools2"
+    },
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.mariolock"
+    },
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.androidlock"
+    },
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.frostedui"
+    },
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.fontmanager"
+    },
+        {
+      "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
+      "PackageID": "www.iwishkem.tk.iOS16Clock_1"
+    },
+    {
+      "RepositoryURL": "https://github.com/Fomri/fomrirepo/raw/main/repo.json",
+      "PackageID": "com.fomri.Whitelist"
+    },
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.soundmanager"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
       "PackageID": "com.yangjiii.plampyuicc"
@@ -219,18 +250,6 @@
     {
       "RepositoryURL": "https://puck.roeegh.dev/repo.json",
       "PackageID": "dev.roeegh.NotificationColor"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
-      "PackageID": "com.hn.sfredit"
-    },
-    {
-      "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
-      "PackageID": "www.iwishkem.tk.Legacy48"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
-      "PackageID": "com.fomri.NFC16"
     }
   ]
 }
