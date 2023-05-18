@@ -2,6 +2,10 @@
   "Update": "2023/05/16 14:48(UTC)",
   "Tweaks": [  
         {
+      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
+      "PackageID": "com.yangjiii.messengersoundsbeta1.0"
+    },
+        {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.carplaywp"
     },
