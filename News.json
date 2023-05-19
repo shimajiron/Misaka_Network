@@ -218,55 +218,6 @@
       "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
       "PackageID": "com.fomri.CameraTXT15"
   },
-  {
-      "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
-      "PackageID": "com.fomri.PingPong"
-  },
-  {
-      "RepositoryURL": "https://raw.githubusercontent.com/Fomri/fomrirepo/main/repo.json",
-      "PackageID": "com.fomri.SC"
-  },
-  {
-    "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
-    "PackageID": "com.epos.paint"
-  },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-      "PackageID": "com.yangjiii.oneuilsui"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-      "PackageID": "com.yangjiii.icecream"
-    },
-    {
-      "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
-      "PackageID": "www.iwishkem.tk.iOS16Clock_1"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
-      "PackageID": "com.epos.retake15"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
-      "PackageID": "com.epos.exciter"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
-      "PackageID": "com.epos.compile"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
-      "PackageID": "com.epos.gradient"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
-      "PackageID": "com.epos.quicksand"
-    },
-    {
-      "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
-      "PackageID": "www.iwishkem.tk.LegacyCandy"
-    },
-
     {
       "RepositoryURL": "https://puck.roeegh.dev/repo.json",
       "PackageID": "dev.roeegh.NotificationColor"
