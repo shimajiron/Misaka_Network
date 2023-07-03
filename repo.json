@@ -359,7 +359,13 @@
             "Description": "Change calculator error message",
             "MaxIOSVersion": "16.1.2",
             "Author": {
-                "Label": "LeminLimez"
+                "Label": "LeminLimez",
+              "Links": [
+                  {
+                      "Label": "LeminLimez",
+                      "Link": "https://github.com/leminlimez"
+                  }
+              ]
             },
             "Icon": null,
             "HeaderImage": null,
