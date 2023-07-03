@@ -357,6 +357,7 @@
         {
             "Name": "Calculator Error Message",
             "Description": "Change calculator error message",
+            "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "LeminLimez",
