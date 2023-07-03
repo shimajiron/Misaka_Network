@@ -5,22 +5,18 @@
       "PackageID": "com.fomri.Whitelist"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "jp.ChromiumCandy.AP-WP"
-    },
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.gradient"
+    },   
     {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
-      "PackageID": "com.epos.moderncc"
+      "PackageID": "com.epos.doublebubblesettings"
     },
   ],
-  "HeaderTweaks": [
+  "HeaderTweaks": [    
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-      "PackageID": "com.straight-tamago.ColorCC"
-    },
-    {
-      "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
-      "PackageID": "www.iwishkem.tk.Clockonike"
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.frostedui"
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
@@ -29,31 +25,34 @@
     {
       "RepositoryURL": "https://raw.githubusercontent.com/ichitaso/misaka/main/repo.json",
       "PackageID": "com.ichitaso.iphonex-respring"
+    },
+    {
+      "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
+      "PackageID": "www.iwishkem.tk.Catolock"
     }
-    
     
     
   ],
   "TopTweaks": [
-      {
-          "RepositoryURL": "https://puck.roeegh.com/repo.json",
-          "PackageID": "dev.roeegh.NotificationShadow"
-        },
-        {
-          "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-          "PackageID": "jp.ChromiumCandy.Anti-F-OTA"
-        },
-        {
-          "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
-          "PackageID": "com.hn.sfredit"
-        },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.frostedui"
+    },    
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.appcc"
+    },    
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.novulntools2"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
       "PackageID": "com.yangjiii.plampyuicc"
-    },
+    },   
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
-      "PackageID": "com.coolwcat.lock_win10"
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.fontmanager"
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
@@ -61,14 +60,12 @@
     
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "jp.fall20c.Spoofy"
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.gradient"
     },
-    
     {
-      "RepositoryURL": "https://dekotas.org/repo.json",
-      "PackageID": "com.L95vz.mariocoin"
+      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+      "PackageID": "com.hackzy.meloso"
     }
-    
   ]
 }
