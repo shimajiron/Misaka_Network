@@ -353,6 +353,27 @@
                 }
             ],
             "PackageID": "com.Kumiki.LockOnimai_SakuraPlus"
+        },
+        {
+            "Name": "Calculator Error Message",
+            "Description": "Change calculator error message",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "LeminLimez"
+            },
+            "Icon": null,
+            "HeaderImage": null,
+            "Category": null,
+            "Caption": null,
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1074814283751370783/1096452364359184394/Calculator_Error_Message.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.leemin.calculator_error_message"
         }
     ]
 }
