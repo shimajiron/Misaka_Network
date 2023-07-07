@@ -27,7 +27,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/1079878178035736656/1090199030388244530/FE89AB07-0D26-4E7F-BDF5-B487038F0192.jpg",
             "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1090202250049224724/007441E9-0C6A-4EEB-8F0E-69B83F44C478.jpg",
-            "Category": null,
+            "Category": "SpringBoard",
             "Caption": "Hide Homebar (ホームバーを非表示にします。)",
             "Screenshot": null,
             "Releases": [
@@ -56,7 +56,7 @@
                 ]
             },
             "Icon": null,
-            "Category": null,
+            "Category": "SpringBoard",
             "Caption": "Change Dock Color (Dockの色を変更します。)",
             "Screenshot": null,
             "Releases": [
@@ -85,7 +85,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1080122575834857573/736F035A-4D1B-4D75-B3A6-6DC8FA513178.png",
-            "Category": null,
+            "Category": "SpringBoard",
             "Caption": "Change Module and Background colors (モジュールと背景の色を変更します。)",
             "Screenshot": null,
             "Releases": [
@@ -115,7 +115,7 @@
                 ]
             },
             "Icon": null,
-            "Category": "Change LS Light & Camera UI (ロックスクリーンの下にあるボタンのデザイン)",
+            "Category":  "SpringBoard",
             "Caption": null,
             "Screenshot": null,
             "Releases": [
@@ -141,7 +141,7 @@
                 ]
             },
             "Icon": null,
-            "Category": null,
+            "Category": "Sound",
             "Caption": "Change dial sound to piano (ダイアル音をピアノにするよ)",
             "Screenshot": null,
             "Releases": [
@@ -167,7 +167,7 @@
                 ]
             },
             "Icon": null,
-            "Category": null,
+            "Category": "Settings",
             "Caption": "システムをInternalモードに設定",
             "Screenshot": null,
             "Releases": [
@@ -192,7 +192,7 @@
                 ]
             },
             "Icon": null,
-            "Category": null,
+            "Category": "Control Center",
             "Caption": "別途RespringCCをインストールしておく必要あり",
             "Screenshot": null,
             "Releases": [
@@ -217,7 +217,7 @@
                 ]
             },
             "Icon": null,
-            "Category": null,
+            "Category": "SpringBoard",
             "Caption": "Change the strings for beta alerts and low battery alerts.",
             "Screenshot": null,
             "Releases": [
@@ -251,7 +251,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/1078899188609319024/1078903220648288416/IMG_1521.jpg",
-            "Category": null,
+            "Category": "Control Center",
             "Caption": "Add Shazam module before using",
             "Screenshot": [
                 "https://pbs.twimg.com/media/FsqvyXKaMAAiTWs?format=jpg&name=large"
@@ -330,7 +330,7 @@
             },
             "Icon": "https://cdn.discordapp.com/attachments/931433207423971358/1101485052321341581/IMG_0680.jpg",
             "HeaderImage": null,
-            "Category": null,
+            "Category": "Lock Screen",
             "Caption": "お兄ちゃんはおしまい！",
             "Screenshot": [
                 "https://cdn.discordapp.com/attachments/1079878178035736656/1101486161727328266/MhpE1Ac.jpg"
