@@ -85,7 +85,7 @@
                 ]
             },
             "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1080122575834857573/736F035A-4D1B-4D75-B3A6-6DC8FA513178.png",
-            "Category": "SpringBoard",
+            "Category": "Control Center",
             "Caption": "Change Module and Background colors (モジュールと背景の色を変更します。)",
             "Screenshot": null,
             "Releases": [
@@ -98,7 +98,7 @@
             "PackageID": "com.straight-tamago.ColorCC"
         },
         {
-            "Name": "LockScreen Icons",
+            "Name": "LS UI",
             "Description": "Change LS UI (ロックスクリーンの下にあるボタンのデザイン)",
             "Author": {
                 "Label": "Coolwcat & しまじろん",
@@ -115,7 +115,7 @@
                 ]
             },
             "Icon": null,
-            "Category":  "SpringBoard",
+            "Category":  "Lock Screen",
             "Caption": null,
             "Screenshot": null,
             "Releases": [
