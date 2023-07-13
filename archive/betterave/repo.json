@@ -2,10 +2,10 @@
     "RepositoryName": "Betterave",
     "RepositoryDescription": "A repo made by you [Please read first package description]",
     "RepositoryAuthor": "c22dev",
-    "RepositoryIcon": "https://i.ibb.co/0Z8KpH3/betterave.png",
+    "RepositoryIcon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/Images/betterave.png",
     "RepositoryWebsite": "betterave.me",
     "Default": {
-        "HeaderImage": "https://i.imgur.com/NL4O93e.jpg",
+        "HeaderImage": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/Images/NL4O93e.jpg",
         "ViewCount": true
     },
     "RepositoryContents": [
@@ -21,7 +21,7 @@
                     }
                 ]
             },
-            "Icon": "https://i.ibb.co/jDhTMqk/camera-macro-10x-min.png",
+            "Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/Images/camera-macro-10x-min.png",
             "Category": "Betterave Info",
             "Caption": "As of the 1st of August, nobody will be able to upload any package to Betterave anymore. Why ? Well, there is 2 reasons ; nobody is uploading anything to it, the last 5 uploads were some videos or mp3s that are 500Mo each, and that the domain cost me (I will definitly use this domain for another project). Thanks a lot, misaka users ! I'll maybe upload a mirror on github or something so you still can get access to it.",
             "Screenshot": null,
@@ -46,14 +46,14 @@
                     }
                 ]
             },
-            "Icon": "https://static.wikia.nocookie.net/ipod/images/9/9c/Screen_Time.png/revision/latest?cb=20201123214027",
+            "Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/Images/Screen_Time.png",
             "Category": "Freedom",
             "Caption": "Definitive ScreenTime remover",
             "Screenshot": null,
             "Releases": [
                 {
                     "Version": "0.1",
-                    "Package": "http://betterave.me/files/ByeTime.misaka",
+                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/misaka/ByeTime.misaka",
                     "Description": null
                 }
             ],
@@ -71,14 +71,14 @@
                     }
                 ]
             },
-            "Icon": "https://cdn.discordapp.com/attachments/772713535464800266/1092065993544716309/IMG_1265.JPG",
+            "Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/Images/IMG_1265.JPG",
             "Category": "No Category ",
             "Caption": "Change the name model of your phone to iPhone 14 Pro",
             "Screenshot": null,
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "http://betterave.c22code.repl.co/files/iPhone_14_Pro.misaka",
+                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/misaka/iPhone_14_Pro.misaka",
                     "Description": null
                 }
             ],
@@ -96,14 +96,14 @@
                     }
                 ]
             },
-            "Icon": "https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/132703-1-1_large.jpg",
+            "Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/Images/132703-1-1_large.jpg",
             "Category": "Settings",
             "Caption": "Change model name to Samsung Galaxy S22",
             "Screenshot": null,
             "Releases": [
                 {
                     "Version": "3.2",
-                    "Package": "http://betterave.c22code.repl.co/files/SamsungGalaxyS22.misaka",
+                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/misaka/SamsungGalaxyS22.misaka",
                     "Description": null
                 }
             ],
@@ -121,14 +121,14 @@
                     }
                 ]
             },
-            "Icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/1200px-2048_logo.svg.png",
+            "Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/Images/1200px-2048_logo.svg.png",
             "Category": "Games",
             "Caption": "Play 2048 on your settings\r\n\r\nSettings -> General -> Legal -> Legal",
             "Screenshot": null,
             "Releases": [
                 {
                     "Version": "0.1",
-                    "Package": "http://betterave.c22code.repl.co/files/www.iwishkem.Legacy48.misaka",
+                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/misaka/www.iwishkem.Legacy48.misaka",
                     "Description": null
                 }
             ],
@@ -146,14 +146,14 @@
                     }
                 ]
             },
-            "Icon": "https://cdn.discordapp.com/attachments/1037347178198351942/1097842905017749514/IMG_1375.png",
+            "Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/Images/IMG_1375.png",
             "Category": "System",
             "Caption": "Turn on the system performance monitor,you need to keep this file in background",
             "Screenshot": null,
             "Releases": [
                 {
                     "Version": "2.1",
-                    "Package": "http://betterave.c22code.repl.co/files/Performence Monitor.misaka",
+                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/misaka/Performence Monitor.misaka",
                     "Description": null
                 }
             ],
@@ -171,14 +171,14 @@
                     }
                 ]
             },
-            "Icon": "https://cdn.discordapp.com/attachments/1091689246479372359/1100752714587181066/IMG_1375.png",
+            "Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/Images/IMG_1375.png",
             "Category": "System",
             "Caption": "Turn on system performance monitor",
             "Screenshot": null,
             "Releases": [
                 {
                     "Version": "1.3",
-                    "Package": "http://betterave.c22code.repl.co/files/PerformenceMonitor16.misaka",
+                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/archive/betterave/misaka/PerformenceMonitor16.misaka",
                     "Description": null
                 }
             ],
