@@ -10,6 +10,36 @@
     },
     "RepositoryContents": [
         {
+            "Name": "ふい字",
+            "Description": "HuiFont",
+            "Author": {
+                "Label": "straight-tamago",
+                "Links": [
+                    {
+                        "Label": "straight-tamago",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+                    {
+                        "Label": "HuiFont",
+                        "Link": "https://hp.vector.co.jp/authors/VA039499/"
+                    }
+                ]
+            },
+            "Icon": "https://media.discordapp.net/attachments/1108417213972631635/1130514916831408148/IMG_0017.jpg",
+            "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1090202250049224724/007441E9-0C6A-4EEB-8F0E-69B83F44C478.jpg",
+            "Category": "SpringBoard",
+            "Caption": "HuiFont",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/huifont.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.HuiFont"
+        },
+        {
             "Name": "Disable Homebar",
             "Description": "Hide Homebar (ホームバーを非表示にします。)",
             "Author": {
