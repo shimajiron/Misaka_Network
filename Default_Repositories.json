@@ -27,14 +27,24 @@
         "https://github.com/Fomri/fomrirepo/raw/main/repo.json",
         "https://tweakrain.tk/repos/misaka/misaka.json",
         "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
-        "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/repo.json",
         "https://www.iwishkem.tk/misaka.json",
         "https://raw.githubusercontent.com/tdquang266/MDC/main/repo.json" ,
-        "https://raw.githubusercontent.com/hanabiADHD/DekotasMirror/main/dekotas.json",
         "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
         "https://raw.githubusercontent.com/kloytofyexploiter/Misaka-repo_MRX/main/repo.json",
         "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
         "https://shinymew.xyz/repo.json"
+      ]
+    },
+    {
+      "Section": "Backup",
+      "Repositories": [
+        "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/repo.json"
+      ]
+    },
+    {
+      "Section": "Mirror",
+      "Repositories": [
+        "https://raw.githubusercontent.com/hanabiADHD/DekotasMirror/main/dekotas.json"
       ]
     }
   ]
