@@ -57,6 +57,11 @@
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.appcc"
     },
+    
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/dobabaophuc1706/misakarepo/main/Repo/repo.json",
+      "PackageID": "com.dobabaophuc.controlcenter1_6"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.frostedui"
