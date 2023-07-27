@@ -38,7 +38,7 @@
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/huifont-1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/com.straight-tamago.HuiFont-1.1.misaka",
                     "Description": "字数が増えました"
                 }
             ],
