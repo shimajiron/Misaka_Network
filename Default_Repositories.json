@@ -2,7 +2,6 @@
     {
       "Section": "Official",
       "Repositories": [
-        "https://betterave.c22code.repl.co/repo",
         "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json"
       ]
     },
