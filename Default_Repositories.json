@@ -44,7 +44,8 @@
     {
       "Section": "Mirror",
       "Repositories": [
-        "https://raw.githubusercontent.com/hanabiADHD/DekotasMirror/main/dekotas.json"
+        "https://raw.githubusercontent.com/hanabiADHD/DekotasMirror/main/dekotas.json",
+        "https://gist.githubusercontent.com/c22dev/af8dd3a760330eb31da5f8751af1b487/raw/6eb744fabc6eb0eb3352ce41c9a08ce5c38c4e6a/index.json"
       ]
     }
   ]
