@@ -1,0 +1,110 @@
+{
+  "Main": [
+      {
+        "Name": "straight-tamago",
+        "Image": "https://github.com/straight-tamago.png",
+        "Contribution": "Dev",
+        "Link": "https://twitter.com/straight_tamago",
+      },
+      {
+        "Name": "uz.ra",
+        "Image": "https://github.com/uz-ra.png",
+        "Contribution": "UI Designer",
+        "Link": "https://twitter.com/ChromiumCandy",
+      },
+      {
+        "Name": "LeminLimez",
+        "Image": "https://github.com/straight-tamago.png",
+        "Contribution": "Settings Page",
+        "Link": "https://twitter.com/LeminLimez",
+      },
+      {
+        "Name": "haxi0sm",
+        "Image": "https://github.com/haxi0.png",
+        "Contribution": "Icon Design & Featured Page",
+        "Link": "https://twitter.com/haxi0sm",
+      },
+      {
+        "Name": "Serena",
+        "Image": "https://github.com/SerenaKit.png",
+        "Contribution": ".car filemethod",
+        "Link": "https://twitter.com/CoreSerena",
+      },
+      {
+        "Name": "hrtowii",
+        "Image": "https://github.com/hrtowii.png",
+        "Contribution": "KFD Exploit Code",
+        "Link": "https://twitter.com/htrowii",
+      },
+      {
+        "Name": "zhuowei",
+        "Image": "https://github.com/zhuowei.png",
+        "Contribution": "MDC Exploit Code",
+        "Link": "https://twitter.com/zhuowei",
+      },
+      {
+        "Name": "ginsudev",
+        "Image": "https://github.com/ginsudev.png",
+        "Contribution": "MDC Exploit Code",
+        "Link": "https://twitter.com/ginsudev",
+      },
+      {
+        "Name": "WDBFontOverwrite",
+        "Contribution": "MDC Exploit Code",
+        "Link": "https://github.com/ginsudev/WDBFontOverwrite",
+      },
+      {
+        "Name": "Ian Beer of Project Zero",
+        "Contribution": "CVE-2022-46689",
+        "Link": "https://twitter.com/i41nbeer",
+      }
+  ],
+  "PrivateTester": [
+      {
+        "Name": "roeegh",
+        "Image": "https://github.com/roeegh.png",
+        "Contribution": "Repository & Tweaks",
+        "Link": "https://twitter.com/roeegh",
+      },
+      {
+        "Name": "Coolwcat",
+        "Image": "xxxxxxxxxxxxxx",
+        "Contribution": "Repository & Tweaks",
+        "Link": "https://twitter.com/coolwcat",
+      },
+      {
+        "Name": "Little 34306",
+        "Image": "https://github.com/34306.png",
+        "Contribution": "Repository & Tweaks",
+        "Link": "https://twitter.com/Little_34306",
+      },
+      {
+        "Name": "ichitaso",
+        "Image": "https://github.com/ichitaso.png",
+        "Contribution": "Repository & Tweaks",
+        "Link": "https://twitter.com/ichitaso",
+      },
+      {
+        "Name": "YangJiii",
+        "Contribution": "Repository & Tweaks",
+        "Link": "https://twitter.com/duongduong0908",
+      },
+      {
+        "Name": "Little 34306",
+        "Image": "https://github.com/34306.png",
+        "Contribution": "Repository & Tweaks",
+        "Link": "https://twitter.com/Little_34306",
+      },
+      {
+        "Name": "fall20c",
+        "Contribution": "Tweaks",
+        "Link": "https://twitter.com/fall20c",
+      },
+      {
+        "Name": "Sugiuta",
+        "Image": "https://github.com/sugiuta.png",
+        "Contribution": "Repository & Tweaks",
+        "Link": "https://github.com/sugiuta",
+      }
+  ]
+}      
