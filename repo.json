@@ -413,7 +413,8 @@
                     "Description": null
                 }
             ],
-            "PackageID": "com.Kumiki.LockOnimai_SakuraPlus"
+            "PackageID": "com.Kumiki.LockOnimai_SakuraPlus",
+            "VarLess": true
         },
         {
             "Name": "Calculator Error Message",
