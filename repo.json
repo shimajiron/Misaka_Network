@@ -10,6 +10,32 @@
     },
     "RepositoryContents": [
         {
+            "Name": "LINE Notify",
+            "Description": "LINEの通知音、着信音を変更します。",
+            "Author": {
+                "Label": "straight-tamago",
+                "Links": [
+                    {
+                        "Label": "straight-tamago",
+                        "Link": "https://twitter.com/straight_tamago"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1136193386479632424/image0.jpg",
+            "HeaderImage": null,
+            "Category": "Sound",
+            "Caption": "LINEの通知音、着信音を好きな物に変更できます。",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.LINENotify-1.0.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.LINE_Notify"
+        },
+        {
             "Name": "ふい字",
             "Description": "HuiFont",
             "Author": {
