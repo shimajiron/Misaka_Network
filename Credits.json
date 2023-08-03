@@ -1,7 +1,7 @@
 [
     {
         "Section": "Main",
-        "Content": [
+        "Contents": [
             {
                 "Name": "straight-tamago",
                 "Image": "https://github.com/straight-tamago.png",
@@ -64,7 +64,7 @@
     },
     {
         "Section": "",
-        "Content": [
+        "Contents": [
             {
                 "Name": "roeegh",
                 "Image": "https://github.com/roeegh.png",
