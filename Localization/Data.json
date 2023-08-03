@@ -2,55 +2,68 @@
   "Localization": [
     {
       "code": "ar",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/ar.json"
     },
     {
       "code": "ca",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/ca.json"
     },
     {
       "code": "cs",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/cs.json"
     },
     {
       "code": "de",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/de.json"
     },
     {
       "code": "es",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/es.json"
     },
     {
       "code": "fr",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/fr.json"
     },
     {
       "code": "he",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/he.json"
     },
     {
       "code": "ja",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/ja.json"
     },
     {
       "code": "pl",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/pl.json"
     },
     {
       "code": "ro",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/ro.json"
     },
     {
       "code": "sk",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/sk.json"
     },
     {
       "code": "vi",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/vi.json"
     },
     {
       "code": "zh-CN",
-      "version": 1.0
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/zh-CN.json"
     }
   ]
 }
