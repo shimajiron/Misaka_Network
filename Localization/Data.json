@@ -56,6 +56,11 @@
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/ro.json"
     },
     {
+      "code": "ru",
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/ru.json"
+    },
+    {
       "code": "sk",
       "version": 1.0,
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/sk.json"
