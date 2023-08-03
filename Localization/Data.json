@@ -1,0 +1,56 @@
+{
+  "Localization": [
+    {
+      "code": "ar",
+      "version": 1.0
+    },
+    {
+      "code": "ca",
+      "version": 1.0
+    },
+    {
+      "code": "cs",
+      "version": 1.0
+    },
+    {
+      "code": "de",
+      "version": 1.0
+    },
+    {
+      "code": "es",
+      "version": 1.0
+    },
+    {
+      "code": "fr",
+      "version": 1.0
+    },
+    {
+      "code": "he",
+      "version": 1.0
+    },
+    {
+      "code": "ja",
+      "version": 1.0
+    },
+    {
+      "code": "pl",
+      "version": 1.0
+    },
+    {
+      "code": "ro",
+      "version": 1.0
+    },
+    {
+      "code": "sk",
+      "version": 1.0
+    },
+    {
+      "code": "vi",
+      "version": 1.0
+    },
+    {
+      "code": "zh-CN",
+      "version": 1.0
+    }
+  ]
+}
