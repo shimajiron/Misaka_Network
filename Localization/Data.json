@@ -36,6 +36,11 @@
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/he.json"
     },
     {
+      "code": "id",
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/id.json"
+    },
+    {
       "code": "ja",
       "version": 1.1,
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/ja.json"
