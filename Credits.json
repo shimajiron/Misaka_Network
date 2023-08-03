@@ -112,5 +112,76 @@
                 "Link": "https://github.com/sugiuta"
             }
         ]
+    },
+    {
+        "Section": "",
+        "Contents": [
+            {
+                "Name": "Moh#5518",
+                "Image": "",
+                "Contribution": "ar",
+                "Link": "https://twitter.com/l95vz?s=11&t=DmwCmmRZlpmNttIj0m4FhA"
+            },
+            {
+                "Name": "Gury",
+                "Image": "",
+                "Contribution": "cs & sk",
+                "Link": "https://www.instagram.com/sam_gury"
+            },
+            {
+                "Name": "1421rubano",
+                "Image": "",
+                "Contribution": "ca & es",
+                "Link": "https://twitter.com/1421rubano"
+            },
+            {
+                "Name": "Tomi",
+                "Image": "",
+                "Contribution": "de",
+                "Link": "https://twitter.com/t0mi292"
+            },
+            {
+                "Name": "adelmehenni4",
+                "Image": "",
+                "Contribution": "fr",
+                "Link": "https://twitter.com/adelmehenni4"
+            },
+            {
+                "Name": "Fomri#3272",
+                "Image": "",
+                "Contribution": "he",
+                "Link": ""
+            },
+            {
+                "Name": "straight-tamago",
+                "Image": "https://github.com/straight-tamago.png",
+                "Contribution": "ja",
+                "Link": "https://mobile.twitter.com/straight_tamago"
+            },
+            {
+                "Name": "Outland3r2007",
+                "Image": "",
+                "Contribution": "ro",
+                "Link": "https://twitter.com/outland3r2007?s=21&t=CwkxYobtGgN-cGEJlPGigw"
+            },
+            {
+                "Name": "YangJiii",
+                "Image": "",
+                "Contribution": "vi",
+                "Link": "https://twitter.com/duongduong0908"
+            },
+            {
+                "Name": "jbjf#1431",
+                "Image": "",
+                "Contribution": "zh-CN",
+                "Link": "https://twitter.com/yang_niubi"
+            },
+            {
+                "Name": "Tuchan",
+                "Image": "https://github.com/Tuchan.png",
+                "Contribution": "pl",
+                "Link": "https://tuchan.fun/"
+            }
+        ]
     }
 ]
