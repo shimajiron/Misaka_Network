@@ -1,6 +1,6 @@
 [
     {
-        "Section": "Main",
+        "Section": "Credit",
         "Contents": [
             {
                 "Name": "straight-tamago",
@@ -16,7 +16,7 @@
             },
             {
                 "Name": "LeminLimez",
-                "Image": "https://github.com/straight-tamago.png",
+                "Image": "https://pbs.twimg.com/profile_images/1183729389831409664/N91bDhQU_400x400.jpg",
                 "Contribution": "Settings Page",
                 "Link": "https://twitter.com/LeminLimez"
             },
@@ -40,7 +40,7 @@
             },
             {
                 "Name": "zhuowei",
-                "Image": "https://github.com/zhuowei.png",
+                "Image": "https://pbs.twimg.com/profile_images/1801896736/twitteravatar_400x400.png",
                 "Contribution": "MDC Exploit Code",
                 "Link": "https://twitter.com/zhuowei"
             },
@@ -73,7 +73,7 @@
             },
             {
                 "Name": "Coolwcat",
-                "Image": "xxxxxxxxxxxxxx",
+                "Image": "https://pbs.twimg.com/profile_images/1453287292580376593/DV7x6l-H_400x400.jpg",
                 "Contribution": "Repository & Tweaks",
                 "Link": "https://twitter.com/coolwcat"
             },
@@ -91,6 +91,7 @@
             },
             {
                 "Name": "YangJiii",
+                "Image": "https://pbs.twimg.com/profile_images/1680409140408221696/2EAEtZY8_400x400.jpg",
                 "Contribution": "Repository & Tweaks",
                 "Link": "https://twitter.com/duongduong0908"
             },
@@ -102,6 +103,7 @@
             },
             {
                 "Name": "fall20c",
+                "Image": "https://pbs.twimg.com/profile_images/1634357393701355521/UpGoJa0g_400x400.jpg",
                 "Contribution": "Tweaks",
                 "Link": "https://twitter.com/fall20c"
             },
@@ -114,7 +116,7 @@
         ]
     },
     {
-        "Section": "",
+        "Section": "Translaters",
         "Contents": [
             {
                 "Name": "Moh#5518",
