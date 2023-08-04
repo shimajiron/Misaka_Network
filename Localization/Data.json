@@ -1,6 +1,11 @@
 {
   "Localization": [
     {
+      "code": "en (DLC)",
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/en.json"
+    },
+    {
       "code": "ar",
       "version": 1.0,
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/ar.json"
