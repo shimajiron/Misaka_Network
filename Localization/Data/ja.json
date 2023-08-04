@@ -74,7 +74,7 @@
   "Too many files or folders! Canceled copying because it may be overloaded and harm your device.": "ファイルまたはフォルダが多すぎます。オーバーロードしてデバイスに損害を与える可能性があるため、処理を中断しました。",
   "Changing /private/preboot causes a boot loop": "/private/preboot を変更するとブートループが発生する",
   "Privacy Policy": "プライバシーポリシー",
-  "News": "ニュース",
+  "News": "最新リリース",
   "Add to Source": "追加",
   "Keep Files in Background": "バックグラウンド状態維持",
   "Status Bar Indicator": "ステータスバーインジケーター",
