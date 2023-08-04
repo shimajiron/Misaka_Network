@@ -1,14 +1,14 @@
 We record IP addresses when collecting usage statistics (such as downloads and views) collected through the app. However, IP addresses are stored hashed.
 
-In addition, the following terminal information may also be recorded
-・Model
-・ios version
-・Build number
-
 The collected information is used for the following purposes.
 ・iPhone Model
 ・iOS Version
 ・Build Number
+
+The collected information is used for the following purposes.
+・Improvement of the app
+・Resolving problems in service provision
+・Analysis of application usage
 
 We will not provide the information we collect to third parties unless we are ordered or required to do so by law.
 
