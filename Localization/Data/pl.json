@@ -71,7 +71,7 @@
   "incomplete file": "Niekompletny plik",
   "Name is empty": "Nazwa jest pusta",
   "Too many files or folders! Canceled copying because it may be overloaded and harm your device.": "Zbyt wiele plików lub folderów! Kopiowanie anulowane, ponieważ może przeciążyć i zaszkodzić urządzeniu.",
-  "Changing /private/preboot causes a boot loop": "Zmienianie /private/preboot powoduje pętlę uruchamiania (Boot loop)"
+  "Changing /private/preboot causes a boot loop": "Zmienianie /private/preboot powoduje pętlę uruchamiania (Boot loop)",
   "Privacy Policy": "Polityka Prywatności",
   "News": "Nowości",
   "Add to Source": "Dodaj do źródła",
@@ -84,5 +84,5 @@
   "Color Settings": "Ustawienia kolorów",
   "Forced Restore & OFF": "Wymuś przywrócenie i wył.",
   "Clear Cache": "Wyczyść Pamięć Podręczną",
-  "App Language": "Język aplikacji",
+  "App Language": "Język aplikacji"
 }
