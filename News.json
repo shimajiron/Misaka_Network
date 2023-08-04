@@ -1,6 +1,10 @@
 {
     "Update": "2023/08/01 22:22(UTC)",
-    "Tweaks": [
+    "Tweaks": [  
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
+      "PackageID": "com.yangjiii.dynamicisland"
+    },
             {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.sushikiclock15"
