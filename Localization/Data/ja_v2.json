@@ -11,9 +11,11 @@
   "You must update to the latest version to continue using": "引き続き使用するには、最新バージョンに更新する必要があります",
   "Agree": "同意",
   "Disagree": "拒否",
+  "OK": "はい",
   
   "Check Updates": "アップデート確認",
   "Update Available": "アップデートが利用可能です",
+  "No Update found": "既に最新バージョンです",
   "Do you want to download the update from GitHub?": "GitHubに移動してアップデートを入手しますか？",
   "Developer Mode": "開発者モード",
   "Device Language": "デバイスの言語",
