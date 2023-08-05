@@ -51,6 +51,11 @@
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/ja.json"
     },
     {
+      "code": "ja_v2",
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/ja_v2.json"
+    },
+    {
       "code": "ko",
       "version": 1.0,
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/ko.json"
