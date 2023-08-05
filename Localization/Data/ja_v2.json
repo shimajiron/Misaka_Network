@@ -102,6 +102,17 @@
   "Incomplete file": "ファイルが破損しています",
   "Successfully Imported": "インポート完了",
   "Useful Tools": "便利機能",
+
+  "Base": "ベース",
+  "Text": "テキスト",
+  "Shadow": "影",
+  "Common": "共通",
+  "Blur": "ぼかし",
+  "App": "アプリ",
+  "Background": "壁紙",
+  "None": "なし",
+  "Gradient": "",
+  "Image": "画像",
   
   "en (Bundle)": "en (バンドル)",
   "is": "アイスランド語",
