@@ -1,3 +1,22 @@
 {
-  "Springboard": "SpringBoard"
+  "Springboard": "SpringBoard",
+    "App Custom": "App",
+      "App customizer": "App",
+      "Betterave Info": "No Category",
+      "CC Stuff": "Control Center Layouts",
+        "CC Layouts": "Control Center Layouts",
+        "Cellular": "SpringBoard",
+          "Device": "SpringBoard",
+            "Font": "Fonts",
+              "Freedom": "Font",
+                "Game": "Games",
+                  "Lock": "Lock Screen",
+                    "LockScreen": "Lock Screen",
+                      "No Category": "Other",
+                        "Passcode": "Passcode Theme",
+                          "Setting": "Settings",
+                            "Settings Customize": "Settings",
+                              "Sounds": "Sound",
+                                "Theme": "Settings",           
+  "Tweaks": "Other"
 }
