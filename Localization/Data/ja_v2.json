@@ -5,6 +5,8 @@
   "Packages": "パッケージ",
   "Create": "作成",
   "Settings": "設定",
+
+  "This version of iOS is not supported.": "このバージョンのiOSはサポートされていません。",
   
   "Check Updates": "アップデート確認",
   "Update Available": "アップデートが利用可能です",
