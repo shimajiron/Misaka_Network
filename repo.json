@@ -29,7 +29,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.LINENotify-1.0.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.LINENotify-1.0.misaka",
                     "Description": null
                 }
             ],
@@ -59,12 +59,12 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/huifont.misaka",
+                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/huifont.misaka",
                     "Description": null
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/com.straight-tamago.HuiFont-1.1.misaka",
+                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/com.straight-tamago.HuiFont-1.1.misaka",
                     "Description": "字数が増えました"
                 }
             ],
@@ -94,7 +94,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.Disable_Homebar.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.Disable_Homebar.misaka",
                     "Description": "misaka形式に"
                 }
             ],
@@ -182,7 +182,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.LockScreenIcons.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.LockScreenIcons.misaka",
                     "Description": null
                 }
             ],
@@ -208,7 +208,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.DialSound_Piano.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.DialSound_Piano.misaka",
                     "Description": "misaka形式に"
                 }
             ],
@@ -234,7 +234,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.Enable_Internal.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.Enable_Internal.misaka",
                     "Description": "misaka形式に"
                 }
             ],
@@ -259,7 +259,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.RespringCC_Shortcut.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.RespringCC_Shortcut.misaka",
                     "Description": "misaka形式に"
                 }
             ],
@@ -284,12 +284,12 @@
             "Releases": [
                 {
                     "Version": "1.1",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.SpringAlert.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.SpringAlert.misaka",
                     "Description": null
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.SpringAlert_1.2.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.SpringAlert_1.2.misaka",
                     "Description": "all lang"
                 }
             ],
@@ -325,17 +325,17 @@
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.CCWP-1.1.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.CCWP-1.1.misaka",
                     "Description": "FilePicker Support"
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.CCWP-1.2.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.CCWP-1.2.misaka",
                     "Description": "ImagePicker Support"
                 },
                 {
                     "Version": "1.2.1",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.CCWP-1.2.1.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.CCWP-1.2.1.misaka",
                     "Description": null
                 }
             ],
@@ -366,17 +366,17 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.GenshinCC_Remastered.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.GenshinCC_Remastered.misaka",
                     "Description": null
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.GenshinCC_Remastered-1.1.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.GenshinCC_Remastered-1.1.misaka",
                     "Description": "icon bug fix"
                 },
                 {
                     "Version": "1.3",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.straight-tamago.GenshinCC_Remastered-1.3.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.GenshinCC_Remastered-1.3.misaka",
                     "Description": "toggle bug fix"
                 }
             ],
@@ -404,12 +404,12 @@
                 },
                 {
                     "Version": "1.1",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.Kumiki.LockOnimai_SakuraPlus-1.1.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.Kumiki.LockOnimai_SakuraPlus-1.1.misaka",
                     "Description": null
                 },
                 {
                     "Version": "1.2",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/com.Kumiki.LockOnimai_SakuraPlus.misaka",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.Kumiki.LockOnimai_SakuraPlus.misaka",
                     "Description": null
                 }
             ],
