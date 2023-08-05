@@ -15,8 +15,12 @@
                       "No Category": "Other",
                         "Passcode": "Passcode Theme",
                           "Setting": "Settings",
+                            "settings": "Settings",
                             "Settings Customize": "Settings",
                               "Sounds": "Sound",
+                                "sound": "Sound",
+                                  "look": "Lock Screen",
+                                  "nothing xD": "Other",
                                 "Theme": "Settings",           
   "Tweaks": "Other"
 }
