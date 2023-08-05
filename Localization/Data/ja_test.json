@@ -7,7 +7,7 @@
   "Settings": "設定",
   
   "Check Updates": "アップデート確認",
-  "Update available": "アップデートが利用可能です",  
+  "Update Available": "アップデートが利用可能です",  
   "下の文字": "",  
   "Developer Mode": "開発者モード",
   "Device Language": "デバイスの言語",
@@ -88,7 +88,22 @@
     "Debug Logs": "デバッグログ",
     "Force Restore & Disable": "強制復元＆無効化",
     "Export": "エクスポート",
+    "All files in the folder": "このフォルダ内の全てのファイル"
+  "Edit overwrite file via": "上書きファイルを編集",
+  "Open target file in": "ターゲットファイルを開く",
+
+      "Root": "Root",
+    "Added to Queue": "キューに追加",
+    "Too many files or folders! Canceled copying because it may be overloaded and harm your device.": "ファイルまたはフォルダが多すぎます。オーバーロードしてデバイスに損害を与える可能性があるため、処理を中断しました。",
+   "Project Name": "プロジェクト名",
+   "Files": "ファイル",
+    "Create Project": "プロジェクトを作成",
+    "Empty name": "名前を入力してください",
+    "Error": "エラー",
   
+      "Useful Tools": "便利ツール",
+
+
   "is": "アイスランド語",
   "ay": "アイマラ語",
   "ga": "アイルランド語",
