@@ -25,6 +25,15 @@
   "Restore All": "一括復元",  
   "Clear UIKeyboardCache": "キーボードのUIキャッシュを削除",  
   "Clear IconCache": "アイコンキャッシュを削除",  
+  "Clear App Cache": "アプリ内キャッシュを削除",
+  
+  "Contributors": "貢献者",
+  "Private Testers": "プライベートテスター",
+  "Translators": "翻訳者",
+  
+  "Licenses": "ライセンス",
+  "Terms of Service": "利用規約",
+  "Privacy Policy": "プライバシーポリシー",
   
   "is": "アイスランド語",
   "ay": "アイマラ語",
