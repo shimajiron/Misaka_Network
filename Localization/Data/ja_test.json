@@ -7,6 +7,8 @@
   "Settings": "設定",
   
   "Check Updates": "アップデート確認",
+  "Update available": "アップデートが利用可能です",  
+  "下の文字": "",  
   "Developer Mode": "開発者モード",
   "Device Language": "デバイスの言語",
   "File Manager": "ファイラー",
@@ -26,6 +28,9 @@
   "Clear UIKeyboardCache": "キーボードのUIキャッシュを削除",  
   "Clear IconCache": "アイコンキャッシュを削除",  
   "Clear App Cache": "アプリ内キャッシュを削除",
+
+  "Exploit": "エクスプロイト", 
+  "Method": "方式",
   
   "Contributors": "貢献者",
   "Private Testers": "プライベートテスター",
@@ -34,6 +39,9 @@
   "Licenses": "ライセンス",
   "Terms of Service": "利用規約",
   "Privacy Policy": "プライバシーポリシー",
+
+  "Succeed": "完了",  
+  "All Caches are deleted": "削除されました",  
   
   "is": "アイスランド語",
   "ay": "アイマラ語",
