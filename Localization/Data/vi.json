@@ -1,6 +1,7 @@
 {
   "Add Source": "Thêm nguồn",
   "All Packages": "Tất cả gói",
+  "All Packages ": "Tất cả gói",
   "App Icons": "Biểu tượng",
   "Applying Now...": "Đang Áp Dụng...",
   "Auto execute": "Tự động chạy",
@@ -65,11 +66,24 @@
   "Private Tester": "Đội ngũ kiểm tra",
   "Translators": "Phiên dịch",
   "Language": "Ngôn ngữ",
-  "Tweak settings are not inherited. Are you sure you want to run it?": "Cài đặt Tweak không được kế thừa. Bạn chắc chắn muốn chạy nó?",
+  "Tweak settings are not inherited. Are you sure you want to run it?": "Cài đè lên tinh chỉnh cũ, bạn có chắc chắn ?",
   "Could not add because an item with the same name already exists.": "Không thể thêm vì đã có mục tồn tại.",
   "Import Success": "Nhập thành công",
   "incomplete file": "Tập tin không hoàn chỉnh",
   "Name is empty": "Nhập tên của bạn",
   "Too many files or folders! Canceled copying because it may be overloaded and harm your device.": "Quá nhiều tệp hoặc thư mục. Hủy bỏ vì nó có thể quá tải và làm hỏng thiết bị.",
   "Changing /private/preboot causes a boot loop": "/private/preboot bootloop sẽ xảy ra khi thay đổi"
+  "Privacy Policy": "Chính sách bảo mật",
+  "News": "Mới",
+  "Add to Source": "Thêm mã nguồn",
+  "Keep Files in Background": "Giữ trong nền",
+  "Status Bar Indicator": "Chỉ báo thanh trạng thái",
+  "Categories": "Danh Mục",
+  "Category": "Thể Loại",
+  "Installed ": "Cài đặt hoàn tất",
+  "Download Page": "Trang tải xuống",
+  "Color Settings": "Cài đặt màu sắc",
+  "Forced Restore & OFF": "Buộc khôi phục và Tắt",
+  "Clear Cache": "Xoá Cache",
+  "App Language": "Ngôn ngữ ứng dụng"
 }
