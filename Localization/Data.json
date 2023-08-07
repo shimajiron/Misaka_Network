@@ -106,9 +106,14 @@
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/vi.json"
     },
     {
-      "code": "zh",
+      "code": "zh_CN",
       "version": 1.0,
-      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/zh-CN.json"
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/zh_CN.json"
+    },
+    {
+      "code": "zh_CN",
+      "version": 1.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/zh_TW.json"
     }
   ]
 }
