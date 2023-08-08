@@ -87,7 +87,7 @@
   "Clear Queue": "Sırayı Temizle",
   "Unknown error. You don't have access to this directory": "Bilinmeyen hata. Bu dizine erişilemiyor",
   "Installation failed. This tweak requires access to /var/, which kfd doesn’t support yet": "Yükleme başarısız oldu. Bu kısıtlama, kfd'nin henüz desteklemediği /var/'a erişim istiyor",
-  "You have to “kopen” before this operation": "Bu işlem "kopen" den sonra yapılabilir",
+  "You have to “kopen” before this operation": "Bu işlem “kopen” den sonra yapılabilir",
   "Warning": "Uyarı",
   "Settings will not be transferred. Taking a screencap beforehand will be recommended. Would you like to continue?": "Ayarlar taşınmaz. Önceden ekran görüntüsü almanız önerilir. Devam etmek istiyor musunuz?",
   
