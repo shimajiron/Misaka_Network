@@ -9,6 +9,11 @@
       "code": "tr",
       "version": 2.0,
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/tr.json"
+    },
+    {
+      "code": "vi",
+      "version": 2.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/vi.json"
     }
   ]
 }
