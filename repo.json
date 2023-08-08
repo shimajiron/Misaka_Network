@@ -36,6 +36,32 @@
             "PackageID": "com.straight-tamago.LINE_Notify"
         },
         {
+            "Name": "WDBRemoveThreeAppLimit",
+            "Description": "MDC",
+            "Author": {
+                "Label": "straight-tamago",
+                "Links": [
+                    {
+                        "Label": "zhuowei",
+                        "Link": "https://twitter.com/zhuowei?s=21&t=6Mf4gwmwD9nN6IpQzoAsTQ"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1136193386479632424/image0.jpg",
+            "HeaderImage": null,
+            "Category": "Special",
+            "Caption": "WDBRemoveThreeAppLimit",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/WDBRemoveThreeAppLimit.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "WDBRemoveThreeAppLimit"
+        },
+        {
             "Name": "ふい字",
             "Description": "HuiFont",
             "Author": {
