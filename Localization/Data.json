@@ -19,6 +19,11 @@
       "code": "nl",
       "version": 2.0,
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/nl.json"
+    },
+    {
+      "code": "zh_TW",
+      "version": 2.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/zh_TW.json"
     }
   ]
 }
