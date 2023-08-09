@@ -1,6 +1,18 @@
 {
     "Update": "2023/08/01 22:22(UTC)",
-    "Tweaks": [  
+    "Tweaks": [   
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+      "PackageID": "com.hackzy.passcodecustomiser"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/tdquang266/MDC/main/repo.json",
+      "PackageID": "com.tdquang.guangzhang-ui"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/dobabaophuc1706/misakarepo/main/Repo/repo.json",
+      "PackageID": "com.dobabaophuc.doremonlock"
+    },
         {
       "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
       "PackageID": "com.yangjiii.dynamicisland"
