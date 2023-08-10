@@ -142,6 +142,11 @@
   "Do you want to copy the path?": "パスをコピーしますか？",
   "Are you sure you want to Restart SpringBoard": "SpringBoardを再起動します",
   "Restart": "再起動",
+
+  "Appearance": "外観",
+  "Follow System": "システムと同じ",
+  "Dark Mode": "ダークモード",
+  "Light Mode": "ライトモード",
   
   "en (Bundle)": "英語 (バンドル)",
   "is": "アイスランド語",
