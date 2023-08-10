@@ -127,6 +127,17 @@
         ]
     },
     {
+        "Section": "Repository Owner",
+        "Contents": [
+            {
+                "Name": "HackZy",
+                "Image": "https://github.com/hackzy01.png",
+                "Contribution": "Aurora",
+                "Link": ""
+            }
+        }
+    },
+    {
         "Section": "Translators",
         "Contents": [
             {
