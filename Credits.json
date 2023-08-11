@@ -10,8 +10,8 @@
             },
             {
                 "Name": "Little 34306",
-                "Image": "https://github.com/34306.png",
-                "Contribution": "KFD Offsets",
+                "Image": "https://pbs.twimg.com/profile_images/1632256687267799041/BmBT07qo_400x400.jpg",
+                "Contribution": "KFD Offsets, GenshinPasscode",
                 "Link": "https://twitter.com/Little_34306"
             },
             {
@@ -96,7 +96,7 @@
             },
             {
                 "Name": "Little 34306",
-                "Image": "https://github.com/34306.png",
+                "Image": "https://pbs.twimg.com/profile_images/1632256687267799041/BmBT07qo_400x400.jpg",
                 "Contribution": "Repository & Tweaks",
                 "Link": "https://twitter.com/Little_34306"
             },
@@ -123,6 +123,17 @@
                 "Image": "https://github.com/sugiuta.png",
                 "Contribution": "Repository & Tweaks",
                 "Link": "https://github.com/sugiuta"
+            }
+        ]
+    },
+    {
+        "Section": "Repository Owner",
+        "Contents": [
+            {
+                "Name": "HackZy",
+                "Image": "https://cdn.discordapp.com/attachments/1098602551340970074/1139226400084213790/20180415_172547.jpg",
+                "Contribution": "Aurora",
+                "Link": "https://twitter.com/hackzy01"
             }
         ]
     },
@@ -200,6 +211,18 @@
                 "Image": "https://cdn.discordapp.com/attachments/1118116058444877917/1138450151149666335/image0.jpg",
                 "Contribution": "tr",
                 "Link": "https://www.iwishkem.tk/"
+            },
+            {
+                "Name": "EPOS",
+                "Image": "https://github.com/EPOS05.png",
+                "Contribution": "nl",
+                "Link": "https://twitter.com/RealEPOS"
+            },
+            {
+                "Name": "ken >:3",
+                "Image": "https://cdn.discordapp.com/attachments/1138513119820382258/1138868406955802764/327045059_451268850425755_1683068479551315004_n.jpg",
+                "Contribution": "sv",
+                "Link": "https://www.instagram.com/_tr4shkid/"
             }
         ]
     }
