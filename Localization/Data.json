@@ -6,6 +6,11 @@
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/ja.json"
     },
     {
+      "code": "de",
+      "version": 2.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/de.json"
+    },
+    {
       "code": "tr",
       "version": 2.0,
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/tr.json"
@@ -20,5 +25,15 @@
       "version": 2.0,
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/nl.json"
     },
+    {
+      "code": "sv",
+      "version": 2.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/sv.json"
+    },
+    {
+      "code": "zh-CN",
+      "version": 2.0,
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/zh-CN.json"
+    }
   ]
 }
