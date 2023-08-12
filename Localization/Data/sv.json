@@ -1,6 +1,6 @@
 {
   "Recommended": "Rekommenderad",
-  "New Releases": "Nya Utsläpp",
+  "New Releases": "Nysläppta",
   "Sources": "Källor",
   "Packages": "Paket",
   "FileManager": "Filhanterare",
@@ -229,6 +229,8 @@
   "ti": "Tigrinska",
   "bo": "Tibetanska",
   "zh": "Kinesiska (Förenklad)",
+  "zh-CN": "Kinesiska (Förenklad, Folkrepubliken Kina)",
+  "zh_TW": "Kinesiska (Traditionell, Taiwan)",
   "ts": "Tsonga",
   "te": "Tegulu",
   "da": "Danska",
@@ -284,5 +286,7 @@
   "li": "Limburgiska",
   "ro": "Rumänska",
   "rm": "Rätoromanska",
-  "ru": "Ryska"
+  "ru": "Ryska",
+  "cs & sk": "Tjeckiska & Slovakiska",
+  "ca & es": "Katalanska & Spanska"
 }
