@@ -1,0 +1,892 @@
+{
+    "RepositoryName": "YangJiii 🍉 Repo's",
+    "RepositoryDescription": "YangJiii 🍉 Repo's For You",
+    "RepositoryAuthor": "YangJiii 🍉",
+    "RepositoryIcon": "https://github.com/YangJiiii/repomdc/raw/main/Images/Avatar/Avatar.jpg",
+    "RepositoryWebsite": "https://github.com/YangJiiii/repomdc/",
+	"Default":{
+        "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+        "ViewCount": true
+    },
+    "RepositoryContents": [
+        {
+            "Name": "Font Apple Symbols",
+            "Description": "Fonts Apple Symbols. change character support MDC devices",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Other",
+            "Caption": "Fonts Apple Symbols. change character support MDC devices",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/symbols.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.applesymbols1.0.misaka",
+                  "Description": "Fonts Apple Symbols. change character support MDC . devices"
+              }
+            ],
+            "PackageID": "com.yangjiii.applesymbols1.0"
+        },
+        {
+            "Name": "LS UI YangJiii",
+            "Description": "Change camera and flash icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Lock Screen",
+            "Caption": "Change camera and flash icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuiyangjiii1.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.yangjiuils.misaka",
+                  "Description": "Change camera and flash icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.yangjiuils"
+        },
+		        {
+            "Name": "Font Clock Group 1 ( IOS16 )",
+            "Description": "Change clock font on ios 16",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Clock",
+            "Caption": "Change clock font on ios 16",
+		"MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/fontclockgroup1.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.lsclockios16.1.0.misaka",
+                  "Description": "Change clock font on ios 16"
+              }
+            ],
+            "PackageID": "com.yangjiii.lsclockios16.1.0"
+        },
+		{
+            "Name": "Radar",
+            "Description": "Show internal on settings",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Settings",
+            "Caption": "Show internal on settings",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/radar.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.radar.misaka",
+                  "Description": "Show internal on settings"
+              }
+            ],
+            "PackageID": "com.yangjiii.radar"
+        },
+		{
+            "Name": "Font Clock Group 1 ( IOS 15 )",
+            "Description": "Change clock font on ios 15",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Clock",
+            "Caption": "Change clock font on ios 15",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Screenshot": null,
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15.1.0.misaka",
+                  "Description": "Change clock font on ios 15"
+              }
+            ],
+            "PackageID": "com.yangjiii.fontclock15.1.0"
+        },
+		{
+            "Name": "Usagi Passcode",
+            "Description": "Change your passcode",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://i.kym-cdn.com/photos/images/original/002/083/322/038.gif",
+            "HeaderImage": "https://i.pinimg.com/originals/5a/b0/67/5ab06768b12e2a87a6264bd385ed5dd3.gif",
+            "Category": "Passcode",
+            "Caption": "Change your passcode",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/1076484358774472777/1076484359676243968/IMG_0808.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.usagipasscode.misaka",
+                  "Description": "Change your passcode"
+              }
+            ],
+            "PackageID": "com.yangjiii.usagipasscode"
+        },
+		{
+            "Name": "LS UI NaYan",
+            "Description": "Change camera and flash icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Lock Screen",
+            "Caption": "Change camera and flash icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsuinayan.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.nayanlsui.misaka",
+                  "Description": "Change camera and flash icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.nayanlsui"
+        },
+		{
+            "Name": "Hide Dock",
+            "Description": "Hide the Dock",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hidedock.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Settings",
+            "Caption": "Hide the Dock",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": null,
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.hidedock.misaka",
+                  "Description": "Hide the Dock"
+              }
+            ],
+            "PackageID": "com.yangjiii.hidedock"
+        },
+		{
+            "Name": "Open Supervise",
+            "Description": "Enable Supervise mode on iphone",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Settings",
+            "Caption": "Enable Supervise mode on iphone, i tested on both IOS 16.3.1 (doesn't support MDC mining, but it worked) ",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": null,
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.supervise.misaka",
+                  "Description": "Enable Supervise mode on iphone"
+              }
+            ],
+            "PackageID": "com.yangjiii.supervise"
+        },
+		{
+            "Name": "Lock Astronaut White ",
+            "Description": "Change the Faceid icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/faceidlock.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Lock Screen",
+            "Caption": "Change the Faceid icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://video.twimg.com/ext_tw_video/1612661637181476864/pu/vid/720x960/D20iHiIvKVNhMDrc.mp4?tag=12"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.astronautwhite.misaka",
+                  "Description": "Change the Faceid icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.astronautwhite"
+        },
+		{
+            "Name": "Big Sur Clock Icon",
+            "Description": "Change your clock icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Themes",
+            "Caption": "Change your clock icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/clockiconbigsur.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.bigsurclockicon.misaka",
+                  "Description": "Change your clock icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.bigsurclockicon"
+        },
+		{
+            "Name": "Wifi List",
+            "Description": "Show the password wifi was connect",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Settings",
+            "Caption": "Instructions\n-after downloading the tweak. turn it on and reboot (no respring )\n - after reboot. Go back to the misaka app. re-enable the tweak again. going to wifi settings should show \n - then you can apply other tweaks and respring normally \n (haven't tested on cert, works fine on trollstore, altstore, sidestore )",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/wifilist2.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/wifilist1.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.wifilist.misaka",
+                  "Description": "Show the password wifi was connect"
+              }
+            ],
+            "PackageID": "com.yangjiii.wifilist"
+        },
+		{
+            "Name": "LS UI SamSungOld",
+            "Description": "Change camera and flash icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Lock Screen",
+            "Caption": "Change camera and flash icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/samsungoldlsui.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.samsungoldlsui.misaka",
+                  "Description": "Change camera and flash icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.samsungoldlsui"
+        },
+		{
+            "Name": "Font Corporative Sans Alt 85%",
+            "Description": "Change your system font",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Font",
+            "Caption": "Corporative Sans Alt by @Alexman1979",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/corporativefont.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontcorporative.misaka",
+                  "Description": "Change your system font"
+              }
+            ],
+            "PackageID": "com.yangjiii.fontcorporative"
+        },
+		{
+            "Name": "Lock Ice Cream ",
+            "Description": "Change the Faceid icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/faceidlock.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Lock Screen",
+            "Caption": "Change the Faceid icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/icecream1.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/icecream2.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.icecream.misaka",
+                  "Description": "Change the Faceid icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.icecream"
+        },
+		{
+            "Name": "LS UI OneUI",
+            "Description": "Change camera and flash icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Lock Screen",
+            "Caption": "Change camera and flash icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/oneuils.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.oneuilsui.misaka",
+                  "Description": "Change camera and flash icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.oneuilsui"
+        },
+		{
+            "Name": "Plampy UI",
+            "Description": "Change control center icon",
+            "Author": {
+                "Label": "YangJiii - しまりん - htrowii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+					{
+                        "Label": "しまりん",
+                        "Link": "https://twitter.com/straight_tamago"
+                    },
+					{
+                        "Label": "htrowii",
+                        "Link": "https://twitter.com/htrowii"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyavatar.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Control Center",
+            "Caption": "Change control center icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyui2.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuicc.misaka",
+                  "Description": "Change camera and flash icon"
+              },
+			   {
+                  "Version": "1.1",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.1.misaka",
+                  "Description": "white background fix"
+              },
+			  {
+                  "Version": "1.2",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.2.misaka",
+                  "Description": "- reduce icon size\n- change mobile data and wifi icons\n- fix wifi icon getting bigger when holding on wifi icon"
+              },
+			  			  {
+                  "Version": "1.3",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.3.misaka",
+                  "Description": "restore mobile data icon to satellite \n- update add wifi icon in hold wifi button"
+              },
+			  			  {
+                  "Version": "1.4",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.4.misaka",
+                  "Description": "Fix bug"
+              },
+			  	{
+                  "Version": "1.5",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.5.misaka",
+                  "Description": "new icon update \n rotation lock\n sound on - off \n flashlight \n calculator \n camera \n alarm \n QRcode \n wallet \n light dark \n screen recording"
+              },
+			  	{
+                  "Version": "1.6",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv1.6.misaka",
+                  "Description": "updated low power mode icon"
+              },
+			  {
+                  "Version": "2.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv2.0.misaka",
+                  "Description": "new version. new icon update"
+              },
+			  {
+                  "Version": "2.1",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv2.1.misaka",
+                  "Description": "add effects. change a few pictures"
+              },
+			  {
+                  "Version": "2.2",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv2.2.misaka",
+                  "Description": "- resize flashlight icon \n- change sound icon"
+              },
+			  {
+                  "Version": "2.3",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv2.3.misaka",
+                  "Description": "- change mute icon \n- add icon shazam"
+              },
+			  {
+                  "Version": "2.5",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccv2.5.misaka",
+                  "Description": "- Update more icons"
+              },
+              {
+                  "Version": "Final",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccfinal.misaka",
+                  "Description": "Final Plampy UI"
+              },
+              {
+                  "Version": "Hot Fix",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccfinalfix.misaka",
+                  "Description": "Hot Fix"
+              },
+              {
+                  "Version": "Fix",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampyuiccfinal2.misaka",
+                  "Description": "Fix Shazam icon KFD"
+              }
+            ],
+            "PackageID": "com.yangjiii.plampyuicc"
+        },
+		{
+            "Name": "Hide Blur Folder",
+            "Description": "hide folder background to transparent",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/other.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Settings",
+            "Caption": "hide folder background to transparent",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/hideblurfolder.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.hideblurfolder.misaka",
+                  "Description": "hide folder background to transparent"
+              }
+            ],
+            "PackageID": "com.yangjiii.hideblurfolder"
+        },
+		{
+            "Name": "LS UI Plampy",
+            "Description": "Change camera and flash icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Lock Screen",
+            "Caption": "Change camera and flash icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyoff.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyon.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampylsui.misaka",
+                  "Description": "Change camera and flash icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.plampylsui"
+        },
+		{
+            "Name": "Font Clock Moscow Retro IOS15",
+            "Description": "Change clock font on ios 15",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/font.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Font",
+            "Caption": "Change clock font on ios 15",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "15.7.1",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/moscowretro.png"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.fontclock15moscowretro.misaka",
+                  "Description": "Change clock font on ios 15"
+              }
+            ],
+            "PackageID": "com.yangjiii.fontclock15moscowretro"
+        },
+		{
+            "Name": "Text Search",
+            "Description": "edit the word Search",
+            "Author": {
+                "Label": "YangJiii,tdquang",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    },
+					{
+                        "Label": "tdquang",
+                        "Link": "https://twitter.com/tdquangg"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Settings",
+            "Caption": "edit the word Search",
+			"MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/spotlight.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.textsearch.misaka",
+                  "Description": "edit the word Search"
+              },
+			  {
+                  "Version": "1.1",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.textsearch1.0.misaka",
+                  "Description": "Fix Bug"
+              }
+            ],
+            "PackageID": "com.yangjiii.textsearch"
+        },
+		{
+            "Name": "Messenger Sounds ( Beta )",
+            "Description": "Change Messenger app message sound",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/mess.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/messbanner.png",
+            "Category": "Settings",
+            "Caption": "Change Messenger app message sound",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/messsounds.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0 ( Beta )",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.messengersoundsbeta1.0.misaka",
+                  "Description": "Change Messenger app message sound"
+              }
+            ],
+            "PackageID": "com.yangjiii.messengersoundsbeta"
+        },
+		{
+            "Name": "Keycaps TXT",
+            "Description": "change keyboard font",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/keycaps.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Settings",
+            "Caption": "change keyboard font",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/keycaps.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0 ( Beta )",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.keycaps.misaka",
+                  "Description": "change keyboard font"
+              }
+            ],
+            "PackageID": "com.yangjiii.keycaps"
+        },
+		{
+            "Name": "LS UI Plampy 2.0",
+            "Description": "Change camera and flash icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/lsui.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Lock Screen",
+            "Caption": "Change camera and flash icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.8",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyoff1.jpg","https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampyon1.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampylsui2.0.misaka",
+                  "Description": "Change camera and flash icon"
+              }
+            ],
+            "PackageID": "com.yangjiii.plampylsui2.0"
+        },
+		{
+            "Name": "Plampy Settings",
+            "Description": "change settings icon",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/avatarradar.jpg",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Settings",
+            "Caption": "change settings icon",
+			"MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/plampysettings.jpg"
+            ],
+			"Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampysettings.misaka",
+                  "Description": "- Wallet icon, FaceID will default \n- On IOS 15. VPN icon shows well. IOS16 default display"
+              },
+			  {
+                  "Version": "2.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.plampysettings2.0.misaka",
+                  "Description": "Fix IOS 15 - KFD self check"
+              }
+            ],
+            "PackageID": "com.yangjiii.plampysettings"
+        },
+        {
+            "Name": "Sizei",
+            "Description": "Enable Dynamic Island and Gestures X",
+            "Author": {
+                "Label": "YangJiii",
+                "Links": [
+                    {
+                        "Label": "YangJiii",
+                        "Link": "https://twitter.com/duongduong0908"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/sizei.png",
+            "HeaderImage": "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/banner.gif",
+            "Category": "Settings",
+            "Caption": "- iPhone XR and iPhone 11 are not supported (radar warning)\n - Dynamic Island (Choose iPhone 14 Pro or iPhone 14 Promax)\n- X Gestures (Select iPhone X or iPhone XS)",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.1.2",
+            "Screenshot": [
+                "https://github.com/YangJiiii/repomdc/raw/main/Images/RepoImages/sizei.mp4"
+            ],
+            "Releases": [
+              {
+                  "Version": "1.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland.misaka",
+                  "Description": "Enable Dynamic Island and Gestures X"
+              },
+			  {
+                  "Version": "2.0",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland2.0.misaka",
+                  "Description": "Enable Dynamic Island and Gestures X"
+              },
+			  {
+                  "Version": "2.1",
+                  "Package": "https://github.com/YangJiiii/repomdc/raw/main/Files/com.yangjiii.dynamicisland2.1.misaka",
+                  "Description": "Enable Dynamic Island and Gestures X - Fix"
+              }
+            ],
+            "PackageID": "com.yangjiii.dynamicisland",
+			"VarLess": true
+        }
+		
+		
+    ]
+}
