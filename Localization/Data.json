@@ -41,9 +41,9 @@
       "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/zh-CN.json"
     },
     {
-      "code": "zh_TW",
+      "code": "zh-TW",
       "version": 2.0,
-      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/zh_TW.json"
+      "url": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Localization/Data/zh-TW.json"
           },
     {
       "code": "fr",
