@@ -1,6 +1,23 @@
 {
     "Update": "2023/08/12 22:22(UTC)",
-    "Tweaks": [   
+    "Tweaks": [     
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
+      "PackageID": "com.yangjiii.handsomedoglock"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/dobabaophuc1706/misakarepo/main/Repo/repo.json",
+      "PackageID": "com.dobabaophuc.lsuimanager16"
+    },
+        
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/dobabaophuc1706/misakarepo/main/Repo/repo.json",
+      "PackageID": "com.dobabaophuc.lsuimanager15"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.quickactioncolor"
+    },
             {
       "RepositoryURL": "https://puck.roeegh.com/repo.json",
       "PackageID": "com.roeegh.Bajji"
