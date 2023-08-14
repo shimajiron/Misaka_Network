@@ -1,6 +1,19 @@
 {
-    "Update": "2023/08/12 22:22(UTC)",
+    "Update": "2023/08/14 22:22(UTC)",
     "Tweaks": [     
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
+      "PackageID": "com.cggio.galaticsky"
+    },    {
+      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
+      "PackageID": "com.cggio.appleicon"
+    },    {
+      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
+      "PackageID": "com.cggio.doremonicon"
+    },    {
+      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
+      "PackageID": "com.ringtonescustomer.hamt"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
       "PackageID": "com.yangjiii.handsomedoglock"
