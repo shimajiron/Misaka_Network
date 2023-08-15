@@ -446,7 +446,38 @@
             "Name": "Calculator Error Message",
             "Description": "Change calculator error message",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
+            "MaxIOSVersion": "16.6"
+            "Author": {
+                "Label": "LeminLimez",
+              "Links": [
+                  {
+                      "Label": "LeminLimez",
+                      "Link": "https://github.com/leminlimez"
+                  }
+              ]
+            },
+            "Icon": null,
+            "HeaderImage": null,
+            "Category": "App Custom",
+            "Caption": null,
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1074814283751370783/1096452364359184394/Calculator_Error_Message.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.leemin.calculator_error_message"
+        },
+        {
+            "Name": "Calculator Error Message",
+            "Description": "Change calculator error message",
+            "MinIOSVersion": "14.0",
+            "MaxIOSVersion": "15.4",
+            "SupportIOSBuild": [
+                "19F5070b"
+            ],
             "Author": {
                 "Label": "LeminLimez",
               "Links": [
