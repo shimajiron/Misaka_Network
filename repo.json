@@ -446,7 +446,7 @@
             "Name": "Calculator Error Message",
             "Description": "Change calculator error message",
             "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6"
+            "MaxIOSVersion": "16.6",
             "Author": {
                 "Label": "LeminLimez",
               "Links": [
