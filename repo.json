@@ -475,11 +475,15 @@
             "Description": "Change calculator error message",
             "MinIOSVersion": "14.0",
             "MaxIOSVersion": "15.4",
-            "SupportIOSBuild": [
-                "19F5070b"
-            ],
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "14.0",
+                "MaxIOSVersion_CustomLabel":"15.5b4",
+                "Build": [
+                    "19F5070b"
+                ]    
+            }, 
             "Author": {
-                "Label": "LeminLimez",
+              "Label": "LeminLimez",
               "Links": [
                   {
                       "Label": "LeminLimez",
