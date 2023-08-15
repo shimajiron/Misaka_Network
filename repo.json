@@ -29,11 +29,11 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.LINENotify-1.0.misaka",
+                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/JBJFToolbox.misaka",
                     "Description": null
                 }
             ],
-            "PackageID": "com.straight-tamago.LINE_Notify"
+            "PackageID": "com.jbjf.JBJFToolBox"
         },
         {
             "Name": "LINE Notify",
