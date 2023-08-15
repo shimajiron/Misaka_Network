@@ -10,6 +10,32 @@
     },
     "RepositoryContents": [
         {
+            "Name": "JBJFToolBox",
+            "Description": null,
+            "Author": {
+                "Label": "jbjf",
+                "Links": [
+                    {
+                        "Label": "jbjf",
+                        "Link": "https://twitter.com/yang_niubi"
+                    }
+                ]
+            },
+            "Icon": null,
+            "HeaderImage": null,
+            "Category": "Settings",
+            "Caption": "- delMDM profile\n- Supervise\n- ScreenTime\n- FindMyiPhone",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.LINENotify-1.0.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.straight-tamago.LINE_Notify"
+        },
+        {
             "Name": "LINE Notify",
             "Description": "LINEの通知音、着信音を変更します。",
             "Author": {
