@@ -1,7 +1,10 @@
 {
     "Update": "2023/08/15 22:22(UTC)",
     "Tweaks": [    
-        
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
+      "PackageID": "com.cggio.customizenotification"
+    },
         {
       "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
       "PackageID": "com.yangjiii.dynamicisland"
