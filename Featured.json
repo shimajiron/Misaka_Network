@@ -1,13 +1,13 @@
 {
   "Tweak01": [
-    {
-      "RepositoryURL": "https://github.com/Fomri/fomrirepo/raw/main/repo.json",
-      "PackageID": "com.fomri.Whitelist"
+        {
+      "RepositoryURL": "https://puck.roeegh.com/repo.json",
+      "PackageID": "com.roeegh.Palette"
     },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
-      "PackageID": "com.epos.gradient"
-    },   
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
+      "PackageID": "com.yangjiii.fasttoolbox"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.doublebubblesettings"
@@ -66,10 +66,10 @@
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.frostedui"
     },    
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
-      "PackageID": "com.epos.appcc"
-    },    
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.AP-WP"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.novulntools2"
