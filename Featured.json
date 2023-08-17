@@ -13,41 +13,16 @@
       "PackageID": "com.epos.doublebubblesettings"
     },
   ],
-  "HeaderTweaks": [   
-        {
-      "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
-      "PackageID": "com.Kumiki.LockOnimai"
-    },
-        {
-      "RepositoryURL": "https://puck.roeegh.com/repo.json",
-      "PackageID": "dev.roeegh.NotificationShadow"
-    },
-        {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
-      "PackageID": "com.epos.soundmanager"
-    },
-        {
-      "RepositoryURL": "https://github.com/Fomri/fomrirepo/raw/main/repo.json",
-      "PackageID": "com.fomri.NFC16"
-    },
+  "HeaderLinks": [   
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-      "PackageID": "com.hackzy.fluentflat"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/ichitaso/misaka/main/repo.json",
-      "PackageID": "com.ichitaso.iphonex-respring"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
-      "PackageID": "com.leemin.comicsans"
-    },
-    {
-      "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
-      "PackageID": "www.iwishkem.tk.Catolock"
+      "ImageURL": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+      "Link": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+      "Link_Type": "Tweak",
+      "Tweak": {
+        "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+        "PackageID": "com.epos.colorboard"
+      }
     }
-    
-    
   ],
   "TopTweaks": [
         {
