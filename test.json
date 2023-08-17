@@ -1,0 +1,39 @@
+{
+    "RepositoryName": "misaka.app test",
+    "RepositoryDescription": "misaka test repository",
+    "RepositoryAuthor": "straight-tamago",
+    "RepositoryIcon": "https://media.discordapp.net/attachments/1108417213972631635/1130519233894297620/IMG_0021.png",
+    "RepositoryWebsite": "https://asset.watch.impress.co.jp/img/iw/docs/1106/553/mokuyou.png",
+    "Default": {
+        "HeaderImage": "https://cdn.discordapp.com/attachments/963821657703718964/1091331292462841898/IMG_0364.png",
+        "ViewCount": true
+    },
+    "RepositoryContents": [
+        {
+            "Name": "sus",
+            "Description": null,
+            "Author": {
+                "Label": "st",
+                "Links": [
+                    {
+                        "Label": "st",
+                        "Link": "https://twitter.com/"
+                    }
+                ]
+            },
+            "Icon": null,
+            "HeaderImage": null,
+            "Category": "Settings",
+            "Caption": "",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://cdn.discordapp.com/attachments/1088417579703472149/1141694785179111424/sus.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.sus"
+        }
+    ]
+}
