@@ -12,6 +12,15 @@
         {
             "Name": "JBJFToolBox",
             "Description": null,
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "jbjf",
                 "Links": [
@@ -25,7 +34,9 @@
             "HeaderImage": null,
             "Category": "Settings",
             "Caption": "- delMDM profile\n- Supervise\n- ScreenTime\n- FindMyiPhone",
-            "Screenshot": null,
+            "Screenshot": [
+                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/JBJFtoolbox_description.jpg"
+            ],
             "Releases": [
                 {
                     "Version": "1.0",
@@ -38,6 +49,8 @@
         {
             "Name": "LINE Notify",
             "Description": "LINEの通知音、着信音を変更します。",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "straight-tamago",
                 "Links": [
@@ -64,6 +77,8 @@
         {
             "Name": "WDBRemoveThreeAppLimit",
             "Description": "MDC",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "straight-tamago",
                 "Links": [
@@ -90,6 +105,15 @@
         {
             "Name": "ふい字",
             "Description": "HuiFont",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "straight-tamago",
                 "Links": [
@@ -125,6 +149,15 @@
         {
             "Name": "Disable Homebar",
             "Description": "Hide Homebar (ホームバーを非表示にします。)",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "straight-tamago",
                 "Links": [
@@ -155,6 +188,15 @@
         {
             "Name": "Dock Color",
             "Description": "Change Dock Color (Dockの色を変更)",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "straight-tamago",
                 "Links": [
@@ -184,6 +226,15 @@
         {
             "Name": "ColorCC",
             "Description": "Change ControlCenter Color (コントロールセンターの色を変更)",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "straight-tamago",
                 "Links": [
@@ -213,6 +264,15 @@
         {
             "Name": "LS UI",
             "Description": "Change LS UI (ロックスクリーンの下にあるボタンのデザイン)",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "Coolwcat & しまじろん",
                 "Links": [
@@ -243,6 +303,15 @@
         {
             "Name": "DialSound Piano",
             "Description": "Change dial sound to piano (ダイアル音をピアノにするよ)",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "Coolwcat",
                 "Links": [
@@ -269,6 +338,15 @@
         {
             "Name": "Enable Internal",
             "Description": "システムをInternalモードに設定",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "yyyywaiwai",
                 "Links": [
@@ -295,6 +373,15 @@
         {
             "Name": "RespringCC Shortcut",
             "Description": "Install RespringCC before using",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "しまじろん",
                 "Links": [
@@ -320,6 +407,15 @@
         {
             "Name": "SpringAlert",
             "Description": "beta alert and low battery alerts",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "しまじろん",
                 "Links": [
@@ -350,6 +446,15 @@
         {
             "Name": "CC WallPaper",
             "Description": "Add Shazam module before using",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "straight-tamago",
                 "Links": [
@@ -396,6 +501,15 @@
         {
             "Name": "GenshinCC_Remastered",
             "Description": "CC icons are Genshin elements",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "34306 & straight-tamago",
                 "Links": [
@@ -437,7 +551,15 @@
         {
             "Name": "おにまいLock+Sakura",
             "Description": "OnimaiLock+Sakura",
+            "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "Kumiki"
             },
@@ -473,6 +595,13 @@
             "Description": "Change calculator error message",
             "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.6",
+            "AdditionalSupportedIOS": {
+                "MinIOSVersion_CustomLabel": "15.0",
+                "MaxIOSVersion_CustomLabel": "16.6b1",
+                "Build": [
+                    "20G5026e"
+                ]
+            },
             "Author": {
                 "Label": "LeminLimez",
               "Links": [
