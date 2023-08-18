@@ -151,8 +151,9 @@
 
   "Popular": "人気",
   "Editor": "エディター",
-    "Unsupported format": "非対応の形式",
-      "Are you sure you want to delete this file": "ファイルを削除してもよろしいですか？",
+  "Unsupported format": "非対応の形式",
+  "Are you sure you want to delete this file": "ファイルを削除してもよろしいですか？",
+  "Save": "保存",
   
   "en (Bundle)": "英語 (バンドル)",
   "is": "アイスランド語",
