@@ -9,9 +9,9 @@
       "RepositoryURL": "https://puck.roeegh.com/repo.json",
       "PackageID": "com.roeegh.Palette"
     },
-        {
-      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-      "PackageID": "com.yangjiii.fasttoolbox"
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/tdquang266/MDC/main/repo.json",
+      "PackageID": "com.tdquang.at-untitled-ui"
     },
         {
       "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
