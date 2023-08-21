@@ -1,4 +1,4 @@
-# misaka documentation
+# misaka document
 
 <!-- TOC -->
 - [Variables](#misaka-variables)
