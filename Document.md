@@ -442,7 +442,7 @@ Item 0[Dictionary]
       │   └─Value(sans) ←
       └─Item 1[Dictionary]
           ├─Label(Option 2)
-          └─Value(torie) ←
+          └─Value(toriel) ←
 ```
 
 ### Inside files
