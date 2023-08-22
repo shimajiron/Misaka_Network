@@ -171,7 +171,7 @@ Root
 ```
 
 ## Link
-![Sample Link](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Link.jpg)
+![Sample Link](/Sample/Sample.Link.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Link.misaka)
 ```
@@ -182,7 +182,7 @@ Root
 ```
 
 ## Image
-![Sample Image](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Image.jpg)
+![Sample Image](/Sample/Sample.Image.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Image.misaka)
 ```
@@ -194,7 +194,7 @@ Root
 ```
 
 ## Text(Readme)
-![Sample TextReadme](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.TextReadme.jpg)
+![Sample TextReadme](/Sample/Sample.TextReadme.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.TextReadme.misaka)
 ```
@@ -204,7 +204,7 @@ Root
 ```
 
 ## Text input
-![Sample TextInput](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.TextInput.jpg)
+![Sample TextInput](/Sample/Sample.TextInput.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.TextInput.misaka)
 ```
@@ -216,7 +216,7 @@ Root
 ```
 
 ## ImagePicker
-![Sample ImagePicker](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.ImagePicker.jpg)
+![Sample ImagePicker](/Sample/Sample.ImagePicker.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.ImagePicker.misaka)
 ```
@@ -227,7 +227,7 @@ Root
 ```
 
 ## FilePicker
-![Sample FilePicker](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.FilePicker.jpg)
+![Sample FilePicker](/Sample/Sample.FilePicker.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.FilePicker.misaka)
 ```
@@ -238,7 +238,7 @@ Root
 ```
 
 ## ColorPicker
-![Sample ColorPicker](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.ColorPicker.jpg)
+![Sample ColorPicker](/Sample/Sample.ColorPicker.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.ColorPicker.misaka)
 ```
@@ -268,7 +268,7 @@ Root
 ```
 
 ## Int
-![Sample Int](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Int.jpg)
+![Sample Int](/Sample/Sample.Int.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Int.misaka)
 ```
@@ -283,7 +283,7 @@ Root
 ```
 
 ## Double
-![Sample Double](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Double.jpg)
+![Sample Double](/Sample/Sample.Double.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Double.misaka)
 ```
@@ -298,7 +298,7 @@ Root
 ```
 
 ## Toggle
-![Sample Toggle](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Toggle.jpg)
+![Sample Toggle](/Sample/Sample.Toggle.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Toggle.misaka)
 ```
@@ -311,7 +311,7 @@ Root
 ```
 
 ## Segment
-![Sample Segment](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Segment.jpg)
+![Sample Segment](/Sample/Sample.Segment.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Segment.misaka)
 ```
@@ -331,7 +331,7 @@ Root
 ```
 
 ## Navigation link
-![Sample NavigationLink](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.NavigationLink.jpg)
+![Sample NavigationLink](/Sample/Sample.NavigationLink.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.NavigationLink.misaka)
 ```
@@ -355,7 +355,7 @@ Root
 ```
 
 ## Picker
-![Sample Picker](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Picker.jpg)
+![Sample Picker](/Sample/Sample.Picker.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Picker.misaka)
 ```
@@ -376,7 +376,7 @@ Root
 ```
 
 ## Hider toggle
-![Sample HiderToggle](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.HiderToggle.jpg)
+![Sample HiderToggle](/Sample/Sample.HiderToggle.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.HiderToggle.misaka)
 ```
@@ -404,7 +404,7 @@ Root
 ```
 
 ## Preset
-![Sample Preset](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Preset.jpg)
+![Sample Preset](/Sample/Sample.Preset.jpg)
 
 [Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Preset.misaka)
 ```
