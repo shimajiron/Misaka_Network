@@ -75,9 +75,9 @@
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
       "PackageID": "com.epos.gradient"
     },
-    {
+        {
       "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-      "PackageID": "com.hackzy.meloso"
+      "PackageID": "com.hackzy.gestures"
     }
   ]
 }
