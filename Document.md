@@ -125,6 +125,8 @@ Inside Files
 ### `%Misaka_Overwrite%`
 ### `%Misaka_Remove%`
 
+`%Misaka_Remove%` is used to reduce file size.
+
 ```
 <key>%Misaka_Overwrite%</key> <string></string>
 <key>Key2</key> <string>Edited</string>
@@ -168,73 +170,92 @@ Root
   └─...Item x
 ```
 
-### Link
+## Link
+![Sample Link](/Sample/Sample.Link.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Link.misaka)
 ```
 └─Item 0[Dictionary]
-    ├─Label(Exmaple)
+    ├─Label(Straight Tamago)
     ├─UI(Link)
-    └─URL(https://exmple.com)
+    └─URL(https://example.com)
 ```
 
-### Image
+## Image
+![Sample Image](/Sample/Sample.Image.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Image.misaka)
 ```
 └─Item 1[Dictionary]
-    ├─Label(tamago)
     ├─UI(Image)
-    ├─URL(https://exmple.com)
+    ├─URL(https://exmple.com/exmaple.jpg)
     ├─Height(0)
     └─Width(0)
 ```
 
-### Text(Readme)
+## Text(Readme)
+![Sample TextReadme](/Sample/Sample.TextReadme.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.TextReadme.misaka)
 ```
 └─Item 2[Dictionary]
-    ├─Label(Good morning)
+    ├─Label(Hello.)
     └─UI(Text)
 ```
 
-### Text input
+## Text input
+![Sample TextInput](/Sample/Sample.TextInput.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.TextInput.misaka)
 ```
 └─Item 3[Dictionary]
     ├─Identifier
-    ├─Label(Text input)
+    ├─Label(Widget text)
     ├─Type(String)
     └─Value(Hello)
 ```
 
-### ImagePicker
+## ImagePicker
+![Sample ImagePicker](/Sample/Sample.ImagePicker.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.ImagePicker.misaka)
 ```
 └─Item 4[Dictionary]
-    ├─Label(Image select)
+    ├─Label(Slect image)
     ├─UI(ImagePicker)
-    └─URL(/var/mobile/Documents/exmaple.png)
+    └─URL(/var/mobile/Documents/sample.jp)
 ```
 
-### FilePicker
+## FilePicker
+![Sample FilePicker](/Sample/Sample.FilePicker.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.FilePicker.misaka)
 ```
 └─Item 5[Dictionary]
-    ├─Label(File select) 
-    ├─Type(String)
+    ├─Label(Slect file) 
     ├─UI(FilePicker)
     └─URL(/System/Library/Fonts/CoreUI/SFUI.ttf)
 ```
 
-### ColorPicker
+## ColorPicker
+![Sample ColorPicker](/Sample/Sample.ColorPicker.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.ColorPicker.misaka)
 ```
 └─Item 6[Dictionary]
     ├─Identifier
-    ├─Label(Color select) 
+    ├─Label(Slect color) 
     ├─Type(Color_Tinting)
     └─Value[Dictionary]
-        ├─tintAlpha(0.8)
+        ├─tintAlpha(0.8) [Number]
         └─tintColor[Dictionary]
-            ├─alpha(1)
-            ├─blue(0.76)
-            ├─green(0.76)
-            └─red(0.76)
+            ├─alpha(1) [Number]
+            ├─blue(0.76) [Number]
+            ├─green(0.76) [Number]
+            └─red(0.76) [Number]
 ```
 
-### ColorPicker_Hex
+## ColorPicker_Hex
 ```
 └─Item 7[Dictionary]
     ├─Identifier
@@ -246,88 +267,121 @@ Root
         └─NoHash[Boolean]
 ```
 
-### Int
+## Int
+![Sample Int](/Sample/Sample.Int.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Int.misaka)
 ```
 └─Item 8[Dictionary]
     ├─Identifier
-    ├─Label(Position X)
+    ├─Label(Blur)
     ├─Type(Int)
     ├─Min(0) [Number]
     ├─Max(100) [Number]
     ├─Step(2) [Number]
-    └─Value(26) [Number]
+    └─Value(66) [Number]
 ```
 
-### Double
+## Double
+![Sample Double](/Sample/Sample.Double.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Double.misaka)
 ```
 └─Item 9[Dictionary]
     ├─Identifier
-    ├─Label(Opacity)
+    ├─Label(Blur)
     ├─Type(Double)
     ├─Min(0) [Number]
-    ├─Max(1) [Number]
-    ├─Step(0.1) [Number]
-    └─Value(0.5) [Number]
+    ├─Max(100) [Number]
+    ├─Step(1) [Number]
+    └─Value(66) [Number]
 ```
 
-### Toggle
+## Toggle
+![Sample Toggle](/Sample/Sample.Toggle.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Toggle.misaka)
 ```
 └─Item 10[Dictionary]
     ├─Identifier
-    ├─Label(Focus module)
+    ├─Label(ConnecitivityModule)
     ├─Type(Bool)
     ├─UI(Toggle)
     └─Value[Boolean]
 ```
 
-### Segment
+## Segment
+![Sample Segment](/Sample/Sample.Segment.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Segment.misaka)
 ```
 └─Item 11[Dictionary]
     ├─Identifier
+    ├─Type(String)
     ├─UI(SegmentedControl)
+    ├─Value(sample.segment1)
     └─Selection[Array]
         ├─Item 0[Dictionary]
-        │   ├─Label
-        │   └─Value
+        │   ├─Label(ConnecitivityModule)
+        │   └─Value(sample.segment1)
+        ├─Item 1[Dictionary]
+        │   ├─Label(Nowplyaing)
+        │   └─Value(sample.segment2)
         └─...Item x
 ```
 
-### Navigation link
+## Navigation link
+![Sample NavigationLink](/Sample/Sample.NavigationLink.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.NavigationLink.misaka)
 ```
 └─Item 12[Dictionary]
-    ├─Label(Standard)
+    ├─Label(Links)
     ├─UI(NavigationLink)
     └─Categories[Array]
         ├─Item 0[Dictionary]
         │   ├─Category
         │   └─Tweaks[Array]
         │       ├─Item 0[Dictionary]
-        │       │   ├─Label
-        │       │   ├─Type(String)
+        │       │   ├─Label(Twitter)
         │       │   ├─UI(Link)
         │       │   └─URL(https://exmple.com)
+        │       ├─Item 1[Dictionary]
+        │       │   ├─Label(Bento)
+        │       │   ├─UI(Link)
+        │       │   └─URL(https://exmple2.com)
         │       └─...Item x
         └─...Item x
 ```
 
-### Picker
+## Picker
+![Sample Picker](/Sample/Sample.Picker.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Picker.misaka)
 ```
 └─Item 13[Dictionary]
     ├─Identifier
-    ├─Label(Image)
+    ├─Label(Slect)
+    ├─LabelPosition(Left)
     ├─UI(Picker)
-    ├─Value(noimage)
+    ├─Value(sample.picker2)
     └─Selection[Array]
         ├─Item 0[Dictionary]
-        │   ├─Label(No image)
-        │   └─Value(noimage)
+        │   ├─Label(ConnecitivityModule)
+        │   └─Value(sample.picker1)
+        ├─Item 1[Dictionary]
+        │   ├─Label(Nowplyaing)
+        │   └─Value(sample.picker2)
         └─...Item x
 ```
 
-### Hider toggle
+## Hider toggle
+![Sample HiderToggle](/Sample/Sample.HiderToggle.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.HiderToggle.misaka)
 ```
 ├─Item 14[Dictionary]
-│   ├─Label(Advanced Mode)
+│   ├─Label(Advanced)
 │   ├─UI(Hider_Toggle)
 │   ├─Value[Boolean]
 │   └─Identifiers[Dictionary]
@@ -337,36 +391,39 @@ Root
 │           └─Item 0(link2)
 ├─Item 15[Dictionary]
 │   ├─Identifier(link1)
-│   ├─Label(Exmaple)
-│   ├─Type(String)
+│   ├─Label(exmaple.com)
 │   ├─UI(Link)
 │   └─URL(https://exmple.com)
-└─Item 16[Dictionary]
-    ├─Disabled[Boolean]
-    ├─Identifier(link2)
-    ├─Type(String)
-    ├─Label(Exmaple2)
-    ├─UI(Link)
-    └─URL(https://exmple2.com)
+├─Item 16[Dictionary]
+│   ├─Disabled(YES) [Boolean]
+│   ├─Identifier(link2)
+│   ├─Label(Twitter)
+│   ├─UI(Link)
+│   └─URL(https://exmple2.com)
+└─...Item x
 ```
 
-### Preset
+## Preset
+![Sample Preset](/Sample/Sample.Preset.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Preset.misaka)
 ```
 ├─Item 17[Dictionary]
-│   ├─Identifier(back.blur)
-│   ├─Label(blur1)
+│   ├─Identifier(sample.preset1)
+│   ├─Label(Module Blur)
 │   ├─Type(Double)
 │   ├─Min(0) [Number]
 │   ├─Max(100) [Number]
-│   ├─Step(0.5) [Number]
-│   └─Value(10) [Number]
-└─Item 18[Dictionary]
-    ├─Label(blue)
-    ├─UI(Preset)
-    └─Presets[Array]
-        └─Item 0[Dictionary]
-            ├─Identifier(back.blur)
-            └─value(50) [Number]
+│   ├─Step(1) [Number]
+│   └─Value(27) [Number]
+├─Item 18[Dictionary]
+│   ├─Label(preset1)
+│   ├─UI(Preset)
+│   └─Presets[Array]
+│       └─Item 0[Dictionary]
+│           ├─Identifier(sample.preset1)
+│           └─value(50) [Number]
+└─...Item x
 ```
 ## How to combine with variables
 
@@ -378,7 +435,6 @@ Switching between two files.
 ↓
 Item 0[Dictionary]
   ├─Identifier(resplogo) ←
-  ├─Type(String)
   ├─UI(SegmentedControl)
   └─Selection[Array]
       ├─Item 0[Dictionary]
