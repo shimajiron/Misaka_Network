@@ -14,6 +14,10 @@
       "PackageID": "com.tdquang.at-untitled-ui"
     },
         {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.debugstoofs"
+    },
+        {
       "RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
       "PackageID": "com.leemin.samsungdiscordping"
     },
