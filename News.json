@@ -1,12 +1,12 @@
 {
     "Update": "2023/08/28 00:24(UTC)",
     "Tweaks": [    
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+                {
+      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
       "PackageID": "com.p0s3id0n.MissuLove"
     },
-        {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            {
+      "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
       "PackageID": "com.yangjiii.fasttoolbox"
     },
         {
@@ -22,7 +22,7 @@
       "PackageID": "com.dobabaophuc.sharinganlock"
     },
         {
-      "RepositoryURL": "https://raw.githubusercontent.com/dobabaophuc1706/misakarepo/main/Repo/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
       "PackageID": "com.p0s3id0n.LSGone"
     },
         {
