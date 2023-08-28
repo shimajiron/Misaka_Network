@@ -2,6 +2,34 @@
     "Update": "2023/08/22 02:14(UTC)",
     "Tweaks": [    
             {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.p0s3id0n.MissuLove"
+    },
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.yangjiii.fasttoolbox"
+    },
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "PackageID": "com.epos.settingsmanager"
+    },
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/dobabaophuc1706/misakarepo/main/Repo/repo.json",
+      "PackageID": "com.dobabaophuc.fontclock16_3"
+    },
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/dobabaophuc1706/misakarepo/main/Repo/repo.json",
+      "PackageID": "com.dobabaophuc.sharinganlock"
+    },
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/dobabaophuc1706/misakarepo/main/Repo/repo.json",
+      "PackageID": "com.p0s3id0n.LSGone"
+    },
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/dobabaophuc1706/misakarepo/main/Repo/repo.json",
+      "PackageID": "com.dobabaophuc.assplampy"
+    },
+    {    
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.SpeedUnlock"
     },
