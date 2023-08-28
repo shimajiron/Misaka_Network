@@ -1,6 +1,10 @@
 {
-    "Update": "2023/08/28 00:24(UTC)",
-    "Tweaks": [    
+    "Update": "2023/08/28 09:40(UTC)",
+    "Tweaks": [ 
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
+      "PackageID": "com.p0s3id0n.EvolveFree"
+    },   
                 {
       "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
       "PackageID": "com.p0s3id0n.MissuLove"
