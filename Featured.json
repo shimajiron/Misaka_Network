@@ -14,7 +14,7 @@
       "PackageID": "com.tdquang.at-untitled-ui"
     },
         {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.debugstoofs"
     },
         {
@@ -28,17 +28,17 @@
       "Link": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
       "Link_Type": "Tweak",
       "Tweak": {
-        "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+        "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
         "PackageID": "com.epos.colorboard"
       }
     }
   ],
   "TopTweaks": [
         {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.colorboard"
     },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.appcc"
     },
     
@@ -47,7 +47,7 @@
       "PackageID": "com.dobabaophuc.controlcenter1_6"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.frostedui"
     },    
         {
@@ -55,7 +55,7 @@
       "PackageID": "jp.ChromiumCandy.AP-WP"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.novulntools2"
     },
     {
@@ -67,7 +67,7 @@
       "PackageID": "com.Kumiki.LockOnimai_SakuraPlus"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.fontmanager"
     },
     {
@@ -76,7 +76,7 @@
     
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.gradient"
     },
         {
