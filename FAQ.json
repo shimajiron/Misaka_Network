@@ -1,6 +1,54 @@
-[
-  {
-    "title": "how to enable tweaks",
-    "id": "1136687226114293903"
-  }
-]
+{
+    "1136687226114293903": {
+        "title": "how to enable tweaks",
+        "content_id": "1136687226114293903"
+    },
+    "1136689069573812285": {
+        "title": "How to change the exploit",
+        "content_id": "1136689069573812285"
+    },
+    "1136693128548589619": {
+        "title": "Is my device supported?",
+        "content_id": "1136693128548589619"
+    },
+    "1136702802102583316": {
+        "title": "The 5 buttons in packages",
+        "content_id": "1136702802102583316"
+    },
+    "1136703481881837578": {
+        "title": "Tweaks do not apply! Help!",
+        "content_id": "1136703481881837578"
+    },
+    "1136687076218253393": {
+        "title": "how to install tweaks",
+        "content_id": "1136687076218253393"
+    },
+    "1136705135603621999": {
+        "title": "What is MDC, KFD?",
+        "content_id": "1136705135603621999"
+    },
+    "1136708156257480715": {
+        "title": "Advanced settings (aka tweak settings)",
+        "content_id": "1136708156257480715"
+    },
+    "1136714654605901885": {
+        "title": "More tweak options (explanation)",
+        "content_id": "1136714654605901885"
+    },
+    "1136694096203882506": {
+        "title": "Tweaks supported/not supported",
+        "content_id": "1136695383880372314"
+    },
+    "1137335821461102712": {
+        "title": "How to update a tweak?",
+        "content_id": "1137335821461102712"
+    },
+    "1137783331715555399": {
+        "title": "DELAY OTA 16.4.1 OR 16.5 (w/ Cowabunga Lite)",
+        "content_id": "1137783331715555399"
+    },
+    "1138479986328748223": {
+        "title": "How to change Misaka App icon?",
+        "content_id": "1138479986328748223"
+    }
+}
