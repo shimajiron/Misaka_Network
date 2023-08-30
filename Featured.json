@@ -52,7 +52,7 @@
     },    
         {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "jp.ChromiumCandy.canvas"
+      "PackageID": "jp.ChromiumCandy.Canvas"
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
