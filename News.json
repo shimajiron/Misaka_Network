@@ -1,6 +1,18 @@
 {
-    "Update": "2023/08/30 13:14(UTC)",
+    "Update": "2023/08/31 12:28(UTC)",
     "Tweaks": [ 
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.Canvas"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+      "PackageID": "com.constantin.limitless"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
+      "PackageID": "com.p0s3id0n.QuicksandLC90"
+    },
             {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.Canvas"
