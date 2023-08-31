@@ -1,6 +1,6 @@
 {
-  "Recommended": "おすすめ",
-  "New Releases": "最新リリース",
+  "Featured": "おすすめ",
+  "NEWs": "最新リリース",
   "Sources": "ソース",
   "Packages": "パッケージ",
   "FileManager": "ファイルマネージャー",
@@ -67,7 +67,7 @@
   "Mirror": "ミラー",
   
   "Queued": "キューされています",
-  "Install": "インストール",
+  "GET": "入手",
   "Uninstall": "アンインストール",
   "Not Supported": "非対応バージョン",
   "AUTHOR": "作者",
@@ -116,7 +116,7 @@
   "Error": "エラー",
   "Incomplete file": "ファイルが破損しています",
   "Successfully Imported": "インポート完了",
-  "Input": "入力",
+  "Project Name": "プロジェクトの名前",
   "Useful Tools": "便利機能",
   "Add file": "ファイルを追加",
   "Remove": "削除",
