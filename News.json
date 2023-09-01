@@ -50,7 +50,7 @@
       "PackageID": "com.yangjiii.fasttoolbox"
     },
         {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.settingsmanager"
     },
         {
@@ -152,7 +152,7 @@
       "PackageID": "com.dobabaophuc.lsuimanager15"
     },
             {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.quickactioncolor"
     },
             {
@@ -160,7 +160,7 @@
       "PackageID": "com.roeegh.Bajji"
     },
             {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.nothingosfont"
     },
             {
@@ -176,7 +176,7 @@
       "PackageID": "com.dobabaophuc.doremonlock"
     },
             {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.sushikiclock15"
     },
             {
@@ -282,11 +282,11 @@
       "PackageID": "com.leemin.calculator_error_message"
     },
             {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.appcc"
     },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.debugstoofs"
         },
         {
@@ -310,23 +310,23 @@
             "PackageID": "com.hackzy.negativedock"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.novulntools2"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.doublebubblesettings"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.vivacitysettings"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.morandisettings"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.felicitysettings"
         },
         {
@@ -334,23 +334,23 @@
             "PackageID": "com.yangjiii.messengersoundsbeta1.0"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.carplaywp"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.mariolock"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.androidlock"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.frostedui"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.fontmanager"
         },
         {
@@ -362,7 +362,7 @@
             "PackageID": "com.fomri.Whitelist"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.soundmanager"
         },
         {
@@ -374,39 +374,39 @@
             "PackageID": "com.Kumiki.LockOnimai_SakuraPlus"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.14prolock"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.comicrelieffont"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.shootastarfont"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.sicafont"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.3dfluentemojis"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.toadlock"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.tailslock"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.gastlylock"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.boomlock"
         },
         {
@@ -414,19 +414,19 @@
             "PackageID": "com.hackzy.scharge"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.stencilclock"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.eulaclock"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.aulacclock"
         },
         {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/MisakaRepoEPOS/main/repo.json",
+            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
             "PackageID": "com.epos.nothingclock15"
         }
     ]
