@@ -37,6 +37,23 @@
             "Screenshot": [
                 "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/JBJFtoolbox_description.jpg"
             ],
+            "Embed" : [
+                {
+                    "Title" : "YouTube",
+                    "Description" : "Video guide for RanaClient",
+                    "URL" : "https://youtu.be/SENTp9nwh3s?si=Zi6WdArzkeV14r4C"
+                },
+                {
+                    "Title" : "YouTube",
+                    "Description" : "Video guide for RanaClient",
+                    "URL" : "https://youtu.be/SENTp9nwh3s?si=Zi6WdArzkeV14r4C"
+                },
+                {
+                    "Title" : "YouTube",
+                    "Description" : "Video guide for RanaClient",
+                    "URL" : "https://youtu.be/SENTp9nwh3s?si=Zi6WdArzkeV14r4C"
+                }
+            ],
             "Releases": [
                 {
                     "Version": "1.0",
