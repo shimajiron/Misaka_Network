@@ -64,35 +64,6 @@
             "PackageID": "com.jbjf.JBJFToolBox"
         },
         {
-            "Name": "LINE Notify (test)",
-            "Description": "LINEの通知音、着信音を変更します。",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "straight-tamago",
-                "Links": [
-                    {
-                        "Label": "straight-tamago",
-                        "Link": "https://twitter.com/straight_tamago"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1136193386479632424/image0.jpg",
-            "HeaderImage": null,
-            "Category": "Sound",
-            "Caption": "test",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1131697083406106716/1148360835161395252/Fluffle.zip",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.straight-tamago.LINE_Notify",
-            "IconTheme": true
-        },
-        {
             "Name": "LINE Notify",
             "Description": "LINEの通知音、着信音を変更します。",
             "MinIOSVersion": "15.0",
