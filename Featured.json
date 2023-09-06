@@ -47,7 +47,7 @@
     },
     
         {
-      "RepositoryURL": "https://raw.githubusercontent.com/dobabaophuc1706/misakarepo/main/Repo/repo.json",
+      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.controlcenter1_6"
     },
     {
