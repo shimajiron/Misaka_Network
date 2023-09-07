@@ -1,10 +1,41 @@
 {
     "Update": "2023/08/31 12:28(UTC)",
     "Tweaks": [ 
+        
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.check0ver.darkpearl"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.check0ver.darkcolors"
+    },
+            {
+      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.pulsarCC"
+    },
+            {
+      "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
+      "PackageID": "com.yangjiii.hidemanager"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+      "PackageID": "com.hackzy.windowsphone"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+      "PackageID": "com.hackzy.gestures"
+    },
             {
       "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
       "PackageID": "com.hunganh.walletbg"
-    },    {
+    },  
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/tdquang266/MDC/main/repo.json",
+      "PackageID": "com.tdquang.at-huge-icons"
+    },
+        
+        {
       "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
       "PackageID": "com.p0s3id0n.Arima"
     },    {
