@@ -10,6 +10,37 @@
 	},
 	"RepositoryContents": [
 		{
+			"Name": "Silverware",
+			"Description": "Icon pack by moondr1",
+			"MinIOSVersion": "14.0",
+			"MaxIOSVersion": "16.1.2",
+			"Author": {
+				"Label": "moondr1",
+				"Links": [
+					{
+						"Label": "Twitter",
+						"Link": "https://x.com/moondr1"
+					}
+				]
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149468168058847314/com.apple.AppStore-large.png",
+			"HeaderImage": null,
+			"Category": "Icon Pack",
+			"Caption": "Icon pack by moondr1",
+			"Screenshot": [
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149468103030345768/IMG_0841.png",
+                "https://cdn.discordapp.com/attachments/1108417213972631635/1149468103797911624/IMG_0842.png",
+			],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.moondr1.silverware.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.moondr1.silverware"
+		},
+		{
 			"Name": "Awesome",
 			"Description": "Icon pack by moondr1",
 			"MinIOSVersion": "14.0",
