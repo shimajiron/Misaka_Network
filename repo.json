@@ -19,14 +19,6 @@
                 "Label": "check0ver",
                 "Links": [
                     {
-                        "Label": "X / Twitter",
-                        "Link": "https://twitter.com/check0ver"
-                    },
-                    {
-                        "Label": "check0ver.me",
-                        "Link": "https://check0ver.me"
-                    },
-                    {
                         "Label": "check0ver.com",
                         "Link": "https://check0ver.com"
                     }
@@ -36,7 +28,10 @@
             "HeaderImage": null,
             "Category": "Icon Pack",
             "Caption": "Icon pack by check0ver",
-            "Screenshot": null,
+            "Screenshot": [
+                "https://cdn.discordapp.com/attachments/1108417213972631635/1149345631488446534/IMG_0779.png",
+                "https://cdn.discordapp.com/attachments/1108417213972631635/1149346534920564756/IMG_0780.png"
+            ],
             "Releases": [
                 {
                     "Version": "1.0",
