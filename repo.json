@@ -10,6 +10,41 @@
 	},
 	"RepositoryContents": [
 		{
+			"Name": "ah,ah,bootloop!",
+			"Description": null,
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "jbjf",
+				"Links": [
+					{
+						"Label": "jbjf",
+						"Link": "https://twitter.com/yang_niubi"
+					}
+				]
+			},
+			"Icon": null,
+			"HeaderImage": null,
+			"Category": "Settings",
+			"Caption": "respring loop (jk)",
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/com.jbjf.ahahbootloop.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.jbjf.ahahbootloop"
+		},
+		{
 			"Name": "Dark dell",
 			"Description": "Icon pack by moondr1",
 			"MinIOSVersion": "14.0",
