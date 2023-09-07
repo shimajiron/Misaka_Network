@@ -9,6 +9,39 @@
         "ViewCount": true
     },
     "RepositoryContents": [
+        
+        {
+            "Name": "Dark Pearl",
+            "Description": "Icon pack by check0ver",
+            "MinIOSVersion": "14.0",
+            "MaxIOSVersion": "16.1.2",
+            "Author": {
+                "Label": "check0ver",
+                "Links": [
+                    {
+                        "Label": "check0ver.me",
+                        "Link": "https://check0ver.me"
+                    },
+                    {
+                        "Label": "check0ver.com",
+                        "Link": "https://check0ver.com"
+                    }
+                ]
+            },
+            "Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149339310726856734/com.apple.AppStore-large.png",
+            "HeaderImage": null,
+            "Category": "Icon Pack",
+            "Caption": "Icon pack by check0ver",
+            "Screenshot": null,
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.check0ver.darkpearl.misaka",
+                    "Description": null
+                }
+            ],
+            "PackageID": "com.check0ver.darkpearl"
+        },
         {
             "Name": "JBJFToolBox",
             "Description": null,
