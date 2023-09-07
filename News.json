@@ -78,10 +78,6 @@
       "PackageID": "com.constantin.limitless"
     },
             {
-      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
-      "PackageID": "com.p0s3id0n.QuicksandLC90"
-    },
-            {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.Canvas"
     },
@@ -100,18 +96,6 @@
             {
       "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
       "PackageID": "com.yangjiii.dynamicisland"
-    },
-            {
-      "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
-      "PackageID": "com.yangjiii.hideoldnotification"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
-      "PackageID": "com.p0s3id0n.EvolveFree"
-    },   
-                {
-      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
-      "PackageID": "com.p0s3id0n.MissuLove"
     },
             {
       "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
@@ -170,10 +154,6 @@
       "PackageID": "com.cggio.customizelockscreen"
     },
             {
-      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-      "PackageID": "com.yangjiii.fasttoolbox"
-    },
-            {
       "RepositoryURL": "https://puck.roeegh.com/repo.json",
       "PackageID": "com.roeegh.Palette"
     },
@@ -205,10 +185,6 @@
     },    {
       "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
       "PackageID": "com.ringtonescustomer.hamt"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-      "PackageID": "com.yangjiii.handsomedoglock"
     },
             {
       "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
