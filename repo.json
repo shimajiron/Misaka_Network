@@ -19,6 +19,10 @@
                 "Label": "check0ver",
                 "Links": [
                     {
+                        "Label": "X / Twitter",
+                        "Link": "https://twitter.com/check0ver"
+                    },
+                    {
                         "Label": "check0ver.me",
                         "Link": "https://check0ver.me"
                     },
