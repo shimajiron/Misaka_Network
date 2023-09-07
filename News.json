@@ -3,6 +3,30 @@
     "Tweaks": [ 
             {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.moondr1.silverware"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.moondr1.awesome"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.jbjf.ahahbootloop"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.moondr1.darkdell"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.moondr1.classictheme"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.moondr1.aroma"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
       "PackageID": "com.justat3chguy.inevitable"
     },
             {
