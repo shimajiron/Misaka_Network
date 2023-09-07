@@ -75,38 +75,7 @@
             ],
             "PackageID": "com.check0ver.darkcolors"
         },
-        {
-            "Name": "3D Color",
-            "Description": "Icon pack by check0ver",
-            "MinIOSVersion": "14.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "check0ver",
-                "Links": [
-                    {
-                        "Label": "check0ver.com",
-                        "Link": "https://check0ver.com"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149359754595024967/IMG_0787.jpg",
-            "HeaderImage": null,
-            "Category": "Icon Pack",
-            "Caption": "Icon pack by check0ver",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149359292122681404/IMG_0784.png",
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149359292894429234/IMG_0785.png",
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149359389585723402/IMG_0786.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.check0ver.3dcolor.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.check0ver.3dcolor"
-        },
+
         {
             "Name": "Dark Pearl",
             "Description": "Icon pack by check0ver",
