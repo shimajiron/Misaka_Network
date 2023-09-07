@@ -1,745 +1,773 @@
 {
-    "RepositoryName": "misaka.app",
-    "RepositoryDescription": "misaka official repository",
-    "RepositoryAuthor": "straight-tamago",
-    "RepositoryIcon": "https://media.discordapp.net/attachments/1108417213972631635/1130519233894297620/IMG_0021.png",
-    "RepositoryWebsite": "https://asset.watch.impress.co.jp/img/iw/docs/1106/553/mokuyou.png",
-    "Default": {
-        "HeaderImage": "https://cdn.discordapp.com/attachments/963821657703718964/1091331292462841898/IMG_0364.png",
-        "ViewCount": true
-    },
-    "RepositoryContents": [
-        
-         {
-            "Name": "Inevitable",
-            "Description": "Inevitable\nBring some light to your dark with this beautiful icons to spices up your Home Screen.",
-            "MinIOSVersion": "14.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "justat3chguy",
-                "Links": [
-                    {
-                        "Label": "Twitter",
-                        "Link": "https://x.com/justat3chguy"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149384039082496040/IMG_0811.jpg",
-            "HeaderImage": "https://cdn.discordapp.com/attachments/1108417213972631635/1149387019995328534/IMG_0813.jpg",
-            "Category": "Icon Pack",
-            "Caption": "Icon pack by justat3chguy",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149375809954517052/IMG_0803.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.justat3chguy.inevitable.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.justat3chguy.inevitable"
-        },
-         {
-            "Name": "Dark Colors",
-            "Description": "Icon pack by check0ver",
-            "MinIOSVersion": "14.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "check0ver",
-                "Links": [
-                    {
-                        "Label": "check0ver.com",
-                        "Link": "https://check0ver.com"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149362519568306328/IMG_0788.png",
-            "HeaderImage": null,
-            "Category": "Icon Pack",
-            "Caption": "Icon pack by check0ver",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149363742476353576/IMG_0794.png",
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149363743206154260/IMG_0795.png",
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149362664410202122/IMG_0789.png",
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149363026630295654/IMG_0792.png",
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149363027536269372/IMG_0793.png",
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149362677043437618/IMG_0790.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.check0ver.darkcolors.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.check0ver.darkcolors"
-        },
-
-        {
-            "Name": "Dark Pearl",
-            "Description": "Icon pack by check0ver",
-            "MinIOSVersion": "14.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "check0ver",
-                "Links": [
-                    {
-                        "Label": "check0ver.com",
-                        "Link": "https://check0ver.com"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149339310726856734/com.apple.AppStore-large.png",
-            "HeaderImage": null,
-            "Category": "Icon Pack",
-            "Caption": "Icon pack by check0ver",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149345631488446534/IMG_0779.png",
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149346534920564756/IMG_0780.png",
-                "https://cdn.discordapp.com/attachments/1108417213972631635/1149350620017475654/IMG_0782.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.check0ver.darkpearl.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.check0ver.darkpearl"
-        },
-        {
-            "Name": "JBJFToolBox",
-            "Description": null,
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "jbjf",
-                "Links": [
-                    {
-                        "Label": "jbjf",
-                        "Link": "https://twitter.com/yang_niubi"
-                    }
-                ]
-            },
-            "Icon": null,
-            "HeaderImage": null,
-            "Category": "Settings",
-            "Caption": "- delMDM profile\n- Supervise\n- ScreenTime\n- FindMyiPhone",
-            "Screenshot": [
-                "https://raw.githubusercontent.com/chimaha/misakarepo/main/image/JBJFtoolbox_description.jpg"
-            ],
-            "Embed" : [
-                {
-                    "Title" : "YouTube",
-                    "Description" : "Video guide for RanaClient",
-                    "Link" : "https://youtu.be/SENTp9nwh3s?si=Zi6WdArzkeV14r4C"
-                },
-                {
-                    "Title" : "YouTube",
-                    "Description" : "Video guide for RanaClient",
-                    "Link" : "https://youtu.be/SENTp9nwh3s?si=Zi6WdArzkeV14r4C"
-                },
-                {
-                    "Title" : "YouTube",
-                    "Description" : "Video guide for RanaClient",
-                    "Link" : "https://youtu.be/SENTp9nwh3s?si=Zi6WdArzkeV14r4C"
-                }
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/JBJFToolbox.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.jbjf.JBJFToolBox"
-        },
-        {
-            "Name": "LINE Notify",
-            "Description": "LINEの通知音、着信音を変更します。",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "straight-tamago",
-                "Links": [
-                    {
-                        "Label": "straight-tamago",
-                        "Link": "https://twitter.com/straight_tamago"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1136193386479632424/image0.jpg",
-            "HeaderImage": null,
-            "Category": "Sound",
-            "Caption": "LINEの通知音、着信音を好きな物に変更できます。",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.LINENotify-1.0.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.straight-tamago.LINE_Notify"
-        },
-        {
-            "Name": "WDBRemoveThreeAppLimit",
-            "Description": "MDC",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.2",
-            "Author": {
-                "Label": "straight-tamago",
-                "Links": [
-                    {
-                        "Label": "zhuowei",
-                        "Link": "https://twitter.com/zhuowei?s=21&t=6Mf4gwmwD9nN6IpQzoAsTQ"
-                    }
-                ]
-            },
-            "Icon": null,
-            "HeaderImage": null,
-            "Category": "Special",
-            "Caption": "WDBRemoveThreeAppLimit",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/WDBRemoveThreeAppLimit.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "WDBRemoveThreeAppLimit"
-        },
-        {
-            "Name": "ふい字",
-            "Description": "HuiFont",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "straight-tamago",
-                "Links": [
-                    {
-                        "Label": "straight-tamago",
-                        "Link": "https://twitter.com/straight_tamago"
-                    },
-                    {
-                        "Label": "HuiFont",
-                        "Link": "https://hp.vector.co.jp/authors/VA039499/"
-                    }
-                ]
-            },
-            "Icon": "https://media.discordapp.net/attachments/1108417213972631635/1130517434034573363/IMG_0019.png",
-            "HeaderImage": null,
-            "Category": "SpringBoard",
-            "Caption": "HuiFont",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/huifont.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/com.straight-tamago.HuiFont-1.1.misaka",
-                    "Description": "字数が増えました"
-                }
-            ],
-            "PackageID": "com.straight-tamago.HuiFont"
-        },
-        {
-            "Name": "Disable Homebar",
-            "Description": "Hide Homebar (ホームバーを非表示にします。)",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "straight-tamago",
-                "Links": [
-                    {
-                        "Label": "straight-tamago",
-                        "Link": "https://twitter.com/straight_tamago"
-                    },
-                    {
-                        "Label": "nbxy (Icon & Header)",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1079878178035736656/1090199030388244530/FE89AB07-0D26-4E7F-BDF5-B487038F0192.jpg",
-            "HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1090202250049224724/007441E9-0C6A-4EEB-8F0E-69B83F44C478.jpg",
-            "Category": "SpringBoard",
-            "Caption": "Hide Homebar (ホームバーを非表示にします。)",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.Disable_Homebar.misaka",
-                    "Description": "misaka形式に"
-                }
-            ],
-            "PackageID": "com.straight-tamago.Disable_Homebar"
-        },
-        {
-            "Name": "Dock Color",
-            "Description": "Change Dock Color (Dockの色を変更)",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "straight-tamago",
-                "Links": [
-                    {
-                        "Label": "straight-tamago",
-                        "Link": "https://twitter.com/straight_tamago"
-                    },
-                    {
-                        "Label": "nbxy",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": null,
-            "Category": "SpringBoard",
-            "Caption": "Change Dock Color (Dockの色を変更します。)",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091746692052815982/DockColor.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.straight-tamago.Dock_Color"
-        },
-        {
-            "Name": "ColorCC",
-            "Description": "Change ControlCenter Color (コントロールセンターの色を変更)",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "straight-tamago",
-                "Links": [
-                    {
-                        "Label": "straight-tamago",
-                        "Link": "https://twitter.com/straight_tamago"
-                    },
-                    {
-                        "Label": "nbxy",
-                        "Link": "https://twitter.com/ChromiumCandy"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1080122575834857573/736F035A-4D1B-4D75-B3A6-6DC8FA513178.png",
-            "Category": "Control Center",
-            "Caption": "Change Module and Background colors (モジュールと背景の色を変更します。)",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091752704688259123/ControlCenterColor.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.straight-tamago.ColorCC"
-        },
-        {
-            "Name": "LS UI",
-            "Description": "Change LS UI (ロックスクリーンの下にあるボタンのデザイン)",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Coolwcat & しまじろん",
-                "Links": [
-                    {
-                        "Label": "しまじろん",
-                        "Link": "https://twitter.com/straight_tamago"
-                    },
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-
-                ]
-            },
-            "Icon": null,
-            "Category":  "Lock Screen",
-            "Caption": null,
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.LockScreenIcons.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.straight-tamago.LockScreen_Icons.misaka"
-        },
-        {
-            "Name": "DialSound Piano",
-            "Description": "Change dial sound to piano (ダイアル音をピアノにするよ)",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Coolwcat",
-                "Links": [
-                    
-                    {
-                        "Label": "Coolwcat",
-                        "Link": "https://twitter.com/coolwcat"
-                    }
-                ]
-            },
-            "Icon": null,
-            "Category": "Sound",
-            "Caption": "Change dial sound to piano (ダイアル音をピアノにするよ)",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.DialSound_Piano.misaka",
-                    "Description": "misaka形式に"
-                }
-            ],
-            "PackageID": "com.straight-tamago.DialSound_Piano"
-        },
-        {
-            "Name": "Enable Internal",
-            "Description": "システムをInternalモードに設定",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "yyyywaiwai",
-                "Links": [
-                    
-                    {
-                        "Label": "yyyywaiwai",
-                        "Link": "https://twitter.com/yyyyyy_public"
-                    }
-                ]
-            },
-            "Icon": null,
-            "Category": "Settings",
-            "Caption": "システムをInternalモードに設定",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.Enable_Internal.misaka",
-                    "Description": "misaka形式に"
-                }
-            ],
-            "PackageID": "com.straight-tamago.Enable_Internal"
-        },
-        {
-            "Name": "RespringCC Shortcut",
-            "Description": "Install RespringCC before using",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "しまじろん",
-                "Links": [
-                    {
-                        "Label": "しまじろん",
-                        "Link": "https://twitter.com/straight_tamago"
-                    }
-                ]
-            },
-            "Icon": null,
-            "Category": "Control Center",
-            "Caption": "別途RespringCCをインストールしておく必要あり",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.RespringCC_Shortcut.misaka",
-                    "Description": "misaka形式に"
-                }
-            ],
-            "PackageID": "com.straight-tamago.RespringCC_Shortcut"
-        },
-        {
-            "Name": "SpringAlert",
-            "Description": "beta alert and low battery alerts",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "しまじろん",
-                "Links": [
-                    {
-                        "Label": "しまじろん",
-                        "Link": "https://twitter.com/straight_tamago"
-                    }
-                ]
-            },
-            "Icon": null,
-            "Category": "SpringBoard",
-            "Caption": "Change the strings for beta alerts and low battery alerts.",
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.1",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.SpringAlert.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.SpringAlert_1.2.misaka",
-                    "Description": "all lang"
-                }
-            ],
-            "PackageID": "com.straight-tamago.SpringAlert"
-        },
-        {
-            "Name": "CC WallPaper",
-            "Description": "Add Shazam module before using",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "straight-tamago",
-                "Links": [
-                    {
-                        "Label": "straight-tamago (Main Dev)",
-                        "Link": "https://twitter.com/straight_tamago"
-                    },
-                    {
-                        "Label": "nbxy (Icon & Tweak Settings Design)",
-                        "Link": "https://twitter.com/straight_tamago"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1078899188609319024/1078903220648288416/IMG_1521.jpg",
-            "Category": "Control Center",
-            "Caption": "Add Shazam module before using",
-            "Screenshot": [
-                "https://pbs.twimg.com/media/FsqvyXKaMAAiTWs?format=jpg&name=large"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1088825037236219934/1091984208945233973/Wallpaper_ControlCenter.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.CCWP-1.1.misaka",
-                    "Description": "FilePicker Support"
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.CCWP-1.2.misaka",
-                    "Description": "ImagePicker Support"
-                },
-                {
-                    "Version": "1.2.1",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.CCWP-1.2.1.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.straight-tamago.CCWP"
-        },
-        {
-            "Name": "GenshinCC_Remastered",
-            "Description": "CC icons are Genshin elements",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "34306 & straight-tamago",
-                "Links": [
-                    {
-                        "Label": "34306",
-                        "Link": "https://twitter.com/Little_34306"
-                    },
-                    {
-                        "Label": "straight-tamago (Main Dev)",
-                        "Link": "https://twitter.com/straight_tamago"
-                    }
-                ]
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/1089248899438485564/1095266786615775242/IMG_0470.jpg",
-            "Category": "Control Center",
-            "Caption": "CC icons are Genshin elements",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/1089248899438485564/1095194597665284137/IMG_2777.png"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.GenshinCC_Remastered.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.GenshinCC_Remastered-1.1.misaka",
-                    "Description": "icon bug fix"
-                },
-                {
-                    "Version": "1.3",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.GenshinCC_Remastered-1.3.misaka",
-                    "Description": "toggle bug fix"
-                }
-            ],
-            "PackageID": "com.straight-tamago.GenshinCC_Remastered"
-        },
-        {
-            "Name": "おにまいLock+Sakura",
-            "Description": "OnimaiLock+Sakura",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "15.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "Kumiki"
-            },
-            "Icon": "https://cdn.discordapp.com/attachments/931433207423971358/1101485052321341581/IMG_0680.jpg",
-            "HeaderImage": null,
-            "Category": "Lock Screen",
-            "Caption": "お兄ちゃんはおしまい！",
-            "Screenshot": [
-                "https://cdn.discordapp.com/attachments/1079878178035736656/1101486161727328266/MhpE1Ac.jpg"
-            ],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1079878178035736656/1101481750917546035/com.Kumiki.LockOnimai_SakuraPlus.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.1",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.Kumiki.LockOnimai_SakuraPlus-1.1.misaka",
-                    "Description": null
-                },
-                {
-                    "Version": "1.2",
-                    "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.Kumiki.LockOnimai_SakuraPlus.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.Kumiki.LockOnimai_SakuraPlus",
-            "VarLess": true
-        },
-        {
-            "Name": "Calculator Error Message",
-            "Description": "Change calculator error message",
-            "MinIOSVersion": "16.0",
-            "MaxIOSVersion": "16.6",
-            "AdditionalSupportedIOS": {
-                "MinIOSVersion_CustomLabel": "16.0",
-                "MaxIOSVersion_CustomLabel": "16.6b1",
-                "Build": [
-                    "20G5026e"
-                ]
-            },
-            "Author": {
-                "Label": "LeminLimez",
-              "Links": [
-                  {
-                      "Label": "LeminLimez",
-                      "Link": "https://github.com/leminlimez"
-                  }
-              ]
-            },
-            "Icon": null,
-            "HeaderImage": null,
-            "Category": "App Custom",
-            "Caption": null,
-            "Screenshot": null,
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://cdn.discordapp.com/attachments/1074814283751370783/1096452364359184394/Calculator_Error_Message.misaka",
-                    "Description": null
-                }
-            ],
-            "PackageID": "com.leemin.calculator_error_message"
-        }
-    ]
+	"RepositoryName": "misaka.app",
+	"RepositoryDescription": "misaka official repository",
+	"RepositoryAuthor": "straight-tamago",
+	"RepositoryIcon": "https://media.discordapp.net/attachments/1108417213972631635/1130519233894297620/IMG_0021.png",
+	"RepositoryWebsite": "https://asset.watch.impress.co.jp/img/iw/docs/1106/553/mokuyou.png",
+	"Default": {
+		"HeaderImage": "https://cdn.discordapp.com/attachments/963821657703718964/1091331292462841898/IMG_0364.png",
+		"ViewCount": true
+	},
+	"RepositoryContents": [
+		{
+			"Name": "Aroma",
+			"Description": "Icon pack by moondr1",
+			"MinIOSVersion": "14.0",
+			"MaxIOSVersion": "16.1.2",
+			"Author": {
+				"Label": "moondr1",
+				"Links": [
+					{
+						"Label": "Twitter",
+						"Link": "https://x.com/moondr1"
+					}
+				]
+			},
+			"Icon": "https://media.discordapp.net/attachments/1108417213972631635/1149437425949626420/com.apple.AppStore-large.png",
+			"HeaderImage": null,
+			"Category": "Icon Pack",
+			"Caption": "Icon pack by moondr1",
+			"Screenshot": [
+				"https://media.discordapp.net/attachments/1108417213972631635/1149454042687344761/IMG_0826.png",
+                "https://cdn.discordapp.com/attachments/1108417213972631635/1149454043475890176/IMG_0827.png",
+                "https://cdn.discordapp.com/attachments/1108417213972631635/1149454044562198671/IMG_0830.png",
+                "https://cdn.discordapp.com/attachments/1108417213972631635/1149454046177021962/IMG_0831.png"
+			],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.moondr1.aroma.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.moondr1.aroma"
+		},
+		{
+			"Name": "Inevitable",
+			"Description": "Inevitable\nBring some light to your dark with this beautiful icons to spices up your Home Screen.",
+			"MinIOSVersion": "14.0",
+			"MaxIOSVersion": "16.1.2",
+			"Author": {
+				"Label": "justat3chguy",
+				"Links": [
+					{
+						"Label": "Twitter",
+						"Link": "https://x.com/justat3chguy"
+					}
+				]
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149384039082496040/IMG_0811.jpg",
+			"HeaderImage": "https://cdn.discordapp.com/attachments/1108417213972631635/1149387019995328534/IMG_0813.jpg",
+			"Category": "Icon Pack",
+			"Caption": "Icon pack by justat3chguy",
+			"Screenshot": [
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149375809954517052/IMG_0803.jpg"
+			],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.justat3chguy.inevitable.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.justat3chguy.inevitable"
+		},
+		{
+			"Name": "Dark Colors",
+			"Description": "Icon pack by check0ver",
+			"MinIOSVersion": "14.0",
+			"MaxIOSVersion": "16.1.2",
+			"Author": {
+				"Label": "check0ver",
+				"Links": [
+					{
+						"Label": "check0ver.com",
+						"Link": "https://check0ver.com"
+					}
+				]
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149362519568306328/IMG_0788.png",
+			"HeaderImage": null,
+			"Category": "Icon Pack",
+			"Caption": "Icon pack by check0ver",
+			"Screenshot": [
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149363742476353576/IMG_0794.png",
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149363743206154260/IMG_0795.png",
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149362664410202122/IMG_0789.png",
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149363026630295654/IMG_0792.png",
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149363027536269372/IMG_0793.png",
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149362677043437618/IMG_0790.png"
+			],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.check0ver.darkcolors.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.check0ver.darkcolors"
+		},
+		{
+			"Name": "Dark Pearl",
+			"Description": "Icon pack by check0ver",
+			"MinIOSVersion": "14.0",
+			"MaxIOSVersion": "16.1.2",
+			"Author": {
+				"Label": "check0ver",
+				"Links": [
+					{
+						"Label": "check0ver.com",
+						"Link": "https://check0ver.com"
+					}
+				]
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149339310726856734/com.apple.AppStore-large.png",
+			"HeaderImage": null,
+			"Category": "Icon Pack",
+			"Caption": "Icon pack by check0ver",
+			"Screenshot": [
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149345631488446534/IMG_0779.png",
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149346534920564756/IMG_0780.png",
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149350620017475654/IMG_0782.png"
+			],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.check0ver.darkpearl.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.check0ver.darkpearl"
+		},
+		{
+			"Name": "JBJFToolBox",
+			"Description": null,
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "jbjf",
+				"Links": [
+					{
+						"Label": "jbjf",
+						"Link": "https://twitter.com/yang_niubi"
+					}
+				]
+			},
+			"Icon": null,
+			"HeaderImage": null,
+			"Category": "Settings",
+			"Caption": "- delMDM profile\n- Supervise\n- ScreenTime\n- FindMyiPhone",
+			"Screenshot": [
+				"https://raw.githubusercontent.com/chimaha/misakarepo/main/image/JBJFtoolbox_description.jpg"
+			],
+			"Embed": [
+				{
+					"Title": "YouTube",
+					"Description": "Video guide for RanaClient",
+					"Link": "https://youtu.be/SENTp9nwh3s?si=Zi6WdArzkeV14r4C"
+				},
+				{
+					"Title": "YouTube",
+					"Description": "Video guide for RanaClient",
+					"Link": "https://youtu.be/SENTp9nwh3s?si=Zi6WdArzkeV14r4C"
+				},
+				{
+					"Title": "YouTube",
+					"Description": "Video guide for RanaClient",
+					"Link": "https://youtu.be/SENTp9nwh3s?si=Zi6WdArzkeV14r4C"
+				}
+			],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/JBJFToolbox.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.jbjf.JBJFToolBox"
+		},
+		{
+			"Name": "LINE Notify",
+			"Description": "LINEの通知音、着信音を変更します。",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.1.2",
+			"Author": {
+				"Label": "straight-tamago",
+				"Links": [
+					{
+						"Label": "straight-tamago",
+						"Link": "https://twitter.com/straight_tamago"
+					}
+				]
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1136193386479632424/image0.jpg",
+			"HeaderImage": null,
+			"Category": "Sound",
+			"Caption": "LINEの通知音、着信音を好きな物に変更できます。",
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.LINENotify-1.0.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.straight-tamago.LINE_Notify"
+		},
+		{
+			"Name": "WDBRemoveThreeAppLimit",
+			"Description": "MDC",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.1.2",
+			"Author": {
+				"Label": "straight-tamago",
+				"Links": [
+					{
+						"Label": "zhuowei",
+						"Link": "https://twitter.com/zhuowei?s=21&t=6Mf4gwmwD9nN6IpQzoAsTQ"
+					}
+				]
+			},
+			"Icon": null,
+			"HeaderImage": null,
+			"Category": "Special",
+			"Caption": "WDBRemoveThreeAppLimit",
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/WDBRemoveThreeAppLimit.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "WDBRemoveThreeAppLimit"
+		},
+		{
+			"Name": "ふい字",
+			"Description": "HuiFont",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "straight-tamago",
+				"Links": [
+					{
+						"Label": "straight-tamago",
+						"Link": "https://twitter.com/straight_tamago"
+					},
+					{
+						"Label": "HuiFont",
+						"Link": "https://hp.vector.co.jp/authors/VA039499/"
+					}
+				]
+			},
+			"Icon": "https://media.discordapp.net/attachments/1108417213972631635/1130517434034573363/IMG_0019.png",
+			"HeaderImage": null,
+			"Category": "SpringBoard",
+			"Caption": "HuiFont",
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/huifont.misaka",
+					"Description": null
+				},
+				{
+					"Version": "1.1",
+					"Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/com.straight-tamago.HuiFont-1.1.misaka",
+					"Description": "字数が増えました"
+				}
+			],
+			"PackageID": "com.straight-tamago.HuiFont"
+		},
+		{
+			"Name": "Disable Homebar",
+			"Description": "Hide Homebar (ホームバーを非表示にします。)",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "straight-tamago",
+				"Links": [
+					{
+						"Label": "straight-tamago",
+						"Link": "https://twitter.com/straight_tamago"
+					},
+					{
+						"Label": "nbxy (Icon & Header)",
+						"Link": "https://twitter.com/ChromiumCandy"
+					}
+				]
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/1079878178035736656/1090199030388244530/FE89AB07-0D26-4E7F-BDF5-B487038F0192.jpg",
+			"HeaderImage": "https://cdn.discordapp.com/attachments/813615730473304064/1090202250049224724/007441E9-0C6A-4EEB-8F0E-69B83F44C478.jpg",
+			"Category": "SpringBoard",
+			"Caption": "Hide Homebar (ホームバーを非表示にします。)",
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.Disable_Homebar.misaka",
+					"Description": "misaka形式に"
+				}
+			],
+			"PackageID": "com.straight-tamago.Disable_Homebar"
+		},
+		{
+			"Name": "Dock Color",
+			"Description": "Change Dock Color (Dockの色を変更)",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "straight-tamago",
+				"Links": [
+					{
+						"Label": "straight-tamago",
+						"Link": "https://twitter.com/straight_tamago"
+					},
+					{
+						"Label": "nbxy",
+						"Link": "https://twitter.com/ChromiumCandy"
+					}
+				]
+			},
+			"Icon": null,
+			"Category": "SpringBoard",
+			"Caption": "Change Dock Color (Dockの色を変更します。)",
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091746692052815982/DockColor.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.straight-tamago.Dock_Color"
+		},
+		{
+			"Name": "ColorCC",
+			"Description": "Change ControlCenter Color (コントロールセンターの色を変更)",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "straight-tamago",
+				"Links": [
+					{
+						"Label": "straight-tamago",
+						"Link": "https://twitter.com/straight_tamago"
+					},
+					{
+						"Label": "nbxy",
+						"Link": "https://twitter.com/ChromiumCandy"
+					}
+				]
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/1080122548345393193/1080122575834857573/736F035A-4D1B-4D75-B3A6-6DC8FA513178.png",
+			"Category": "Control Center",
+			"Caption": "Change Module and Background colors (モジュールと背景の色を変更します。)",
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://cdn.discordapp.com/attachments/1088463131828830258/1091752704688259123/ControlCenterColor.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.straight-tamago.ColorCC"
+		},
+		{
+			"Name": "LS UI",
+			"Description": "Change LS UI (ロックスクリーンの下にあるボタンのデザイン)",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "Coolwcat & しまじろん",
+				"Links": [
+					{
+						"Label": "しまじろん",
+						"Link": "https://twitter.com/straight_tamago"
+					},
+					{
+						"Label": "Coolwcat",
+						"Link": "https://twitter.com/coolwcat"
+					}
+				]
+			},
+			"Icon": null,
+			"Category": "Lock Screen",
+			"Caption": null,
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.LockScreenIcons.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.straight-tamago.LockScreen_Icons.misaka"
+		},
+		{
+			"Name": "DialSound Piano",
+			"Description": "Change dial sound to piano (ダイアル音をピアノにするよ)",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "Coolwcat",
+				"Links": [
+					{
+						"Label": "Coolwcat",
+						"Link": "https://twitter.com/coolwcat"
+					}
+				]
+			},
+			"Icon": null,
+			"Category": "Sound",
+			"Caption": "Change dial sound to piano (ダイアル音をピアノにするよ)",
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.DialSound_Piano.misaka",
+					"Description": "misaka形式に"
+				}
+			],
+			"PackageID": "com.straight-tamago.DialSound_Piano"
+		},
+		{
+			"Name": "Enable Internal",
+			"Description": "システムをInternalモードに設定",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "yyyywaiwai",
+				"Links": [
+					{
+						"Label": "yyyywaiwai",
+						"Link": "https://twitter.com/yyyyyy_public"
+					}
+				]
+			},
+			"Icon": null,
+			"Category": "Settings",
+			"Caption": "システムをInternalモードに設定",
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.Enable_Internal.misaka",
+					"Description": "misaka形式に"
+				}
+			],
+			"PackageID": "com.straight-tamago.Enable_Internal"
+		},
+		{
+			"Name": "RespringCC Shortcut",
+			"Description": "Install RespringCC before using",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "しまじろん",
+				"Links": [
+					{
+						"Label": "しまじろん",
+						"Link": "https://twitter.com/straight_tamago"
+					}
+				]
+			},
+			"Icon": null,
+			"Category": "Control Center",
+			"Caption": "別途RespringCCをインストールしておく必要あり",
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.RespringCC_Shortcut.misaka",
+					"Description": "misaka形式に"
+				}
+			],
+			"PackageID": "com.straight-tamago.RespringCC_Shortcut"
+		},
+		{
+			"Name": "SpringAlert",
+			"Description": "beta alert and low battery alerts",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "しまじろん",
+				"Links": [
+					{
+						"Label": "しまじろん",
+						"Link": "https://twitter.com/straight_tamago"
+					}
+				]
+			},
+			"Icon": null,
+			"Category": "SpringBoard",
+			"Caption": "Change the strings for beta alerts and low battery alerts.",
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.1",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.SpringAlert.misaka",
+					"Description": null
+				},
+				{
+					"Version": "1.2",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.SpringAlert_1.2.misaka",
+					"Description": "all lang"
+				}
+			],
+			"PackageID": "com.straight-tamago.SpringAlert"
+		},
+		{
+			"Name": "CC WallPaper",
+			"Description": "Add Shazam module before using",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "straight-tamago",
+				"Links": [
+					{
+						"Label": "straight-tamago (Main Dev)",
+						"Link": "https://twitter.com/straight_tamago"
+					},
+					{
+						"Label": "nbxy (Icon & Tweak Settings Design)",
+						"Link": "https://twitter.com/straight_tamago"
+					}
+				]
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/1078899188609319024/1078903220648288416/IMG_1521.jpg",
+			"Category": "Control Center",
+			"Caption": "Add Shazam module before using",
+			"Screenshot": [
+				"https://pbs.twimg.com/media/FsqvyXKaMAAiTWs?format=jpg&name=large"
+			],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://cdn.discordapp.com/attachments/1088825037236219934/1091984208945233973/Wallpaper_ControlCenter.misaka",
+					"Description": null
+				},
+				{
+					"Version": "1.1",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.CCWP-1.1.misaka",
+					"Description": "FilePicker Support"
+				},
+				{
+					"Version": "1.2",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.CCWP-1.2.misaka",
+					"Description": "ImagePicker Support"
+				},
+				{
+					"Version": "1.2.1",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.CCWP-1.2.1.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.straight-tamago.CCWP"
+		},
+		{
+			"Name": "GenshinCC_Remastered",
+			"Description": "CC icons are Genshin elements",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "34306 & straight-tamago",
+				"Links": [
+					{
+						"Label": "34306",
+						"Link": "https://twitter.com/Little_34306"
+					},
+					{
+						"Label": "straight-tamago (Main Dev)",
+						"Link": "https://twitter.com/straight_tamago"
+					}
+				]
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/1089248899438485564/1095266786615775242/IMG_0470.jpg",
+			"Category": "Control Center",
+			"Caption": "CC icons are Genshin elements",
+			"Screenshot": [
+				"https://cdn.discordapp.com/attachments/1089248899438485564/1095194597665284137/IMG_2777.png"
+			],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.GenshinCC_Remastered.misaka",
+					"Description": null
+				},
+				{
+					"Version": "1.1",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.GenshinCC_Remastered-1.1.misaka",
+					"Description": "icon bug fix"
+				},
+				{
+					"Version": "1.3",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.GenshinCC_Remastered-1.3.misaka",
+					"Description": "toggle bug fix"
+				}
+			],
+			"PackageID": "com.straight-tamago.GenshinCC_Remastered"
+		},
+		{
+			"Name": "おにまいLock+Sakura",
+			"Description": "OnimaiLock+Sakura",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "Kumiki"
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/931433207423971358/1101485052321341581/IMG_0680.jpg",
+			"HeaderImage": null,
+			"Category": "Lock Screen",
+			"Caption": "お兄ちゃんはおしまい！",
+			"Screenshot": [
+				"https://cdn.discordapp.com/attachments/1079878178035736656/1101486161727328266/MhpE1Ac.jpg"
+			],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://cdn.discordapp.com/attachments/1079878178035736656/1101481750917546035/com.Kumiki.LockOnimai_SakuraPlus.misaka",
+					"Description": null
+				},
+				{
+					"Version": "1.1",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.Kumiki.LockOnimai_SakuraPlus-1.1.misaka",
+					"Description": null
+				},
+				{
+					"Version": "1.2",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.Kumiki.LockOnimai_SakuraPlus.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.Kumiki.LockOnimai_SakuraPlus",
+			"VarLess": true
+		},
+		{
+			"Name": "Calculator Error Message",
+			"Description": "Change calculator error message",
+			"MinIOSVersion": "16.0",
+			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "16.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
+			"Author": {
+				"Label": "LeminLimez",
+				"Links": [
+					{
+						"Label": "LeminLimez",
+						"Link": "https://github.com/leminlimez"
+					}
+				]
+			},
+			"Icon": null,
+			"HeaderImage": null,
+			"Category": "App Custom",
+			"Caption": null,
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://cdn.discordapp.com/attachments/1074814283751370783/1096452364359184394/Calculator_Error_Message.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.leemin.calculator_error_message"
+		}
+	]
 }
