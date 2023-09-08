@@ -73,7 +73,7 @@
 		},
 		{
 			"Name": "ah,ah,bootloop!",
-			"Description": null,
+			"Description": "respring loop (jk)",
 			"MinIOSVersion": "15.0",
 			"MaxIOSVersion": "16.6",
 			"AdditionalSupportedIOS": {
