@@ -3,6 +3,14 @@
     "Tweaks": [ 
             {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.ounidesigns.leos"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.ounidesigns.borea"
+    },
+            {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
       "PackageID": "com.moondr1.silverware"
     },
             {
