@@ -10,8 +10,70 @@
 	},
 	"RepositoryContents": [
 		{
+			"Name": "Borea",
+			"Description": "Icon Pack by OuniDesigns",
+			"MinIOSVersion": "14.0",
+			"MaxIOSVersion": "16.1.2",
+			"Author": {
+				"Label": "OuniDesigns",
+				"Links": [
+					{
+						"Label": "Twitter",
+						"Link": "https://x.com/OuniDesigns"
+					}
+				]
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149667669751111690/com.weather.TWC-large.png",
+			"HeaderImage": null,
+			"Category": "Icon Pack",
+			"Caption": "Icon Pack by OuniDesigns",
+			"Screenshot": [
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149668838640734314/IMG_0851.png",
+                "https://cdn.discordapp.com/attachments/1108417213972631635/1149668839819333663/IMG_0852.png",
+			],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.ounidesigns.borea.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.ounidesigns.borea"
+		},
+		{
+			"Name": "Leos",
+			"Description": "Icon Pack by OuniDesigns",
+			"MinIOSVersion": "14.0",
+			"MaxIOSVersion": "16.1.2",
+			"Author": {
+				"Label": "OuniDesigns",
+				"Links": [
+					{
+						"Label": "Twitter",
+						"Link": "https://x.com/OuniDesigns"
+					}
+				]
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149668996753395813/com.apple.weather-large.png",
+			"HeaderImage": null,
+			"Category": "Icon Pack",
+			"Caption": "Icon Pack by OuniDesigns",
+			"Screenshot": [
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1149668888682962996/IMG_0853.png",
+                "https://cdn.discordapp.com/attachments/1108417213972631635/1149668889416962048/IMG_0854.png",
+			],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.ounidesigns.leos.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.ounidesigns.leos"
+		},
+		{
 			"Name": "Silverware",
-			"Description": "Icon pack by moondr1",
+			"Description": "Icon Pack by moondr1",
 			"MinIOSVersion": "14.0",
 			"MaxIOSVersion": "16.1.2",
 			"Author": {
@@ -26,7 +88,7 @@
 			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149468168058847314/com.apple.AppStore-large.png",
 			"HeaderImage": null,
 			"Category": "Icon Pack",
-			"Caption": "Icon pack by moondr1",
+			"Caption": "Icon Pack by moondr1",
 			"Screenshot": [
 				"https://cdn.discordapp.com/attachments/1108417213972631635/1149468103030345768/IMG_0841.png",
                 "https://cdn.discordapp.com/attachments/1108417213972631635/1149468103797911624/IMG_0842.png",
@@ -42,7 +104,7 @@
 		},
 		{
 			"Name": "Awesome",
-			"Description": "Icon pack by moondr1",
+			"Description": "Icon Pack by moondr1",
 			"MinIOSVersion": "14.0",
 			"MaxIOSVersion": "16.1.2",
 			"Author": {
@@ -57,7 +119,7 @@
 			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149467427407659169/com.apple.AppStore-large.png",
 			"HeaderImage": null,
 			"Category": "Icon Pack",
-			"Caption": "Icon pack by moondr1",
+			"Caption": "Icon Pack by moondr1",
 			"Screenshot": [
 				"https://cdn.discordapp.com/attachments/1108417213972631635/1149466329405988944/IMG_0839.png",
                 "https://cdn.discordapp.com/attachments/1108417213972631635/1149466330047713330/IMG_0840.png",
@@ -108,7 +170,7 @@
 		},
 		{
 			"Name": "Dark dell",
-			"Description": "Icon pack by moondr1",
+			"Description": "Icon Pack by moondr1",
 			"MinIOSVersion": "14.0",
 			"MaxIOSVersion": "16.1.2",
 			"Author": {
@@ -123,7 +185,7 @@
 			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149463772805746758/com.apple.AppStore.png",
 			"HeaderImage": null,
 			"Category": "Icon Pack",
-			"Caption": "Icon pack by moondr1",
+			"Caption": "Icon Pack by moondr1",
 			"Screenshot": [
 				"https://cdn.discordapp.com/attachments/1108417213972631635/1149463649593872384/IMG_0837.png",
                 "https://cdn.discordapp.com/attachments/1108417213972631635/1149463651506454558/IMG_0838.png",
@@ -139,7 +201,7 @@
 		},
 		{
 			"Name": "Classic Theme",
-			"Description": "Icon pack by moondr1",
+			"Description": "Icon Pack by moondr1",
 			"MinIOSVersion": "14.0",
 			"MaxIOSVersion": "16.1.2",
 			"Author": {
@@ -154,7 +216,7 @@
 			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149456175801307146/com.apple.AppStore-large.png",
 			"HeaderImage": null,
 			"Category": "Icon Pack",
-			"Caption": "Icon pack by moondr1",
+			"Caption": "Icon Pack by moondr1",
 			"Screenshot": [
 				"https://cdn.discordapp.com/attachments/1108417213972631635/1149456750416777226/IMG_0835.png",
                 "https://cdn.discordapp.com/attachments/1108417213972631635/1149456751272402944/IMG_0836.png",
@@ -170,7 +232,7 @@
 		},
 		{
 			"Name": "Aroma",
-			"Description": "Icon pack by moondr1",
+			"Description": "Icon Pack by moondr1",
 			"MinIOSVersion": "14.0",
 			"MaxIOSVersion": "16.1.2",
 			"Author": {
@@ -185,7 +247,7 @@
 			"Icon": "https://media.discordapp.net/attachments/1108417213972631635/1149437425949626420/com.apple.AppStore-large.png",
 			"HeaderImage": null,
 			"Category": "Icon Pack",
-			"Caption": "Icon pack by moondr1",
+			"Caption": "Icon Pack by moondr1",
 			"Screenshot": [
 				"https://media.discordapp.net/attachments/1108417213972631635/1149454042687344761/IMG_0826.png",
                 "https://cdn.discordapp.com/attachments/1108417213972631635/1149454043475890176/IMG_0827.png",
@@ -218,7 +280,7 @@
 			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149384039082496040/IMG_0811.jpg",
 			"HeaderImage": "https://cdn.discordapp.com/attachments/1108417213972631635/1149478434930692106/IMG_0845.jpg",
 			"Category": "Icon Pack",
-			"Caption": "Icon pack by justat3chguy",
+			"Caption": "Icon Pack by justat3chguy",
 			"Screenshot": [
 				"https://cdn.discordapp.com/attachments/1108417213972631635/1149375809954517052/IMG_0803.jpg"
 			],
