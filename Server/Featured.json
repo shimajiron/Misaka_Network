@@ -1,0 +1,89 @@
+{
+	"Tweak01": [
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+			"PackageID": "com.hackzy.pxlsui"
+		},
+		{
+			"RepositoryURL": "https://puck.roeegh.com/repo.json",
+			"PackageID": "com.roeegh.Palette"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/tdquang266/MDC/main/repo.json",
+			"PackageID": "com.tdquang.at-untitled-ui"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+			"PackageID": "com.epos.debugstoofs"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
+			"PackageID": "com.leemin.samsungdiscordping"
+		}
+	],
+	"HeaderLinks": [
+		{
+			"ImageURL": "https://media.havoc.app/647ccef15911f8273691b662",
+			"Link": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
+			"Link_Type": "Tweak",
+			"Tweak": {
+				"RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+				"PackageID": "com.epos.colorboard"
+			}
+		}
+	],
+	"TopTweaks": [
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
+			"PackageID": "com.hunganh.walletbg"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+			"PackageID": "com.epos.colorboard"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+			"PackageID": "com.epos.appcc"
+		},
+		{
+			"RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
+			"PackageID": "com.dobabaophuc.controlcenter1_6"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+			"PackageID": "com.epos.frostedui"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+			"PackageID": "jp.ChromiumCandy.Canvas"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+			"PackageID": "com.epos.novulntools2"
+		},
+		{
+			"RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
+			"PackageID": "com.yangjiii.plampyuicc"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+			"PackageID": "com.Kumiki.LockOnimai_SakuraPlus"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+			"PackageID": "com.epos.fontmanager"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
+			"PackageID": "com.sugiuta.lspokebuttonfix"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+			"PackageID": "com.epos.gradient"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+			"PackageID": "com.hackzy.gestures"
+		}
+	]
+}
