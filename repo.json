@@ -232,62 +232,6 @@
 			"PackageID": "com.justat3chguy.inevitable"
 		},
 		{
-			"Name": "Dark Colors",
-			"Description": "Icon pack by check0ver",
-			"MinIOSVersion": "14.0",
-			"MaxIOSVersion": "16.1.2",
-			"Author": {
-				"Label": "check0ver",
-				"Links": [
-				]
-			},
-			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149362519568306328/IMG_0788.png",
-			"HeaderImage": null,
-			"Category": "Icon Pack",
-			"Caption": "Icon pack by check0ver",
-			"Screenshot": [
-				"https://cdn.discordapp.com/attachments/1108417213972631635/1149363742476353576/IMG_0794.png",
-				"https://cdn.discordapp.com/attachments/1108417213972631635/1149363743206154260/IMG_0795.png",
-				"https://cdn.discordapp.com/attachments/1108417213972631635/1149363026630295654/IMG_0792.png",
-				"https://cdn.discordapp.com/attachments/1108417213972631635/1149363027536269372/IMG_0793.png"
-			],
-			"Releases": [
-				{
-					"Version": "1.0",
-					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.check0ver.darkcolors.misaka",
-					"Description": null
-				}
-			],
-			"PackageID": "com.check0ver.darkcolors"
-		},
-		{
-			"Name": "Dark Pearl",
-			"Description": "Icon pack by check0ver",
-			"MinIOSVersion": "14.0",
-			"MaxIOSVersion": "16.1.2",
-			"Author": {
-				"Label": "check0ver",
-				"Links": [
-				]
-			},
-			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149339310726856734/com.apple.AppStore-large.png",
-			"HeaderImage": null,
-			"Category": "Icon Pack",
-			"Caption": "Icon pack by check0ver",
-			"Screenshot": [
-				"https://cdn.discordapp.com/attachments/1108417213972631635/1149345631488446534/IMG_0779.png",
-				"https://cdn.discordapp.com/attachments/1108417213972631635/1149346534920564756/IMG_0780.png"
-			],
-			"Releases": [
-				{
-					"Version": "1.0",
-					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.check0ver.darkpearl.misaka",
-					"Description": null
-				}
-			],
-			"PackageID": "com.check0ver.darkpearl"
-		},
-		{
 			"Name": "JBJFToolBox",
 			"Description": null,
 			"MinIOSVersion": "15.0",
