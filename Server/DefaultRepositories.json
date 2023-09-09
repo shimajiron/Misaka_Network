@@ -1,5 +1,6 @@
 [
     {
+      "Section": "Official",
       "Repositories": [
         "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json"
       ]
