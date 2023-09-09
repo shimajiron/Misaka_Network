@@ -1,0 +1,49 @@
+[
+    {
+      "Section": "Official",
+      "Repositories": [
+        "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json"
+      ]
+    },
+    {
+      "Section": "Private Testers",
+      "Repositories": [
+        "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+        "https://puck.roeegh.com/repo.json",
+        "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
+        "https://yangjiii.tech/file/Repo/repo.json",
+        "https://raw.githubusercontent.com/leminlimez/leminrepo/main/repo.json",
+        "https://raw.githubusercontent.com/ichitaso/misaka/main/repo.json",
+        "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
+        "https://raw.githubusercontent.com/sugiuta/repo-mdc/master/repo.json",
+        "https://raw.githubusercontent.com/34306/iPA/main/repo.json"
+      ]
+    },
+    {
+      "Section": "Others",
+      "Repositories": [
+        "https://github.com/Fomri/fomrirepo/raw/main/repo.json",
+        "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+        "https://raw.githubusercontent.com/tdquang266/MDC/main/repo.json" ,
+        "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
+        "https://raw.githubusercontent.com/kloytofyexploiter/Misaka-repo_MRX/main/repo.json",
+        "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+        "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
+        "https://misakarepojson.pages.dev/repo.json",
+        "https://check0ver.com/repo.json"
+      ]
+    },
+    {
+      "Section": "Backup",
+      "Repositories": [
+        "https://raw.githubusercontent.com/tyler10290/MisakaRepoBackup/main/repo.json"
+      ]
+    },
+    {
+      "Section": "Mirror",
+      "Repositories": [
+        "https://raw.githubusercontent.com/hanabiADHD/DekotasMirror/main/dekotas.json",
+        "https://gist.githubusercontent.com/c22dev/af8dd3a760330eb31da5f8751af1b487/raw/6eb744fabc6eb0eb3352ce41c9a08ce5c38c4e6a/index.json"
+      ]
+    }
+  ]
