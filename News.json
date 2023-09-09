@@ -2,6 +2,18 @@
     "Update": "2023/09/08 12:28(UTC)",
     "Tweaks": [ 
             {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.darkpearl"
+    },
+            {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.WhiteDark"
+    },
+            {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.DarkColorsv2"
+    },
+            {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
       "PackageID": "com.ounidesigns.leos"
     },
