@@ -3,6 +3,18 @@
     "Tweaks": [ 
             {
       "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.TheGiverJB.STARWARS"
+    },
+            {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.3DColor"
+    },
+            {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.Genius"
+    },
+            {
+      "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.uae_ad1001.darkpearl"
     },
             {
