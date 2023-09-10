@@ -1,6 +1,22 @@
 {
-    "Update": "2023/09/08 12:28(UTC)",
+    "Update": "2023/09/10",
     "Tweaks": [ 
+            {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.Z9BA"
+    },
+            {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.UAE"
+    },
+            {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.UAEWood"
+    },
+            {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.moondr1.Royalty"
+    },
             {
       "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.TheGiverJB.STARWARS"
