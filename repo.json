@@ -277,18 +277,23 @@
 					}
 				]
 			},
-			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149384039082496040/IMG_0811.jpg",
-			"HeaderImage": "https://cdn.discordapp.com/attachments/1108417213972631635/1149478434930692106/IMG_0845.jpg",
+			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1151838432184766504/IMG_0980.jpg",
+			"HeaderImage": "https://cdn.discordapp.com/attachments/1108417213972631635/1151838432478372000/IMG_0981.jpg",
 			"Category": "Icon Pack",
 			"Caption": "Icon Pack by justat3chguy",
 			"Screenshot": [
-				"https://cdn.discordapp.com/attachments/1108417213972631635/1149375809954517052/IMG_0803.jpg"
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1151838432801341490/IMG_0982.jpg",
+				"https://cdn.discordapp.com/attachments/1108417213972631635/1151838433099124756/IMG_0983.jpg"
 			],
 			"Releases": [
 				{
 					"Version": "1.0",
 					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.justat3chguy.inevitable.misaka",
 					"Description": null
+				},{
+					"Version": "3.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.justat3chguy.inevitable-3.0.misaka",
+					"Description": "204 icons in total Light/Dark"
 				}
 			],
 			"PackageID": "com.justat3chguy.inevitable"
