@@ -6,10 +6,6 @@
       "PackageID": "jp.ChromiumCandy.Superevise"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "jp.ChromiumCandy.Superevise"
-    },
-    {
       "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
       "PackageID": "com.hackzy.dawnbreaker"
     },
