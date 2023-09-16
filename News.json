@@ -2,6 +2,10 @@
   "Update": "2023/09/16",
   "Tweaks": [
     {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.TheGiverJB.MintGoldAI"
+    },
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
       "PackageID": "vn.p0s3id0n.MusiFix90"
     },
