@@ -2,6 +2,10 @@
   "Update": "2023/09/16",
   "Tweaks": [
     {
+      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
+      "PackageID": "vn.p0s3id0n.MusiFix90"
+    },
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.Superevise"
     },
