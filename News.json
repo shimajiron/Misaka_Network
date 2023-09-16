@@ -1,592 +1,105 @@
 {
-    "Update": "2023/09/15",
-    "Tweaks": [ 
-            {
+  "Update": "2023/09/16",
+  "Tweaks": [
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.Superevise"
     },
-            {
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.Superevise"
+    },
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
       "PackageID": "com.hackzy.dawnbreaker"
     },
-            {
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
       "PackageID": "com.justat3chguy.inevitable"
     },
-            {
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
       "PackageID": "vn.p0s3id0n.Ubuntu"
     },
-            {
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
       "PackageID": "com.Kumiki.LockAppleEvent2023"
     },
-            {
+    {
       "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.windowstheme"
     },
-            {
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.colorboard"
     },
-            {
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
       "PackageID": "com.hackzy.joypixels"
     },
-            {
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
       "PackageID": "com.hackzy.mmfonts"
     },
-            {
+    {
       "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
       "PackageID": "com.yangjiii.kindaStock"
     },
-            {
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
       "PackageID": "com.hn.rmicl"
     },
-            {
+    {
       "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.uae_ad1001.Z9BA"
     },
-            {
+    {
       "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.uae_ad1001.UAE"
     },
-            {
+    {
       "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.uae_ad1001.UAEWood"
     },
-            {
+    {
       "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.moondr1.Royalty"
     },
-            {
+    {
       "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.TheGiverJB.STARWARS"
     },
-            {
+    {
       "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.uae_ad1001.3DColor"
     },
-            {
+    {
       "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.uae_ad1001.Genius"
     },
-            {
+    {
       "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.uae_ad1001.darkpearl"
     },
-            {
+    {
       "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.uae_ad1001.WhiteDark"
     },
-            {
+    {
       "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.uae_ad1001.DarkColorsv2"
     },
-            {
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
       "PackageID": "com.ounidesigns.leos"
     },
-            {
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
       "PackageID": "com.ounidesigns.borea"
     },
-            {
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
       "PackageID": "com.moondr1.silverware"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-      "PackageID": "com.moondr1.awesome"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-      "PackageID": "com.jbjf.ahahbootloop"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-      "PackageID": "com.moondr1.darkdell"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-      "PackageID": "com.moondr1.classictheme"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-      "PackageID": "com.moondr1.aroma"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-      "PackageID": "com.check0ver.darkpearl"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-      "PackageID": "com.check0ver.darkcolors"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.pulsarCC"
-    },
-            {
-      "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
-      "PackageID": "com.yangjiii.hidemanager"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-      "PackageID": "com.hackzy.windowsphone"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-      "PackageID": "com.hackzy.gestures"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.hunganh.walletbg"
-    },  
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/tdquang266/MDC/main/repo.json",
-      "PackageID": "com.tdquang.at-huge-icons"
-    },
-        
-        {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.p0s3id0n.Arima"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.p0s3id0n.CoConPro"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.p0s3id0n.Corporative"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.p0s3id0n.Dosis"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.p0s3id0n.EvolveFree"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.p0s3id0n.FuturaN"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.p0s3id0n.GSans"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.p0s3id0n.MissuLove"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.p0s3id0n.Musi"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.p0s3id0n.Punto"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.p0s3id0n.QuicksandLC90"
-    },
-        {
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "jp.ChromiumCandy.Canvas"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-      "PackageID": "com.constantin.limitless"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "jp.ChromiumCandy.Canvas"
-    },
-            {
-      "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
-      "PackageID": "com.yangjiii.plampyuicc"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "com.Kumiki.NoSwipeUpToOpen"
-    },
-        {
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "jp.ChromiumCandy.HideOldNotificationFix"
-    },
-            {
-      "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
-      "PackageID": "com.yangjiii.dynamicisland"
-    },
-            {
-      "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
-      "PackageID": "com.yangjiii.fasttoolbox"
-    },
-        {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-      "PackageID": "com.epos.settingsmanager"
-    },
-        {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.fontclock16_3"
-    },
-        {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.sharinganlock"
-    },
-        {
-      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
-      "PackageID": "com.p0s3id0n.LSGone"
-    },
-        {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.assplampy"
-    },
-    {    
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-      "PackageID": "jp.ChromiumCandy.SpeedUnlock"
-    },
-        {
-      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-      "PackageID": "com.hackzy.gestures"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.ccmodios15"
-    },
-        {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.lockmanager"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-      "PackageID": "com.hackzy.galaxyfonts"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.tanklock"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.cggio.quicksandfont"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.cggio.customizelockscreen"
-    },
-            {
-      "RepositoryURL": "https://puck.roeegh.com/repo.json",
-      "PackageID": "com.roeegh.Palette"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.keyboardspace"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.cggio.customizenotification"
-    },
-         {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.cggio.customizenotification16"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-      "PackageID": "com.hackzy.pxlsui"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.cggio.galaticsky"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.cggio.appleicon"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.cggio.doremonicon"
-    },    {
-      "RepositoryURL": "https://raw.githubusercontent.com/sadending-ios/sadending.github.io/main/Misaka%20Tweaks/Ringtones%20Customer/repo.json",
-      "PackageID": "com.ringtonescustomer.hamt"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.lsuimanager16"
-    },
-        
-        {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.lsuimanager15"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-      "PackageID": "com.epos.quickactioncolor"
-    },
-            {
-      "RepositoryURL": "https://puck.roeegh.com/repo.json",
-      "PackageID": "com.roeegh.Bajji"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-      "PackageID": "com.epos.nothingosfont"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-      "PackageID": "com.hackzy.passcodecustomiser"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/tdquang266/MDC/main/repo.json",
-      "PackageID": "com.tdquang.guangzhang-ui"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.doremonlock"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-      "PackageID": "com.epos.sushikiclock15"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-      "PackageID": "com.yangjiii.plampysettings"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.yenniefont"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.textsearchv2ios16"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.textsearch"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.ccmodios16"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.batterynoticationios16"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.songokulock"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.lsuisharingan"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.lsuipikachu"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.lsuigokuvegeta"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.lsui3"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.lsui2"
-    },
-    {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.lsui1"
-    },
-        {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.kyotofont"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.emojijoypixelsdecal"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.geogrotesquefont"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.futurafont"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.fontclock16_2"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.fontclock16_1"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.fontclock15_1"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.emojifacebook"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.change3g4glte"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.controlcenter1_6"
-    },
-            {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.emojiblob"
-    },
-
-
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-      "PackageID": "com.leemin.calculator_error_message"
-    },
-            {
-      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-      "PackageID": "com.epos.appcc"
-    },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.debugstoofs"
-        },
-        {
-            "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
-            "PackageID": "www.iwishkem.tk.iOS16Clock_1"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-            "PackageID": "com.hackzy.oneuisettings"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
-            "PackageID": "jp.ChromiumCandy.AdguardDNSdoh"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-            "PackageID": "com.hackzy.cleanprefs"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-            "PackageID": "com.hackzy.negativedock"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.novulntools2"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.doublebubblesettings"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.vivacitysettings"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.morandisettings"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.felicitysettings"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-            "PackageID": "com.yangjiii.messengersoundsbeta1.0"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.carplaywp"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.mariolock"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.androidlock"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.frostedui"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.fontmanager"
-        },
-        {
-            "RepositoryURL": "https://www.iwishkem.tk/misaka.json",
-            "PackageID": "www.iwishkem.tk.iOS16Clock_1"
-        },
-        {
-            "RepositoryURL": "https://github.com/Fomri/fomrirepo/raw/main/repo.json",
-            "PackageID": "com.fomri.Whitelist"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.soundmanager"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/YangJiiii/repomdc/main/Repo/repo.json",
-            "PackageID": "com.yangjiii.plampyuicc"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-            "PackageID": "com.Kumiki.LockOnimai_SakuraPlus"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.14prolock"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.comicrelieffont"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.shootastarfont"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.sicafont"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.3dfluentemojis"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.toadlock"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.tailslock"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.gastlylock"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.boomlock"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-            "PackageID": "com.hackzy.scharge"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.stencilclock"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.eulaclock"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.aulacclock"
-        },
-        {
-            "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
-            "PackageID": "com.epos.nothingclock15"
-        }
-    ]
+    }
+  ]
 }
