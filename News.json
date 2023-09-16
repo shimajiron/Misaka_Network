@@ -2,12 +2,12 @@
   "Update": "2023/09/16",
   "Tweaks": [
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
-      "PackageID": "com.hackzy.dawnbreaker"
-    },
-    {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.Superevise"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+      "PackageID": "com.hackzy.dawnbreaker"
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
