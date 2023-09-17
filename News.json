@@ -2,6 +2,10 @@
   "Update": "2023/09/17",
   "Tweaks": [
     {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+      "PackageID": "com.epos.pulsarlsui"
+    },
+    {
       "RepositoryURL": "https://puck.roeegh.com/repo.json",
       "PackageID": "com.roeegh.Palette"
     },
