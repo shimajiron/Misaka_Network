@@ -1,6 +1,10 @@
 {
-  "Update": "2023/09/16",
+  "Update": "2023/09/17",
   "Tweaks": [
+    {
+      "RepositoryURL": "https://puck.roeegh.com/repo.json",
+      "PackageID": "com.roeegh.Palette"
+    },
     {
       "RepositoryURL": "https://check0ver.com/repo.json",
       "PackageID": "com.TheGiverJB.MintGoldAI"
