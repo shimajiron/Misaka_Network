@@ -2,6 +2,10 @@
   "Update": "2023/09/18",
   "Tweaks": [
     {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+      "PackageID": "com.epos.gradient"
+    },
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.Superevise"
     },
