@@ -1,6 +1,6 @@
 {
-  "Update": "2023/09/18",
-  "Tweaks": [
+  "LastUpdate": "2023/09/18",
+  "NewRelease": [
     {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.Superevise"
