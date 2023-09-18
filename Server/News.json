@@ -1,0 +1,117 @@
+{
+  "Update": "2023/09/18",
+  "Tweaks": [
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.Superevise"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+      "PackageID": "com.epos.pulsarlsui"
+    },
+    {
+      "RepositoryURL": "https://puck.roeegh.com/repo.json",
+      "PackageID": "com.roeegh.Palette"
+    },
+    {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.TheGiverJB.MintGoldAI"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
+      "PackageID": "vn.p0s3id0n.MusiFix90"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+      "PackageID": "com.hackzy.dawnbreaker"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.justat3chguy.inevitable"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
+      "PackageID": "vn.p0s3id0n.Ubuntu"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
+      "PackageID": "com.Kumiki.LockAppleEvent2023"
+    },
+    {
+      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.windowstheme"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+      "PackageID": "com.epos.colorboard"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+      "PackageID": "com.hackzy.joypixels"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+      "PackageID": "com.hackzy.mmfonts"
+    },
+    {
+      "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
+      "PackageID": "com.yangjiii.kindaStock"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
+      "PackageID": "com.hn.rmicl"
+    },
+    {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.Z9BA"
+    },
+    {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.UAE"
+    },
+    {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.UAEWood"
+    },
+    {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.moondr1.Royalty"
+    },
+    {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.TheGiverJB.STARWARS"
+    },
+    {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.3DColor"
+    },
+    {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.Genius"
+    },
+    {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.darkpearl"
+    },
+    {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.WhiteDark"
+    },
+    {
+      "RepositoryURL": "https://check0ver.com/repo.json",
+      "PackageID": "com.uae_ad1001.DarkColorsv2"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.ounidesigns.leos"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.ounidesigns.borea"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+      "PackageID": "com.moondr1.silverware"
+    }
+  ]
+}
