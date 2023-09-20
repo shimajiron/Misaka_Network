@@ -1,78 +1,82 @@
 [
-    {
-        "title": "how to enable tweaks",
-        "link": "https://discord.com/channels/1074625970029477919/1136687226114293903/1136687226114293903"
-    },
-    {
-        "title": "How to change the exploit",
-        "link": "https://discord.com/channels/1074625970029477919/1136689069573812285/1136689069573812285"
-    },
-    {
-        "title": "Is my device supported?",
-        "link": "https://discord.com/channels/1074625970029477919/1136693128548589619/1136693128548589619"
-    },
-    {
-        "title": "The 5 buttons in packages",
-        "link": "https://discord.com/channels/1074625970029477919/1136702802102583316/1136702802102583316"
-    },
-    {
-        "title": "Tweaks do not apply! Help!",
-        "link": "https://discord.com/channels/1074625970029477919/1136703481881837578/1136703481881837578"
-    },
-    {
-        "title": "how to install tweaks",
-        "link": "https://discord.com/channels/1074625970029477919/1136687076218253393/1136704308524634213"
-    },
-    {
-        "title": " What is MDC, KFD?",
-        "link": "https://discord.com/channels/1074625970029477919/1136705135603621999/1136705135603621999"
-    },
-    {
-        "title": "Advanced settings (aka tweak settings)",
-        "link": "https://discord.com/channels/1074625970029477919/1136708156257480715/1136708156257480715"
-    },
-    {
-        "title": "More tweak options (explanation)",
-        "link": "https://discord.com/channels/1074625970029477919/1136714654605901885/1136714654605901885"
-    },
-    {
-        "title": "Tweaks supported/not supported",
-        "link": "https://discord.com/channels/1074625970029477919/1136694096203882506/1136695383880372314"
-    },
-    {
-        "title": "How to update a tweak",
-        "link": "https://discord.com/channels/1074625970029477919/1137335821461102712/1137335821461102712"
-    },
-    {
-        "title": "DELAY OTA 16.4.1 OR 16.5 (w/ Cowabunga Lite)",
-        "link": "https://discord.com/channels/1074625970029477919/1137783331715555399/1137783331715555399"
-    },
-    {
-        "title": "How to change Misaka App icon?",
-        "link": "https://discord.com/channels/1074625970029477919/1138479986328748223/1138479986328748223"
-    },
-    {
-        "title": "Search feature has added!",
-        "link": "https://discord.com/channels/1074625970029477919/1146036161509330988/1146036161509330988"
-    },
-    {
-        "title": "how to fix rdar? (red bar)",
-        "link": "https://discord.com/channels/1074625970029477919/1146672882009772132/1146672882009772132"
-    },
-    {
-        "title": "How to import icon themes",
-        "link": "https://discord.com/channels/1074625970029477919/1149315458600812554/1149315458600812554"
-    },
-    {
-        "title": "Respring crash on jailbroken devices",
-        "link": "https://discord.com/channels/1074625970029477919/1091727729185017896/1091727729185017896"
-    },
-    {
-        "title": "Where is ToolBox?",
-        "link": "https://discord.com/channels/1074625970029477919/1150989515071160391/1150989515071160391"
-    },
-    {
-        "title": "UI is broken",
-        "link": "https://discord.com/channels/1074625970029477919/1152128178098282547/1152128178098282547"
-    }
+  {
+    "title": "how to enable tweaks",
+    "link": "https://discord.com/channels/1074625970029477919/1136687226114293903/1136687226114293903"
+  },
+  {
+    "title": "How to change the exploit",
+    "link": "https://discord.com/channels/1074625970029477919/1136689069573812285/1136689069573812285"
+  },
+  {
+    "title": "Is my device supported?",
+    "link": "https://discord.com/channels/1074625970029477919/1136693128548589619/1136693128548589619"
+  },
+  {
+    "title": "The 5 buttons in packages",
+    "link": "https://discord.com/channels/1074625970029477919/1136702802102583316/1136702802102583316"
+  },
+  {
+    "title": "Tweaks do not apply! Help!",
+    "link": "https://discord.com/channels/1074625970029477919/1136703481881837578/1136703481881837578"
+  },
+  {
+    "title": "how to install tweaks",
+    "link": "https://discord.com/channels/1074625970029477919/1136687076218253393/1136704308524634213"
+  },
+  {
+    "title": " What is MDC, KFD?",
+    "link": "https://discord.com/channels/1074625970029477919/1136705135603621999/1136705135603621999"
+  },
+  {
+    "title": "Advanced settings (aka tweak settings)",
+    "link": "https://discord.com/channels/1074625970029477919/1136708156257480715/1136708156257480715"
+  },
+  {
+    "title": "More tweak options (explanation)",
+    "link": "https://discord.com/channels/1074625970029477919/1136714654605901885/1136714654605901885"
+  },
+  {
+    "title": "Tweaks supported/not supported",
+    "link": "https://discord.com/channels/1074625970029477919/1136694096203882506/1136695383880372314"
+  },
+  {
+    "title": "How to update a tweak",
+    "link": "https://discord.com/channels/1074625970029477919/1137335821461102712/1137335821461102712"
+  },
+  {
+    "title": "DELAY OTA 16.4.1 OR 16.5 (w/ Cowabunga Lite)",
+    "link": "https://discord.com/channels/1074625970029477919/1137783331715555399/1137783331715555399"
+  },
+  {
+    "title": "How to change Misaka App icon?",
+    "link": "https://discord.com/channels/1074625970029477919/1138479986328748223/1138479986328748223"
+  },
+  {
+    "title": "Search feature has added!",
+    "link": "https://discord.com/channels/1074625970029477919/1146036161509330988/1146036161509330988"
+  },
+  {
+    "title": "how to fix rdar? (red bar)",
+    "link": "https://discord.com/channels/1074625970029477919/1146672882009772132/1146672882009772132"
+  },
+  {
+    "title": "How to import icon themes",
+    "link": "https://discord.com/channels/1074625970029477919/1149315458600812554/1149315458600812554"
+  },
+  {
+    "title": "Respring crash on jailbroken devices",
+    "link": "https://discord.com/channels/1074625970029477919/1091727729185017896/1091727729185017896"
+  },
+  {
+    "title": "Where is ToolBox?",
+    "link": "https://discord.com/channels/1074625970029477919/1150989515071160391/1150989515071160391"
+  },
+  {
+    "title": "UI is broken",
+    "link": "https://discord.com/channels/1074625970029477919/1152128178098282547/1152128178098282547"
+  },
+  {
+    "title": "Icon theming with kfd",
+    "link": "https://discord.com/channels/1074625970029477919/1152191217845678161/1152191217845678161"
+  }
 ]
