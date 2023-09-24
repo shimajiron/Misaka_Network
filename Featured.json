@@ -42,8 +42,8 @@
 			"PackageID": "com.epos.appcc"
 		},
 		{
-			"RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-			"PackageID": "com.dobabaophuc.controlcenter1_6"
+			"RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+			"PackageID": "com.straight-tamago.Disable_Homebar"
 		},
 		{
 			"RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
