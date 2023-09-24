@@ -1,12 +1,12 @@
 {
 	"Tweak01": [
-		    {
-      "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-      "PackageID": "com.moondr1.aroma"
-    },
 		{
-			"RepositoryURL": "https://puck.roeegh.com/repo.json",
-			"PackageID": "com.roeegh.Palette"
+			"RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+			"PackageID": "com.moondr1.aroma"
+		},
+		{
+			"RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+			"PackageID": "com.straight-tamago.Disable_Homebar"
 		},
 		{
 			"RepositoryURL": "https://raw.githubusercontent.com/tdquang266/MDC/main/repo.json",
@@ -42,8 +42,8 @@
 			"PackageID": "com.epos.appcc"
 		},
 		{
-			"RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
-			"PackageID": "com.straight-tamago.Disable_Homebar"
+			"RepositoryURL": "https://puck.roeegh.com/repo.json",
+			"PackageID": "com.roeegh.Palette"
 		},
 		{
 			"RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
