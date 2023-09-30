@@ -1,0 +1,247 @@
+[
+    {
+        "Section": "Contributors",
+        "Contents": [
+            {
+                "Name": "straight-tamago",
+                "Image": "https://github.com/straight-tamago.png",
+                "Contribution": "Lead Developer",
+                "Link": "https://twitter.com/straight_tamago"
+            },
+            {
+                "Name": "Little 34306",
+                "Image": "https://pbs.twimg.com/profile_images/1632256687267799041/BmBT07qo_400x400.jpg",
+                "Contribution": "KFD Exploit & Offsets",
+                "Link": "https://twitter.com/Little_34306"
+            },
+            {
+                "Name": "AppInstaller iOS",
+                "Image": "https://cdn.discordapp.com/attachments/1108417213972631635/1141962458857214043/IMG_1383.png",
+                "Contribution": "File Stuff & KFD Offsets",
+                "Link": "https://twitter.com/AppInstalleriOS"
+            },
+            {
+                "Name": "uz.ra",
+                "Image": "https://github.com/uz-ra.png",
+                "Contribution": "UI Design",
+                "Link": "https://twitter.com/ChromiumCandy"
+            },
+            {
+                "Name": "LeminLimez",
+                "Image": "https://pbs.twimg.com/profile_images/1183729389831409664/N91bDhQU_400x400.jpg",
+                "Contribution": "Settings Page",
+                "Link": "https://twitter.com/LeminLimez"
+            },
+            {
+                "Name": "haxi0sm",
+                "Image": "https://github.com/haxi0.png",
+                "Contribution": "Icon Design & Recommended Page",
+                "Link": "https://twitter.com/haxi0sm"
+            },
+            {
+                "Name": "Serena",
+                "Image": "https://github.com/SerenaKit.png",
+                "Contribution": "PrivateKits",
+                "Link": "https://twitter.com/CoreSerena"
+            },
+            {
+                "Name": "htrowii",
+                "Image": "https://pbs.twimg.com/profile_images/1369924696653762560/DW1_IBEv_400x400.jpg",
+                "Contribution": "KFD Exploit Code",
+                "Link": "https://twitter.com/htrowii"
+            },
+            {
+                "Name": "wh1te4ever",
+                "Contribution": "KFD Exploit Code",
+                "Link": "https://twitter.com/wh1te4ever"
+            },
+            {
+                "Name": "p0up0u",
+                "Image": "https://github.com/felix-pb.png",
+                "Contribution": "KFD Exploit Code",
+                "Link": "https://twitter.com/_p0up0u_"
+            },
+            {
+                "Name": "zhuowei",
+                "Image": "https://pbs.twimg.com/profile_images/1801896736/twitteravatar_400x400.png",
+                "Contribution": "MDC Exploit Code",
+                "Link": "https://twitter.com/zhuowei"
+            },
+            {
+                "Name": "ginsudev",
+                "Image": "https://github.com/ginsudev.png",
+                "Contribution": "MDC Exploit Code",
+                "Link": "https://twitter.com/ginsudev"
+            },
+            {
+                "Name": "WDBFontOverwrite",
+                "Contribution": "MDC Exploit Code",
+                "Link": "https://github.com/ginsudev/WDBFontOverwrite"
+            },
+            {
+                "Name": "Ian Beer of Project Zero",
+                "Contribution": "CVE-2022-46689",
+                "Link": "https://twitter.com/i41nbeer"
+            }
+        ]
+    },
+    {
+        "Section": "Private Testers",
+        "Contents": [
+            {
+                "Name": "roeegh",
+                "Image": "https://github.com/roeegh.png",
+                "Contribution": "Repository & Tweaks",
+                "Link": "https://twitter.com/roeegh"
+            },
+            {
+                "Name": "Coolwcat",
+                "Image": "https://pbs.twimg.com/profile_images/1453287292580376593/DV7x6l-H_400x400.jpg",
+                "Contribution": "Repository & Tweaks",
+                "Link": "https://twitter.com/coolwcat"
+            },
+            {
+                "Name": "Little 34306",
+                "Image": "https://pbs.twimg.com/profile_images/1632256687267799041/BmBT07qo_400x400.jpg",
+                "Contribution": "Repository & Tweaks",
+                "Link": "https://twitter.com/Little_34306"
+            },
+            {
+                "Name": "ichitaso",
+                "Image": "https://github.com/ichitaso.png",
+                "Contribution": "Repository & Tweaks",
+                "Link": "https://twitter.com/ichitaso"
+            },
+            {
+                "Name": "YangJiii",
+                "Image": "https://pbs.twimg.com/profile_images/1688114352849813504/W8jnslKS_400x400.jpg",
+                "Contribution": "Repository & Tweaks",
+                "Link": "https://twitter.com/duongduong0908"
+            },
+            {
+                "Name": "fall20c",
+                "Image": "https://pbs.twimg.com/profile_images/1634357393701355521/UpGoJa0g_400x400.jpg",
+                "Contribution": "Tweaks",
+                "Link": "https://twitter.com/fall20c"
+            },
+            {
+                "Name": "Sugiuta",
+                "Image": "https://github.com/sugiuta.png",
+                "Contribution": "Repository & Tweaks",
+                "Link": "https://github.com/sugiuta"
+            }
+        ]
+    },
+    {
+        "Section": "Repository Owner",
+        "Contents": [
+            {
+                "Name": "HackZy",
+                "Image": "https://cdn.discordapp.com/attachments/1098602551340970074/1139226400084213790/20180415_172547.jpg",
+                "Contribution": "Aurora",
+                "Link": "https://twitter.com/hackzy01"
+            },
+            {
+                "Name": "EPOS",
+                "Image": "https://github.com/EPOS05.png",
+                "Contribution": "EPOSbox",
+                "Link": "https://twitter.com/RealEPOS"
+            }
+        ]
+    },
+    {
+        "Section": "Translators",
+        "Contents": [
+            {
+                "Name": "Moh#5518",
+                "Image": "https://media.discordapp.net/attachments/1108417213972631635/1136650415157559386/ae0fe626325a0f8efb13fc0912d84829.png?width=512&height=512",
+                "Contribution": "ar",
+                "Link": "https://twitter.com/l95vz?s=11&t=DmwCmmRZlpmNttIj0m4FhA"
+            },
+            {
+                "Name": "Gury",
+                "Image": "https://media.discordapp.net/attachments/1108417213972631635/1136650375911440404/2023_01_05_13_23_IMG_1191.jpg?width=854&height=854",
+                "Contribution": "cs & sk",
+                "Link": "https://www.instagram.com/sam_gury"
+            },
+            {
+                "Name": "1421rubano",
+                "Image": "https://media.discordapp.net/attachments/1108417213972631635/1136650301940703332/07CZcRrY_400x400.jpg?width=800&height=800",
+                "Contribution": "ca & es",
+                "Link": "https://twitter.com/1421rubano"
+            },
+            {
+                "Name": "Tomi",
+                "Image": "https://media.discordapp.net/attachments/1108417213972631635/1136650448200278046/50D7E066-2A27-4821-926E-74DBE4E5B22F.jpg?width=856&height=856",
+                "Contribution": "de",
+                "Link": "https://twitter.com/t0mi292"
+            },
+            {
+                "Name": "AdelStar",
+                "Image": "https://cdn.discordapp.com/attachments/1131474533203845121/1141704347865059479/IMG_0255.jpg",
+                "Contribution": "fr",
+                "Link": "https://twitter.com/adelmehenni4"
+            },
+            {
+                "Name": "Fomri#3272",
+                "Image": "https://media.discordapp.net/attachments/1108417213972631635/1136650357091602602/a834b2666b73af658d1ed7a48bd95bba.png?width=856&height=856",
+                "Contribution": "he",
+                "Link": ""
+            },
+            {
+                "Name": "straight-tamago",
+                "Image": "https://github.com/straight-tamago.png",
+                "Contribution": "ja",
+                "Link": "https://mobile.twitter.com/straight_tamago"
+            },
+            {
+                "Name": "Outland3r2007",
+                "Image": "https://github.com/tweakrain.png",
+                "Contribution": "ro",
+                "Link": "https://twitter.com/outland3r2007?s=21&t=CwkxYobtGgN-cGEJlPGigw"
+            },
+            {
+                "Name": "YangJiii",
+                "Image": "https://pbs.twimg.com/profile_images/1688114352849813504/W8jnslKS_400x400.jpg",
+                "Contribution": "vi",
+                "Link": "https://twitter.com/duongduong0908"
+            },
+            {
+                "Name": "Oliver Tzeng（曾嘉禾）",
+                "Image": "https://zh-tw.gravatar.com/userimage/223070971/090100e365659e992f382adc9480e987.jpeg?size=256",
+                "Contribution": "zh-TW",
+                "Link": "https://youtube.com/@olivertzeng"
+            },
+            {
+                "Name": "jbjf#1431",
+                "Image": "https://media.discordapp.net/attachments/1108417213972631635/1136650396467728515/198d5bb35f8bdfaac06e12c95af689ce.jpg?width=512&height=512",
+                "Contribution": "zh-CN",
+                "Link": "https://twitter.com/yang_niubi"
+            },
+            {
+                "Name": "Tuchan",
+                "Image": "https://github.com/Tuchan.png",
+                "Contribution": "pl",
+                "Link": "https://tuchan.fun/"
+            },
+            {
+                "Name": "iWishkem",
+                "Image": "https://instagram.fesb9-1.fna.fbcdn.net/v/t51.2885-19/370049809_279479241468895_5567632183768357977_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fesb9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=YsleMme4EqAAX-nXPFG&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBkbI2Poc_X1r_2WkN0pVORWGtM9hW0XjBaBoqZdE2XsA&oe=64FA70A1&_nc_sid=8b3546",
+                "Contribution": "tr",
+                "Link": "https://www.instagram.com/yasiin.arda/"
+            },
+            {
+                "Name": "EPOS",
+                "Image": "https://github.com/EPOS05.png",
+                "Contribution": "nl",
+                "Link": "https://twitter.com/RealEPOS"
+            },
+            {
+                "Name": "ken >:3",
+                "Image": "https://cdn.discordapp.com/attachments/1138513119820382258/1138868406955802764/327045059_451268850425755_1683068479551315004_n.jpg",
+                "Contribution": "sv",
+                "Link": "https://www.instagram.com/_tr4shkid/"
+            }
+        ]
+    }
+]
