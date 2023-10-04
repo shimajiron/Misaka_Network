@@ -1,6 +1,10 @@
 {
-  "Update": "2023/09/25 09:49",
+  "Update": "2023/10/04 12:20",
   "Tweaks": [
+    {
+      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.pulsarCC"
+    },
     {
       "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.ccmodios16"
