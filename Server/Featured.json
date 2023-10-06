@@ -36,7 +36,7 @@
 		},
 		{
 			"RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-			"PackageID": "com.dobabaophuc.controlcenter1_6"
+			"PackageID": "com.dobabaophuc.pulsarCC"
 		},
 		{
 			"RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
