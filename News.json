@@ -1,6 +1,10 @@
 {
-  "Update": "2023/10/04 12:20",
+  "Update": "2023/10/10 14:42",
   "Tweaks": [
+    {
+      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.LSKgSecondChances"
+    },
     {
       "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.pulsarCC"
