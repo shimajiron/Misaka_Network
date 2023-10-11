@@ -38,6 +38,12 @@
 					"Description": null
 				}
 			],
+			"Depends": [
+				{
+					"Repository": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
+					"PackageID": "com.ounidesigns.leos"
+				}
+			],
 			"PackageID": "com.ounidesigns.borea"
 		},
 		{
