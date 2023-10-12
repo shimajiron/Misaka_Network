@@ -1,6 +1,34 @@
 {
-  "LastUpdate": "2023/09/18",
+  "LastUpdate": "2023/10/10 14:42",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.LSKgSecondChances"
+    },
+    {
+      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.pulsarCC"
+    },
+    {
+      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.ccmodios16"
+    },
+    {
+      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.ccmodios15"
+    },
+    {
+      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.assplampy"
+    },
+    {
+      "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
+      "PackageID": "com.yangjiii.TrakyaRounded85"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
+      "PackageID": "com.epos.gradient"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
       "PackageID": "jp.ChromiumCandy.Superevise"
@@ -18,10 +46,6 @@
       "PackageID": "com.TheGiverJB.MintGoldAI"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
-      "PackageID": "vn.p0s3id0n.MusiFix90"
-    },
-    {
       "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
       "PackageID": "com.hackzy.dawnbreaker"
     },
@@ -30,16 +54,8 @@
       "PackageID": "com.justat3chguy.inevitable"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/p0s3id0n86/misakarepo/main/Repo/repo.json",
-      "PackageID": "vn.p0s3id0n.Ubuntu"
-    },
-    {
       "RepositoryURL": "https://raw.githubusercontent.com/chimaha/misakarepo/main/repo.json",
       "PackageID": "com.Kumiki.LockAppleEvent2023"
-    },
-    {
-      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.windowstheme"
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
