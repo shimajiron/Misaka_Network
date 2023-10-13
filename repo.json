@@ -10,6 +10,34 @@
 	},
 	"RepositoryContents": [
 		{
+			"Name": "PPLoader",
+			"Description": "Base Package",
+			"MinIOSVersion": "14.0",
+			"MaxIOSVersion": "16.1.2",
+			"Author": {
+				"Label": "misakaProject",
+				"Links": [
+					{
+						"Label": "Discord",
+						"Link": "https://discord.gg/KSExeZVAGX"
+					}
+				]
+			},
+			"Icon": "https://cdn.discordapp.com/attachments/1108417213972631635/1149667669751111690/com.weather.TWC-large.png",
+			"HeaderImage": null,
+			"Category": "Base Package",
+			"Caption": null,
+			"Screenshot": null,
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.ounidesigns.borea.misaka",
+					"Description": null
+				}
+			],
+			"PackageID": "com.shimajiron.pploader"
+		},
+		{
 			"Name": "Borea",
 			"Description": "Icon Pack by OuniDesigns",
 			"MinIOSVersion": "14.0",
