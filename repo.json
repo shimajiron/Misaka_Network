@@ -10,7 +10,7 @@
 	},
 	"RepositoryContents": [
 		{
-			"Name": "PPLoader",
+			"Name": "P/PLoader",
 			"Description": "Base Package",
 			"MinIOSVersion": "15.0",
 			"MaxIOSVersion": "16.6",
