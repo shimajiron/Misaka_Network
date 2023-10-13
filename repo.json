@@ -12,8 +12,8 @@
 		{
 			"Name": "PPLoader",
 			"Description": "Base Package",
-			"MinIOSVersion": "14.0",
-			"MaxIOSVersion": "16.1.2",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6",
 			"Author": {
 				"Label": "misakaProject",
 				"Links": [
