@@ -14,6 +14,13 @@
 			"Description": "Base Package",
 			"MinIOSVersion": "15.0",
 			"MaxIOSVersion": "16.6",
+			"AdditionalSupportedIOS": {
+				"MinIOSVersion_CustomLabel": "15.0",
+				"MaxIOSVersion_CustomLabel": "16.6b1",
+				"Build": [
+					"20G5026e"
+				]
+			},
 			"Author": {
 				"Label": "misakaProject",
 				"Links": [
