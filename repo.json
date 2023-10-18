@@ -35,6 +35,7 @@
       "Category": "Base Package",
       "Caption": null,
       "Screenshot": null,
+      "compatibleExploit": ["MDC", "KFD"],
       "Releases": [
         {
           "Version": "1.0",
