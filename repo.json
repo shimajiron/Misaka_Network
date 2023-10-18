@@ -67,6 +67,7 @@
         "https://cdn.discordapp.com/attachments/1162406761278472303/1162426167442284614/IMG_0851.png?ex=653be4bb&is=65296fbb&hm=0c1f1e640f678c56ae6e984543ef250aa0aa215a9fe030975c71fe7c1c4b63c5&",
         "https://cdn.discordapp.com/attachments/1162406761278472303/1162426203609776208/IMG_0852.png?ex=653be4c3&is=65296fc3&hm=c67c5413b787080fa63a13a5f7b7e7362ea46ac5295b4c38bb2d0293a4910b57&"
       ],
+      "compatibleExploit": ["nnn", "mmm"],
       "Releases": [
         {
           "Version": "1.0",
