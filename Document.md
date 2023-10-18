@@ -333,6 +333,27 @@ Root
         └─...Item x
 ```
 
+
+## Wheel
+![Sample Segment](/Sample/Sample.Wheel.jpg)
+
+[Sample file](https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Sample/Sample.Wheel.misaka)
+```
+└─Item 11[Dictionary]
+    ├─Identifier
+    ├─Type(String)
+    ├─UI(Wheel)
+    ├─Value(sample.segment1)
+    └─Selection[Array]
+        ├─Item 0[Dictionary]
+        │   ├─Label(ConnecitivityModule)
+        │   └─Value(sample.segment1)
+        ├─Item 1[Dictionary]
+        │   ├─Label(Nowplyaing)
+        │   └─Value(sample.segment2)
+        └─...Item x
+```
+
 ## Navigation link
 ![Sample NavigationLink](/Sample/Sample.NavigationLink.jpg)
 
