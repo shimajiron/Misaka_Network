@@ -1,6 +1,10 @@
 {
-  "Update": "2023/10/10 14:42",
+  "Update": "2023/10/22 14:01",
   "Tweaks": [
+    {
+      "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.LSBendigo"
+    },
     {
       "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.LSKgSecondChances"
@@ -20,10 +24,6 @@
     {
       "RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.assplampy"
-    },
-    {
-      "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
-      "PackageID": "com.yangjiii.TrakyaRounded85"
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
