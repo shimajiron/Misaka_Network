@@ -1,6 +1,10 @@
 {
-  "Update": "2023/10/22 14:01",
+  "Update": "2023/10/29 11:24",
   "Tweaks": [
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.InCircleTheme"
+    },
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.LSBendigo"
