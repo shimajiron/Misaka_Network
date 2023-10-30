@@ -1,6 +1,14 @@
 {
-  "Update": "2023/10/29 11:24",
+  "Update": "2023/10/30 22:00",
   "Tweaks": [
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.LSUIHalloween"
+    },
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.LSHalloween"
+    },
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.InCircleTheme"
