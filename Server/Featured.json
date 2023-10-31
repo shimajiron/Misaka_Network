@@ -35,7 +35,7 @@
 			"PackageID": "com.epos.appcc"
 		},
 		{
-			"RepositoryURL": "https://misakarepojson.pages.dev/repo.json",
+			"RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
 			"PackageID": "com.dobabaophuc.pulsarCC"
 		},
 		{
