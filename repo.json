@@ -10,7 +10,7 @@
   },
   "RepositoryContents": [
     {
-      "Name": "P/PLoader",
+      "Name": "P2Loader",
       "Description": "Base Package",
       "MinIOSVersion": "15.0",
       "MaxIOSVersion": "16.6",
@@ -43,7 +43,7 @@
           "Description": null
         }
       ],
-      "PackageID": "com.shimajiron.pploader"
+      "PackageID": "com.shimajiron.p2loader"
     },
     {
       "Name": "Borea",
