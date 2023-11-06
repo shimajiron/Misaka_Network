@@ -9,6 +9,10 @@
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.pipstt1"
     },
+        {
+      "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
+      "PackageID": "com.hn.pip1"
+    },
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.LSKgSecondChances"
