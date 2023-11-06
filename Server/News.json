@@ -2,6 +2,10 @@
   "LastUpdate": "2023/10/10 14:42",
   "NewRelease": [
     {
+      "RepositoryURL": "https://puck.roeegh.com/repo.json",
+      "PackageID": "com.roeegh.joutai"
+    },
+    {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.pipstt1"
     },
