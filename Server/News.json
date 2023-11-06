@@ -3,6 +3,10 @@
   "NewRelease": [
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.pipstt1"
+    },
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.LSKgSecondChances"
     },
     {
