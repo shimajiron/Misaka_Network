@@ -10,6 +10,34 @@
   },
   "RepositoryContents": [
     {
+      "Name": "MemClock",
+      "Description": "Clock and empty memory are displayed below the status bar",
+      "MinIOSVersion": "15.0",
+      "Author": {
+        "Label": "straight-tamago",
+        "Links": [
+          {
+            "Label": "straight-tamago",
+            "Link": "https://twitter.com/straight_tamago"
+          }
+        ]
+      },
+      "Icon": null,
+      "HeaderImage": null,
+      "Category": null,
+      "Caption": "Clock and empty memory are displayed below the status bar",
+      "Screenshot": null,
+      "compatibleExploit": ["MDC", "KFD", "No Exploit"],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://cdn.discordapp.com/attachments/1149042349389910036/1170927882743332944/MemClock.misaka?ex=655ad292&is=65485d92&hm=209ab5f13a4df37dd32f0eac6c3e747aa9b58921bcfb468fdc37f93ec6e7c830&",
+          "Description": null
+        }
+      ],
+      "PackageID": "com.straight-tamago.memclock"
+    },
+    {
       "Name": "P2Loader",
       "Description": "Base Package",
       "MinIOSVersion": "15.0",
@@ -35,11 +63,10 @@
       "Category": "Base Package",
       "Caption": null,
       "Screenshot": null,
-      "compatibleExploit": ["MDC", "KFD"],
       "Releases": [
         {
           "Version": "1.0",
-          "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.ounidesigns.borea.misaka",
+          "Package": "https://cdn.discordapp.com/attachments/1149042349389910036/1170903244852174908/com.shimajiron.p2loader.misaka?ex=655abb9f&is=6548469f&hm=98c1dbad8834f1f5ca5f4da1a75cc6fc707f9221c126985a414ed5ea415c59f8&",
           "Description": null
         }
       ],
