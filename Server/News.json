@@ -1,6 +1,10 @@
 {
-  "LastUpdate": "2023/11/07 04:37",
+  "LastUpdate": "2023/11/07 04:39",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://puck.roeegh.com/repo.json",
+      "PackageID": "com.roeegh.joutai"
+    },
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.pipstt1"
@@ -20,10 +24,6 @@
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.LSBendigo"
-    },
-    {
-      "RepositoryURL": "https://puck.roeegh.com/repo.json",
-      "PackageID": "com.roeegh.joutai"
     },
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
