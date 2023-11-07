@@ -1,17 +1,29 @@
 {
-  "LastUpdate": "2023/11/6 21:12",
+  "LastUpdate": "2023/11/07 04:37",
   "NewRelease": [
-    {
-      "RepositoryURL": "https://puck.roeegh.com/repo.json",
-      "PackageID": "com.roeegh.joutai"
-    },
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.pipstt1"
     },
-        {
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
       "PackageID": "com.hn.pip1"
+    },
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.LSUIHalloween"
+    },
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.LSHalloween"
+    },
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.LSBendigo"
+    },
+    {
+      "RepositoryURL": "https://puck.roeegh.com/repo.json",
+      "PackageID": "com.roeegh.joutai"
     },
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
@@ -34,10 +46,6 @@
       "PackageID": "com.dobabaophuc.assplampy"
     },
     {
-      "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
-      "PackageID": "com.yangjiii.TrakyaRounded85"
-    },
-    {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.gradient"
     },
@@ -48,10 +56,6 @@
     {
       "RepositoryURL": "https://raw.githubusercontent.com/EPOS05/EPOSbox/main/misaka.json",
       "PackageID": "com.epos.pulsarlsui"
-    },
-    {
-      "RepositoryURL": "https://puck.roeegh.com/repo.json",
-      "PackageID": "com.roeegh.Palette"
     },
     {
       "RepositoryURL": "https://check0ver.com/repo.json",
