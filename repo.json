@@ -528,6 +528,11 @@
           "Version": "1.0",
           "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/WDBRemoveThreeAppLimit.misaka",
           "Description": null
+        },
+        {
+          "Version": "1.1",
+          "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/WDBRemoveThreeAppLimit-v1.1.misaka",
+          "Description": null
         }
       ],
       "PackageID": "WDBRemoveThreeAppLimit"
