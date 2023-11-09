@@ -410,7 +410,7 @@
            }
          ]
        },
-       "Icon": null,
+       "Icon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.jbjf.JBJFToolBox/com.jbjf.JBJFToolBox.png",
        "HeaderImage": null,
        "Category": "Settings",
        "Caption": "- delMDM profile\n- Supervise\n- ScreenTime\n- FindMyiPhone",
@@ -468,7 +468,7 @@
            }
          ]
        },
-       "Icon": null,
+       "Icon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/WDBRemoveThreeAppLimit/WDBRemoveThreeAppLimit.png",
        "HeaderImage": null,
        "Category": "Special",
        "Caption": "WDBRemoveThreeAppLimit",
@@ -595,7 +595,7 @@
            }
          ]
        },
-       "Icon": null,
+       "Icon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.LockScreenIcons/com.straight-tamago.LockScreenIcons.png",
        "Category": "Lock Screen",
        "Caption": null,
        "Screenshot": null,
@@ -629,7 +629,7 @@
            }
          ]
        },
-       "Icon": null,
+       "Icon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.DialSound_Piano/com.straight-tamago.DialSound_Piano.png",
        "Category": "Sound",
        "Caption": "Change dial sound to piano (ダイアル音をピアノにするよ)",
        "Screenshot": null,
@@ -663,7 +663,7 @@
            }
          ]
        },
-       "Icon": null,
+       "Icon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.Enable_Internal/com.straight-tamago.Enable_Internal.png",
        "Category": "Settings",
        "Caption": "システムをInternalモードに設定",
        "Screenshot": null,
@@ -697,7 +697,7 @@
            }
          ]
        },
-       "Icon": null,
+       "Icon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.RespringCC_Shortcut/com.straight-tamago.RespringCC_Shortcut.png",
        "Category": "Control Center",
        "Caption": "別途RespringCCをインストールしておく必要あり",
        "Screenshot": null,
@@ -731,7 +731,7 @@
            }
          ]
        },
-       "Icon": null,
+       "Icon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.SpringAlert/com.straight-tamago.SpringAlert.png",
        "Category": "SpringBoard",
        "Caption": "Change the strings for beta alerts and low battery alerts.",
        "Screenshot": null,
@@ -917,7 +917,7 @@
            }
          ]
        },
-       "Icon": null,
+       "Icon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.leemin.calculator_error_message/com.leemin.calculator_error_message.png",
        "HeaderImage": null,
        "Category": "App Custom",
        "Caption": null,
