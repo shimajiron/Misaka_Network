@@ -1,7 +1,11 @@
 {
-  "LastUpdate": "2023/11/07 11:44",
+  "LastUpdate": "2023/11/09 07:56",
   "NewRelease": [
-        {
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.pipsttSysInfo"
+    },
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/dora727/KaedeFriedDora/master/Essentials/manifest.json",
       "PackageID": "meow.doraa.AppleEmojiLQ"
     },
