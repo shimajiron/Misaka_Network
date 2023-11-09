@@ -93,7 +93,7 @@
        "Releases": [
          {
            "Version": "1.0",
-           "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.p2loader/com.straight-tamago.p2loader-v1.0.misaka",
+           "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.shimajiron.p2loader/com.shimajiron.p2loader-v1.0.misaka",
            "Description": null
          }
        ],
