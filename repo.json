@@ -32,6 +32,11 @@
            "Version": "1.0",
            "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.locationsimulator/com.straight-tamago.locationsimulator-v1.0.misaka",
            "Description": null
+         },
+         {
+           "Version": "1.1",
+           "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.locationsimulator/com.straight-tamago.locationsimulator-v1.1.misaka",
+           "Description": null
          }
        ],
        "PackageID": "com.straight-tamago.locationsimulator"
@@ -482,6 +487,11 @@
          {
            "Version": "1.1",
            "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/WDBRemoveThreeAppLimit/WDBRemoveThreeAppLimit-v1.1.misaka",
+           "Description": null
+         },
+         {
+           "Version": "1.2",
+           "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/WDBRemoveThreeAppLimit/WDBRemoveThreeAppLimit-v1.2.misaka",
            "Description": null
          }
        ],
