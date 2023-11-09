@@ -10,6 +10,34 @@
   },
   "RepositoryContents": [
     {
+      "Name": "LocationSimulator",
+      "Description": "Spoof your device's location",
+      "MinIOSVersion": "15.0",
+      "Author": {
+        "Label": "straight-tamago",
+        "Links": [
+          {
+            "Label": "straight-tamago",
+            "Link": "https://twitter.com/straight_tamago"
+          }
+        ]
+      },
+      "Icon": null,
+      "HeaderImage": null,
+      "Category": null,
+      "Caption": "Spoof your device's location",
+      "Screenshot": null,
+      "compatibleExploit": ["TrollStore"],
+      "Releases": [
+        {
+          "Version": "1.0",
+          "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/LocationSimulation.misaka",
+          "Description": null
+        }
+      ],
+      "PackageID": "com.straight-tamago.locationsimulator"
+    },
+    {
       "Name": "MemClock",
       "Description": "Clock and empty memory are displayed below the status bar",
       "MinIOSVersion": "15.0",
