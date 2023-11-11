@@ -82,6 +82,12 @@
                 "Name": "Ian Beer of Project Zero",
                 "Contribution": "CVE-2022-46689",
                 "Link": "https://twitter.com/i41nbeer"
+            },
+            {
+                "Name": "Avangelista",
+                "Image": "https://github.com/Avangelista.png",
+                "Contribution": "StatusMagic",
+                "Link": "https://github.com/Avangelista"
             }
         ]
     },
