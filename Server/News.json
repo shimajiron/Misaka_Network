@@ -1,6 +1,10 @@
 {
-  "LastUpdate": "2023/11/10 05:36",
+  "LastUpdate": "2023/11/11 04:30",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/RomLayVN/KFD/main/repo.json",
+      "PackageID": "com.RomLayVN.LSRabbit"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
       "PackageID": "com.straight-tamago.locationsimulator"
