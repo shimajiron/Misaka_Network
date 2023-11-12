@@ -1,6 +1,10 @@
 {
-  "LastUpdate": "2023/11/11 04:30",
+  "LastUpdate": "2023/11/12 08:17",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
+      "PackageID": "com.hn.pip2"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/RomLayVN/KFD/main/repo.json",
       "PackageID": "com.RomLayVN.LSRabbit"
