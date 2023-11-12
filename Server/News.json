@@ -1,6 +1,10 @@
 {
-  "LastUpdate": "2023/11/12 08:17",
+  "LastUpdate": "2023/11/12 14:17",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.PulsarSettingsUI"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
       "PackageID": "com.hn.pip2"
