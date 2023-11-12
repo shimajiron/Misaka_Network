@@ -120,6 +120,11 @@
            "Version": "1.4",
            "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.shimajiron.p2loader/com.shimajiron.p2loader-v1.4.misaka",
            "Description": "bug fix"
+         },
+         {
+           "Version": "1.5",
+           "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.shimajiron.p2loader/com.shimajiron.p2loader-v1.4.misaka",
+           "Description": "bug fix"
          }
        ],
        "PackageID": "com.shimajiron.p2loader"
