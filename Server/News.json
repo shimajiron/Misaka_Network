@@ -1,6 +1,10 @@
 {
-  "LastUpdate": "2023/11/13 14:56",
+  "LastUpdate": "2023/11/19 22:03",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/RomLayVN/KFD/main/repo.json",
+      "PackageID": "com.RomLayVN.LS16Book"
+    },
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.PasscodeThemeGalaxyX"
