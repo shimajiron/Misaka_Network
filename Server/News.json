@@ -1,6 +1,14 @@
 {
-  "LastUpdate": "2023/11/19 22:03",
+  "LastUpdate": "2023/11/19 22:04",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/RomLayVN/KFD/main/repo.json",
+      "PackageID": "com.RomLayVN.LSBuble"
+    },
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.InnovationTheme"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/RomLayVN/KFD/main/repo.json",
       "PackageID": "com.RomLayVN.LS16Book"
