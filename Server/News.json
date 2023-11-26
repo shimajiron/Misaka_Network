@@ -1,6 +1,10 @@
 {
-  "LastUpdate": "2023/11/19 22:05",
+  "LastUpdate": "2023/11/26 12:37",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "PackageID": "jp.ChromiumCandy.Dentac"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/RomLayVN/KFD/main/repo.json",
       "PackageID": "com.RomLayVN.LS16Book"
@@ -24,10 +28,6 @@
     {
       "RepositoryURL": "https://raw.githubusercontent.com/34306/iPA/main/repo.json",
       "PackageID": "com.hn.pip2"
-    },
-    {
-      "RepositoryURL": "https://raw.githubusercontent.com/RomLayVN/KFD/main/repo.json",
-      "PackageID": "com.RomLayVN.LSRabbit"
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json",
