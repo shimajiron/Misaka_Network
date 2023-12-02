@@ -1,17 +1,21 @@
 {
-  "LastUpdate": "2023/11/26 12:37",
+  "LastUpdate": "2023/12/02 04:00",
   "NewRelease": [
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/RomLayVN/KFD/main/repo.json",
+      "PackageID": "com.RomLayVN.LSStarNight"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/RomLayVN/KFD/main/repo.json",
+      "PackageID": "com.RomLayVN.LSBunny"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo0.json",
       "PackageID": "jp.ChromiumCandy.Dentac"
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/RomLayVN/KFD/main/repo.json",
       "PackageID": "com.RomLayVN.LS16Book"
-    },
-    {
-      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.InnovationTheme"
     },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/RomLayVN/KFD/main/repo.json",
@@ -40,10 +44,6 @@
     {
       "RepositoryURL": "https://raw.githubusercontent.com/dora727/KaedeFriedDora/master/Essentials/manifest.json",
       "PackageID": "meow.doraa.AppleEmojiLQ"
-    },
-    {
-      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
-      "PackageID": "com.dobabaophuc.SL33KTheme"
     },
     {
       "RepositoryURL": "https://puck.roeegh.com/repo.json",
@@ -94,7 +94,7 @@
       "PackageID": "com.epos.gradient"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo0.json",
       "PackageID": "jp.ChromiumCandy.Superevise"
     },
     {
@@ -106,7 +106,7 @@
       "PackageID": "com.TheGiverJB.MintGoldAI"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/aurora/main/misaka.json",
       "PackageID": "com.hackzy.dawnbreaker"
     },
     {
@@ -122,11 +122,11 @@
       "PackageID": "com.epos.colorboard"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/aurora/main/misaka.json",
       "PackageID": "com.hackzy.joypixels"
     },
     {
-      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/misio/main/repo.json",
+      "RepositoryURL": "https://raw.githubusercontent.com/HackZy01/aurora/main/misaka.json",
       "PackageID": "com.hackzy.mmfonts"
     },
     {
