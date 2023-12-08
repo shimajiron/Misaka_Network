@@ -1,6 +1,10 @@
 {
-  "LastUpdate": "2023/12/02 04:00",
+  "LastUpdate": "2023/12/08 06:41",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.TrollHelper"
+    },
     {
       "RepositoryURL": "https://raw.githubusercontent.com/RomLayVN/KFD/main/repo.json",
       "PackageID": "com.RomLayVN.LSStarNight"
