@@ -1,11 +1,11 @@
 {
     "Activated": [
-           "3.3.2 Beta",
            "3.3.3 Beta"
     ],
     "Activated_NoForceUpdate": [
        "3.3.0 Beta",
        "3.3.1 Beta",
-           "3.3.2 Beta"
+           "3.3.2 Beta",
+                   "3.3.3 Beta"
     ]
 }
