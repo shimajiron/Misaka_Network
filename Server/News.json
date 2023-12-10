@@ -1,6 +1,14 @@
 {
-  "LastUpdate": "2023/12/08 06:41",
+  "LastUpdate": "2023/12/10 14:53",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://yangjiii.tech/file/Repo/repo.json",
+      "PackageID": "com.yangjiii.realweather"
+    },
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.GlasklartSettingsUI"
+    },
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.TrollHelper"
