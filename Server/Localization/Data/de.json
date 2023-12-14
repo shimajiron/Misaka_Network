@@ -89,7 +89,7 @@
   "Installation failed. This tweak requires access to /var/, which kfd doesn’t support yet": "Installation fehlgeschlagen. Diese Optimierung erfordert Zugriff auf /var/, was kfd noch nicht unterstützt.",
   "You have to “kopen” before this operation": "Dieser Vorgang kann erst nach dem Befehl [kopen] durchgeführt werden.",
   "Warning": "Warnung",
-  "Settings will not be transferred. Taking a screencap beforehand will be recommended. Would you like to continue?": "Die Einstellungen werden nicht übertragen. Es wird empfohlen, vorher eine Bildschirmaufnahme zu machen. Möchtest du weitermachen?",
+  "Settings will not be transferred. Taking a screencap beforehand will be recommended. Would you like to continue?": "Die Einstellungen werden nicht übertragen. Es wird empfohlen, einen Screenshot zu erstellen und diesen zu sichern. Sind Sie sicher, dass Sie fortfahren möchten?",
   
   "Import": "Importieren",
   "Item with same name already exists.": "Element mit demselben Namen existiert bereits.",
