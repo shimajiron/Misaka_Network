@@ -106,7 +106,7 @@
   "Bytes": "Bytes",
   
   "Root": "Root",
-  "Added to Queue": "Zur Warteschlange hinzugefügt",
+  "Added to Queue": "Zur Warteschlange hinzugefügt.",
   "Too many files or folders! Canceled copying because it may be overloaded and harm your device.": "Zu viele Dateien oder Ordner! Das Kopieren wurde abgebrochen, da es ihr Gerät überlasten und schädigen kann.",
   "Editing /private/preboot may cause boot loop": "Bearbeiten von /private/preboot kann einen Boot-Loop verursachen.",
   "Project Name": "Projektname",
