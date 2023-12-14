@@ -87,7 +87,7 @@
   "Clear Queue": "Warteschlange leeren",
   "Unknown error. You don't have access to this directory": "Unbekannter Fehler. Sie haben keinen Zugriff auf dieses Verzeichnis.",
   "Installation failed. This tweak requires access to /var/, which kfd doesn’t support yet": "Installation fehlgeschlagen. Diese Optimierung erfordert Zugriff auf /var/, was kfd noch nicht unterstützt.",
-  "You have to “kopen” before this operation": "Dieser Vorgang kann erst nach [kopen] durchgeführt werden.",
+  "You have to “kopen” before this operation": "Dieser Vorgang kann erst nach dem Befehl [kopen] durchgeführt werden.",
   "Warning": "Warnung",
   "Settings will not be transferred. Taking a screencap beforehand will be recommended. Would you like to continue?": "Die Einstellungen werden nicht übertragen. Es wird empfohlen, vorher eine Bildschirmaufnahme zu machen. Möchtest du weitermachen?",
   
@@ -108,7 +108,7 @@
   "Root": "Root",
   "Added to Queue": "Zur Warteschlange hinzugefügt.",
   "Too many files or folders! Canceled copying because it may be overloaded and harm your device.": "Zu viele Dateien oder Ordner! Das Kopieren wurde abgebrochen, da es ihr Gerät überlasten und schädigen kann.",
-  "Editing /private/preboot may cause boot loop": "Bearbeiten von /private/preboot kann einen Boot-Loop verursachen.",
+  "Editing /private/preboot may cause boot loop": "Das Bearbeiten von /private/preboot kann einen Boot-Loop verursachen.",
   "Project Name": "Projektname",
   "Files": "Dateien",
   "Create Project": "Projekt erstellen",
