@@ -1,6 +1,6 @@
 {
-  "Recommended": "Empfohlen",
-  "New Releases": "Neuigkeiten",
+  "Featured": "Highlights",
+  "NEWs": "Neuigkeiten",
   "Sources": "Quellen",
   "Packages": "Pakete",
   "FileManager": "Datei-Manager",
@@ -15,7 +15,7 @@
   
   "Check Updates": "Auf Updates prüfen",
   "Update Available": "Update verfügbar",
-  "No Update found": "Kein Update gefunden",
+  "No Update found": "Kein Update gefunden.",
   "Do you want to download the update from GitHub?": "Möchten Sie das Update von GitHub herunterladen?",
   "Developer Mode": "Entwicklermodus",
   "Device Language": "Gerätesprache",
@@ -34,11 +34,11 @@
   
   "Apply All": "Alle anwenden",
   "Restore All": "Alles wiederherstellen",
-  "Clear UIKeyboardCache": "UI-Tastatur-Zwischenspeicher löschen",
-  "Clear IconCache": "Icon-Zwischenspeicher löschen",
-  "Clear AppCache": "App-Zwischenspeicher löschen",
+  "Clear UIKeyboardCache": "UI-Tastatur-Zwischenspeicher leeren",
+  "Clear IconCache": "Icon-Zwischenspeicher leeren",
+  "Clear AppCache": "App-Zwischenspeicher leeren",
   "Succeed": "Erfolgreich",
-  "All Caches are deleted": "Alle Zwischenspeicher wurden gelöscht",
+  "All Caches are deleted": "Alle Zwischenspeicher wurden geleert.",
   
   "Exploit": "Exploit",
   "Method": "Methode",
@@ -67,7 +67,7 @@
   "Mirror": "Spiegel",
   
   "Queued": "In Warteschlange",
-  "Install": "Installieren",
+  "GET": "Installieren",
   "Uninstall": "Entfernen",
   "Not Supported": "Nicht unterstützt",
   "AUTHOR": "AUTOR",
@@ -115,13 +115,13 @@
   "Empty name": "Namen eingeben",
   "Error": "Fehler",
   "Incomplete file": "Die Datei ist beschädigt.",
-  "Successfully Imported": "Erfolgreich importiert",
-  "Input": "Eingabe",
+  "Successfully Imported": "Erfolgreich importiert.",
+  "Project Name": "Projektname",
   "Useful Tools": "Nützliche Werkzeuge",
   "Add file": "Datei hinzufügen",
   "Remove": "Entfernen",
   "No write permission": "Keine Schreibrechte",
-  "Couldn’t delete this file": "Diese Datei konnte nicht gelöscht werden",
+  "Couldn’t delete this file": "Diese Datei konnte nicht gelöscht werden.",
   "File does not exist.": "Datei existiert nicht.",
 
   "Base": "Basis",
@@ -142,6 +142,18 @@
   "Do you want to copy the path?": "Möchten Sie den Pfad kopieren?",
   "Are you sure you want to Restart SpringBoard": "Sind Sie sicher, dass Sie das Springboard neu starten möchten?",
   "Restart": "Neu starten",
+  "Action": "Ausführen",
+
+  "Appearance": "Erscheinung",
+  "Follow System": "Automatisch",
+  "Dark Mode": "Dunkel-Modus",
+  "Light Mode": "Hell-Modus",
+
+  "Popular": "Beliebt",
+  "Editor": "Editor",
+  "Unsupported format": "Nicht unterstütztes Format",
+  "Are you sure you want to delete this file": "Sind Sie sicher, dass Sie diese Datei löschen möchten?",
+  "Save": "Speichern",
   
   "en (Bundle)": "Englisch (Standard)",
   "is": "Isländisch",
@@ -284,4 +296,6 @@
   "ro": "Rumänisch",
   "rm": "Rätoromanisch",
   "ru": "Russisch"
+  "zh-CN": "Chinesisch (Vereinfacht)",
+  "zh-TW": "Chinesisch (Traditionell)",
 }
