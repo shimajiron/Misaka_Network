@@ -87,7 +87,7 @@
   "Clear Queue": "Warteschlange leeren",
   "Unknown error. You don't have access to this directory": "Unbekannter Fehler. Sie haben keinen Zugriff auf dieses Verzeichnis.",
   "Installation failed. This tweak requires access to /var/, which kfd doesn’t support yet": "Installation fehlgeschlagen. Diese Optimierung erfordert Zugriff auf /var/, was kfd noch nicht unterstützt.",
-  "You have to “kopen” before this operation": "Dieser Vorgang kann nach dem Kaufen durchgeführt werden.",
+  "You have to “kopen” before this operation": "Dieser Vorgang kann erst nach [kopen] durchgeführt werden.",
   "Warning": "Warnung",
   "Settings will not be transferred. Taking a screencap beforehand will be recommended. Would you like to continue?": "Die Einstellungen werden nicht übertragen. Es wird empfohlen, vorher eine Bildschirmaufnahme zu machen. Möchtest du weitermachen?",
   
