@@ -1,0 +1,41 @@
+{
+   "RepositoryName": "misaka.io (beta)",
+   "RepositoryDescription": "misaka (beta) official repository",
+   "RepositoryAuthor": "straight-tamago",
+   "RepositoryIcon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/si.jpg",
+   "Default": {
+     "HeaderImage": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/sh.jpg",
+     "ViewCount": true
+   },
+   "RepositoryContents": [
+     {
+       "Name": "StageManager Enabler",
+       "Description": "Enable Stage Manager even on unsupported devices",
+       "MinIOSVersion": "16.0",
+        "compatibleExploit": ["MDC", "KFD","TrollStore"],
+       "Author": {
+         "Label": "Duy Tran Khanh",
+         "Links": [
+           {
+             "Label": "Duy Tran Khanh",
+             "Link": "https://x.com/trankha50277352"
+           }
+         ]
+       },
+       "Icon": null,
+       "HeaderImage": null,
+       "Category": "Springboard",
+       "Caption": null,
+       "Screenshot": null,
+       "Releases": [
+         {
+           "Version": "2.0",
+           "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.misakaproject.stagemanager/com.misakaproject.stagemanager-v2.0.misaka",
+           "Description": null
+         }
+       ],
+       "PackageID": "com.misakaproject.stagemanager"
+     }
+   ]
+ }
+ 
