@@ -73,15 +73,8 @@
        "Name": "P2Loader",
        "Description": "Base Package",
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
+       "MaxIOSVersion": "16.7",
        "compatibleExploit": ["MDC", "KFD", "TrollStore", "No Exploit"],
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
        "Author": {
          "Label": "misakaProject",
          "Links": [
@@ -139,7 +132,7 @@
        "Name": "Borea",
        "Description": "Icon Pack by OuniDesigns",
        "MinIOSVersion": "14.0",
-       "MaxIOSVersion": "16.1.2",
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "OuniDesigns",
          "Links": [
@@ -170,7 +163,7 @@
        "Name": "Leos",
        "Description": "Icon Pack by OuniDesigns",
        "MinIOSVersion": "14.0",
-       "MaxIOSVersion": "16.1.2",
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "OuniDesigns",
          "Links": [
@@ -201,7 +194,7 @@
        "Name": "Silverware",
        "Description": "Icon Pack by moondr1",
        "MinIOSVersion": "14.0",
-       "MaxIOSVersion": "16.1.2",
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "moondr1",
          "Links": [
@@ -232,7 +225,7 @@
        "Name": "Awesome",
        "Description": "Icon Pack by moondr1",
        "MinIOSVersion": "14.0",
-       "MaxIOSVersion": "16.1.2",
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "moondr1",
          "Links": [
@@ -263,14 +256,7 @@
        "Name": "ah,ah,bootloop!",
        "Description": "respring loop (jk)",
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "jbjf",
          "Links": [
@@ -298,7 +284,7 @@
        "Name": "Dark dell",
        "Description": "Icon Pack by moondr1",
        "MinIOSVersion": "14.0",
-       "MaxIOSVersion": "16.1.2",
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "moondr1",
          "Links": [
@@ -329,7 +315,7 @@
        "Name": "Classic Theme",
        "Description": "Icon Pack by moondr1",
        "MinIOSVersion": "14.0",
-       "MaxIOSVersion": "16.1.2",
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "moondr1",
          "Links": [
@@ -360,7 +346,7 @@
        "Name": "Aroma",
        "Description": "Icon Pack by moondr1",
        "MinIOSVersion": "14.0",
-       "MaxIOSVersion": "16.1.2",
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "moondr1",
          "Links": [
@@ -429,14 +415,7 @@
        "Name": "JBJFToolBox",
        "Description": null,
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "jbjf",
          "Links": [
@@ -532,14 +511,7 @@
        "Name": "ふい字",
        "Description": "HuiFont",
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "straight-tamago",
          "Links": [
@@ -573,17 +545,43 @@
        "PackageID": "com.straight-tamago.HuiFont"
      },
      {
+       "Name": "ふい字 for tvOS",
+       "Description": "HuiFont for tvOS",
+       "MinIOSVersion": "15.0",
+       "MaxIOSVersion": "16.7",
+       "Author": {
+         "Label": "straight-tamago",
+         "Links": [
+           {
+             "Label": "straight-tamago",
+             "Link": "https://twitter.com/straight_tamago"
+           },
+           {
+             "Label": "HuiFont",
+             "Link": "https://hp.vector.co.jp/authors/VA039499/"
+           }
+         ]
+       },
+       "Icon": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.HuiFont/com.straight-tamago.HuiFont.jpg",
+       "HeaderImage": null,
+       "CompatibleOS": ["tvOS"],
+       "Category": "SpringBoard",
+       "Caption": "HuiFont for tvOS",
+       "Screenshot": null,
+       "Releases": [
+         {
+           "Version": "1.0",
+           "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.straight-tamago.HuiFont/com.straight-tamago.HuiFont-tvOS-v1.0.misaka",
+           "Description": null
+         }
+       ],
+       "PackageID": "com.straight-tamago.HuiFont-tvOS"
+     },
+     {
        "Name": "Disable Homebar",
        "Description": "Hide Homebar (ホームバーを非表示にします。)",
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "straight-tamago",
          "Links": [
@@ -615,14 +613,7 @@
        "Name": "LS UI",
        "Description": "Change LS UI (ロックスクリーンの下にあるボタンのデザイン)",
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "Coolwcat & しまじろん",
          "Links": [
@@ -653,14 +644,7 @@
        "Name": "DialSound Piano",
        "Description": "Change dial sound to piano (ダイアル音をピアノにするよ)",
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "Coolwcat",
          "Links": [
@@ -687,14 +671,7 @@
        "Name": "Enable Internal",
        "Description": "システムをInternalモードに設定",
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "yyyywaiwai",
          "Links": [
@@ -721,14 +698,7 @@
        "Name": "RespringCC Shortcut",
        "Description": "Install RespringCC before using",
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "しまじろん",
          "Links": [
@@ -755,14 +725,7 @@
        "Name": "SpringAlert",
        "Description": "beta alert and low battery alerts",
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "しまじろん",
          "Links": [
@@ -794,14 +757,7 @@
        "Name": "CC WallPaper",
        "Description": "Add Shazam module before using",
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "straight-tamago",
          "Links": [
@@ -849,14 +805,7 @@
        "Name": "GenshinCC_Remastered",
        "Description": "CC icons are Genshin elements",
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "34306 & straight-tamago",
          "Links": [
@@ -899,14 +848,7 @@
        "Name": "おにまいLock+Sakura",
        "Description": "OnimaiLock+Sakura",
        "MinIOSVersion": "15.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "15.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "Kumiki"
        },
@@ -941,14 +883,7 @@
        "Name": "Calculator Error Message",
        "Description": "Change calculator error message",
        "MinIOSVersion": "16.0",
-       "MaxIOSVersion": "16.6",
-       "AdditionalSupportedIOS": {
-         "MinIOSVersion_CustomLabel": "16.0",
-         "MaxIOSVersion_CustomLabel": "16.6b1",
-         "Build": [
-           "20G5026e"
-         ]
-       },
+       "MaxIOSVersion": "16.7",
        "Author": {
          "Label": "LeminLimez",
          "Links": [
