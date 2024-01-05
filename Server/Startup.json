@@ -1,8 +1,9 @@
 {
     "Activated": [
-        "8.0.9 Beta"
+        "8.1.0 Beta"
     ],
     "Activated_NoForceUpdate": [
-        "8.0.9 Beta"
+        "8.0.9 Beta",
+        "8.1.0 Beta"
     ]
 }
