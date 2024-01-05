@@ -1,6 +1,10 @@
 {
-  "LastUpdate": "2023/12/31 18:38",
+  "LastUpdate": "2024/01/05 16:39",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.LSAbeloneColor"
+    },
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.LSCimeroPro"
