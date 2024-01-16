@@ -1,6 +1,14 @@
 {
-  "LastUpdate": "2024/01/05 16:39",
+  "LastUpdate": "2024/01/16 10:48",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.LSDinoColor"
+    },
+    {
+      "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
+      "PackageID": "com.dobabaophuc.LSBauhausColor"
+    },
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.LSAbeloneColor"
