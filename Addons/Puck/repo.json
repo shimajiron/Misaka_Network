@@ -1,0 +1,142 @@
+{
+	"RepositoryName": "Puck",
+	"RepositoryDescription": "by roeegh",
+	"RepositoryAuthor": "roeegh",
+	"RepositoryIcon": "https://puck.roeegh.com/assets/Icon.png",
+	"RepositoryWebsite": "https://puck.roeegh.dev",
+	"Default": {
+		"HeaderImage": "https://puck.roeegh.com/assets/Banner.png",
+		"Author": {
+			"Label": "roeegh",
+			"Links": [
+				{
+					"Label": "Twitter",
+					"Link": "https://twitter.com/roeegh"
+				}
+			]
+		},
+		"ViewCount": true
+	},
+	"RepositoryContents": [
+		{
+			"Name": "Better Focus",
+			"Description": "•ᴗ•",
+			"Category": "Control Center",
+			"Caption": "Change the Focus module to 1 width and hide the name of all pre-built focus modes.",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6.1",
+			"Icon": "https://puck.roeegh.com/Tweaks/Better%20Focus/Images/Icon.png",
+			"Screenshot": [
+				"https://puck.roeegh.com/Tweaks/Better%20Focus/Images/Focus%20On.png",
+				"https://puck.roeegh.com/Tweaks/Better%20Focus/Images/Focus%20Off.png",
+				"https://puck.roeegh.com/Tweaks/Better%20Focus/Images/Focus%20List.png"
+			],
+			"Releases": [
+				{
+					"Version": "1.1",
+					"Package": "https://puck.roeegh.com/Tweaks/Better%20Focus/Better%20Focus.misaka",
+					"Description": "🌸 Fix for iOS 15"
+				}
+			],
+			"PackageID": "com.roeegh.betterfocus"
+		},
+		{
+			"Name": "Bajji",
+			"Description": "•ᴗ•",
+			"Category": "SpringBoard",
+			"Caption": "Change the color of your badges.\n\nNotice: This will also affect any other part of the OS that uses the systemRedColor. This includes the low battery icon, cancel buttons, etc.",
+			"MinIOSVersion": "16.0",
+			"MaxIOSVersion": "16.6.1",
+			"Icon": "https://puck.roeegh.com/Tweaks/Bajji/Images/Icon.png",
+			"Screenshot": ["https://puck.roeegh.com/Tweaks/Bajji/Images/Badges.png"],
+			"Releases": [
+				{
+					"Version": "2.0",
+					"Package": "https://puck.roeegh.com/Tweaks/Bajji/Bajji.misaka",
+					"Description": "🌸 Custom colors"
+				}
+			],
+			"PackageID": "com.roeegh.bajji"
+		},
+		{
+			"Name": "Palette",
+			"Description": "•ᴗ•",
+			"Category": "SpringBoard",
+			"Caption": "Change all available colors on your device.",
+			"MinIOSVersion": "16.0",
+			"MaxIOSVersion": "16.6.1",
+			"Icon": "https://puck.roeegh.com/Tweaks/Palette/Images/Icon.png",
+			"Screenshot": [
+				"https://puck.roeegh.com/Tweaks/Palette/Images/Calculator.png",
+				"https://puck.roeegh.com/Tweaks/Palette/Images/Settings.png",
+				"https://puck.roeegh.com/Tweaks/Palette/Images/ControlCenter.png"
+			],
+			"Releases": [
+				{
+					"Version": "1.1",
+					"Package": "https://puck.roeegh.com/Tweaks/Palette/Palette.misaka",
+					"Description": "🌸 Fixed Yellow color not working in advanced settings"
+				}
+			],
+			"PackageID": "com.roeegh.palette"
+		},
+		{
+			"Name": "Joutai",
+			"Description": "•ᴗ•",
+			"Category": "SpringBoard",
+			"Caption": "Make your statusbar more useful with the ability to show more information.",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6.1",
+			"Icon": "https://puck.roeegh.com/Tweaks/Joutai/Images/Icon.png",
+			"Screenshot": [
+				"https://puck.roeegh.com/Tweaks/Joutai/Images/Home.png",
+				"https://puck.roeegh.com/Tweaks/Joutai/Images/CC.png",
+				"https://puck.roeegh.com/Tweaks/Joutai/Images/Settings.png"
+			],
+			"Releases": [
+				{
+					"Version": "1.5",
+					"Package": "https://puck.roeegh.com/Tweaks/Joutai/Joutai.misaka",
+					"Description": "🌸 Added Extended Time module"
+				}
+			],
+			"PackageID": "com.roeegh.joutai"
+		},
+		{
+			"Name": "Hotai",
+			"Description": "•ᴗ•",
+			"Category": "App Store",
+			"Caption": "Fixes the bug where App Store stops functioning on TrollStore devices.\n\nCredit: The fix was found by sudo and Too Baked For Pie from CyPwn.",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "17.0",
+      			"compatibleExploit": ["MDC", "KFD", "TrollStore", "No Exploit"],
+			"Icon": "https://puck.roeegh.com/Tweaks/Hotai/Images/Icon.png",
+			"Screenshot": [],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://puck.roeegh.com/Tweaks/Hotai/Hotai.misaka",
+					"Description": "🌸 Initial Release"
+				}
+			],
+			"PackageID": "com.roeegh.hotai"
+		},
+		{
+			"Name": "Daru",
+			"Description": "•ᴗ•",
+			"Category": "SpringBoard",
+			"Caption": "Removes the rdar bar without changing resolution.\n\nNote: These changes are persistent.",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6.1",
+			"Icon": "https://puck.roeegh.com/Tweaks/Daru/Images/Icon.png",
+			"Releases": [
+				{
+					"Version": "2.0",
+					"Package": "https://puck.roeegh.com/Tweaks/Daru/Daru.misaka",
+					"Description": "🌸 Complete rewrite for stability"
+				}
+			],
+			"PackageID": "com.roeegh.daru"
+		}
+	]
+}
