@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>Category</key>
+        <string>Important Note</string>
+        <key>Tweaks</key>
+        <array>
+            <dict>
+                <key>Label</key>
+                <string>The Maximum Battery Capacity and Battery Charge Cycles modules currently only support iOS 16.</string>
+                <key>UI</key>
+                <string>Text</string>
+            </dict>
+            <dict>
+				<key>Categories</key>
+				<array>
+					<dict>
+						<key>Category</key>
+						<string>Development</string>
+						<key>Tweaks</key>
+						<array>
+							<dict>
+								<key>Label</key>
+								<string>@duongduong0908</string>
+								<key>UI</key>
+								<string>Link</string>
+								<key>URL</key>
+								<string>https://twitter.com/duongduong0908</string>
+							</dict>
+							<dict>
+								<key>Label</key>
+								<string>@LeminLimez</string>
+								<key>UI</key>
+								<string>Link</string>
+								<key>URL</key>
+								<string>https://twitter.com/LeminLimez</string>
+							</dict>
+						</array>
+					</dict>
+					<dict>
+						<key>Category</key>
+						<string>Testers</string>
+						<key>Tweaks</key>
+						<array>
+							<dict>
+								<key>Label</key>
+								<string>@tyler10290</string>
+								<key>UI</key>
+								<string>Link</string>
+								<key>URL</key>
+								<string>https://twitter.com/tyler10290</string>
+							</dict>
+							<dict>
+								<key>Label</key>
+								<string>@duongduong0908</string>
+								<key>UI</key>
+								<string>Link</string>
+								<key>URL</key>
+								<string>https://twitter.com/duongduong0908</string>
+							</dict>
+						</array>
+					</dict>
+				</array>
+				<key>Label</key>
+				<string>Credits</string>
+				<key>UI</key>
+				<string>NavigationLink</string>
+			</dict>
+        </array>
+    </dict>
+	<dict>
+		<key>Category</key>
+		<string>Module Selection</string>
+		<key>Tweaks</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<string>timeSlot</string>
+				<key>Label</key>
+				<string>Time</string>
+				<key>LabelPosition</key>
+				<string>Left</string>
+				<key>Selection</key>
+				<array>
+					<dict>
+						<key>Label</key>
+						<string>Default</string>
+						<key>Value</key>
+						<string>default</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Weather</string>
+						<key>Value</key>
+						<string>weatherModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Battery</string>
+						<key>Value</key>
+						<string>batteryModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Memory</string>
+						<key>Value</key>
+						<string>memoryModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Storage</string>
+						<key>Value</key>
+						<string>storageModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>IP Address</string>
+						<key>Value</key>
+						<string>ipModule</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Gregorian Date</string>
+						<key>Value</key>
+						<string>gregorianDate</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Lunar Date</string>
+						<key>Value</key>
+						<string>lunarDate</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Extended Time</string>
+						<key>Value</key>
+						<string>extendedTime</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Maximum Battery Capacity</string>
+						<key>Value</key>
+						<string>maximumBatteryCapacity</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Battery Charge Cycles</string>
+						<key>Value</key>
+						<string>batteryChargeCycles</string>
+					</dict>
+				</array>
+				<key>Type</key>
+				<string>String</string>
+				<key>UI</key>
+				<string>Picker</string>
+				<key>Value</key>
+				<string>default</string>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>batteryDetailSlot</string>
+				<key>Label</key>
+				<string>Battery Detail</string>
+				<key>LabelPosition</key>
+				<string>Left</string>
+				<key>Selection</key>
+				<array>
+					<dict>
+						<key>Label</key>
+						<string>Default</string>
+						<key>Value</key>
+						<string>default</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Weather</string>
+						<key>Value</key>
+						<string>weatherModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Battery</string>
+						<key>Value</key>
+						<string>batteryModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Memory</string>
+						<key>Value</key>
+						<string>memoryModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Storage</string>
+						<key>Value</key>
+						<string>storageModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>IP Address</string>
+						<key>Value</key>
+						<string>ipModule</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Gregorian Date</string>
+						<key>Value</key>
+						<string>gregorianDate</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Lunar Date</string>
+						<key>Value</key>
+						<string>lunarDate</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Extended Time</string>
+						<key>Value</key>
+						<string>extendedTime</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Maximum Battery Capacity</string>
+						<key>Value</key>
+						<string>maximumBatteryCapacity</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Battery Charge Cycles</string>
+						<key>Value</key>
+						<string>batteryChargeCycles</string>
+					</dict>
+				</array>
+				<key>Type</key>
+				<string>String</string>
+				<key>UI</key>
+				<string>Picker</string>
+				<key>Value</key>
+				<string>default</string>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>primaryCarrierSlot</string>
+				<key>Label</key>
+				<string>Primary Carrier</string>
+				<key>LabelPosition</key>
+				<string>Left</string>
+				<key>Selection</key>
+				<array>
+					<dict>
+						<key>Label</key>
+						<string>Default</string>
+						<key>Value</key>
+						<string>default</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Weather</string>
+						<key>Value</key>
+						<string>weatherModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Battery</string>
+						<key>Value</key>
+						<string>batteryModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Memory</string>
+						<key>Value</key>
+						<string>memoryModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Storage</string>
+						<key>Value</key>
+						<string>storageModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>IP Address</string>
+						<key>Value</key>
+						<string>ipModule</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Gregorian Date</string>
+						<key>Value</key>
+						<string>gregorianDate</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Lunar Date</string>
+						<key>Value</key>
+						<string>lunarDate</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Extended Time</string>
+						<key>Value</key>
+						<string>extendedTime</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Maximum Battery Capacity</string>
+						<key>Value</key>
+						<string>maximumBatteryCapacity</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Battery Charge Cycles</string>
+						<key>Value</key>
+						<string>batteryChargeCycles</string>
+					</dict>
+				</array>
+				<key>Type</key>
+				<string>String</string>
+				<key>UI</key>
+				<string>Picker</string>
+				<key>Value</key>
+				<string>default</string>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>secondaryCarrierSlot</string>
+				<key>Label</key>
+				<string>Secondary Carrier</string>
+				<key>LabelPosition</key>
+				<string>Left</string>
+				<key>Selection</key>
+				<array>
+					<dict>
+						<key>Label</key>
+						<string>Default</string>
+						<key>Value</key>
+						<string>default</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Weather</string>
+						<key>Value</key>
+						<string>weatherModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Battery</string>
+						<key>Value</key>
+						<string>batteryModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Memory</string>
+						<key>Value</key>
+						<string>memoryModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Storage</string>
+						<key>Value</key>
+						<string>storageModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>IP Address</string>
+						<key>Value</key>
+						<string>ipModule</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Gregorian Date</string>
+						<key>Value</key>
+						<string>gregorianDate</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Lunar Date</string>
+						<key>Value</key>
+						<string>lunarDate</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Extended Time</string>
+						<key>Value</key>
+						<string>extendedTime</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Maximum Battery Capacity</string>
+						<key>Value</key>
+						<string>maximumBatteryCapacity</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Battery Charge Cycles</string>
+						<key>Value</key>
+						<string>batteryChargeCycles</string>
+					</dict>
+				</array>
+				<key>Type</key>
+				<string>String</string>
+				<key>UI</key>
+				<string>Picker</string>
+				<key>Value</key>
+				<string>default</string>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>breadcrumbSlot</string>
+				<key>Label</key>
+				<string>Breadcrumbs</string>
+				<key>LabelPosition</key>
+				<string>Left</string>
+				<key>Selection</key>
+				<array>
+					<dict>
+						<key>Label</key>
+						<string>Default</string>
+						<key>Value</key>
+						<string>default</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Weather</string>
+						<key>Value</key>
+						<string>weatherModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Battery</string>
+						<key>Value</key>
+						<string>batteryModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Memory</string>
+						<key>Value</key>
+						<string>memoryModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>Storage</string>
+						<key>Value</key>
+						<string>storageModule</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>IP Address</string>
+						<key>Value</key>
+						<string>ipModule</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Gregorian Date</string>
+						<key>Value</key>
+						<string>gregorianDate</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Lunar Date</string>
+						<key>Value</key>
+						<string>lunarDate</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Extended Time</string>
+						<key>Value</key>
+						<string>extendedTime</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Maximum Battery Capacity</string>
+						<key>Value</key>
+						<string>maximumBatteryCapacity</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>Battery Charge Cycles</string>
+						<key>Value</key>
+						<string>batteryChargeCycles</string>
+					</dict>
+				</array>
+				<key>Type</key>
+				<string>String</string>
+				<key>UI</key>
+				<string>Picker</string>
+				<key>Value</key>
+				<string>default</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Category</key>
+		<string>Weather Module Configuration</string>
+		<key>Tweaks</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<string>weatherModuleShowEmoji</string>
+				<key>Label</key>
+				<string>Show Weather Condition Emoji</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>weatherModuleShowMoon</string>
+				<key>Label</key>
+				<string>Show Lunar Phase Emoji</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>weatherModuleShowTemp</string>
+				<key>Label</key>
+				<string>Show Temperature</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>weatherModuleUseCelsius</string>
+				<key>Label</key>
+				<string>Use Celsius</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+    <dict>
+        <key>Category</key>
+        <string></string>
+        <key>Tweaks</key>
+        <array>
+            <dict>
+				<key>Identifier</key>
+				<string>weatherModuleModel</string>
+				<key>Label</key>
+				<string>Weather Model</string>
+				<key>LabelPosition</key>
+				<string>Left</string>
+				<key>Selection</key>
+				<array>
+                    <dict>
+						<key>Label</key>
+						<string>Global</string>
+						<key>Value</key>
+						<string>global</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>DWD ICON</string>
+						<key>Value</key>
+						<string>dwd-icon</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>NOAA GFS</string>
+						<key>Value</key>
+						<string>gfs</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>MeteoFrance</string>
+						<key>Value</key>
+						<string>meteofrance</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>ECMWF</string>
+						<key>Value</key>
+						<string>ecmwf</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>JMA</string>
+						<key>Value</key>
+						<string>jma</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>MET Norway</string>
+						<key>Value</key>
+						<string>metno</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>GEM</string>
+						<key>Value</key>
+						<string>gem</string>
+					</dict>
+				</array>
+				<key>Type</key>
+				<string>String</string>
+				<key>UI</key>
+				<string>Picker</string>
+				<key>Value</key>
+				<string>global</string>
+			</dict>
+            <dict>
+                <key>Label</key>
+                <string>Weather Models</string>
+                <key>UI</key>
+				<string>NavigationLink</string>
+                <key>Categories</key>
+                <array>
+                    <dict>
+                        <key>Category</key>
+                        <string>Information</string>
+                        <key>Description</key>
+                        <string>Source: Open-Meteo.com</string>
+                        <key>Tweaks</key>
+                        <array>
+                            <dict>
+                                <key>Label</key>
+                                <string>Please pick the weather model most suitable for your lcoation based on the region and spatial resolution (smaller the better).</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                        </array>
+                    </dict>
+                    <dict>
+                        <key>Category</key>
+                        <string>DWD ICON</string>
+                        <key>Tweaks</key>
+                        <array>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: ICON D2
+Region: Europe
+Spatial Resolution: ~2 km
+Update frequency: Every 3 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: ICON Europe
+Region: Central Europe
+Spatial Resolution: ~7 km
+Update frequency: Every 3 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: ICON Global
+Region: Global
+Spatial Resolution: ~11 km
+Update frequency: Every 6 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                        </array>
+                    </dict>
+                    <dict>
+                        <key>Category</key>
+                        <string>NOAA GFS</string>
+                        <key>Tweaks</key>
+                        <array>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: HRRR Conus
+Region: U.S. Conus
+Spatial Resolution: 3 km
+Update frequency: Every hour</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: GFS Pressure Variables
+Region: Global
+Spatial Resolution: ~25 km
+Update frequency: Every 6 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: GFS
+Region: Global
+Spatial Resolution: ~13 km
+Update frequency: Every 6 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                        </array>
+                    </dict>
+                    <dict>
+                        <key>Category</key>
+                        <string>MeteoFrance</string>
+                        <key>Tweaks</key>
+                        <array>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: Arome France HD
+Region: France
+Spatial Resolution: ~1.5 km
+Update frequency: Every 6 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: Arome France
+Region: France
+Spatial Resolution: ~2.5 km
+Update frequency: Every 6 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: Arpege Europe
+Region: Europe
+Spatial Resolution: ~11 km
+Update frequency: Every 6 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: Arpege World
+Region: Global
+Spatial Resolution: ~55 km
+Update frequency: Every 6 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                        </array>
+                    </dict>
+                    <dict>
+                        <key>Category</key>
+                        <string>ECMWF</string>
+                        <key>Tweaks</key>
+                        <array>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: IFS
+Region: Global
+Spatial Resolution: ~44 km
+Update frequency: Every 6 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                        </array>
+                    </dict>
+                    <dict>
+                        <key>Category</key>
+                        <string>JMA</string>
+                        <key>Tweaks</key>
+                        <array>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: MSM
+Region: Japan, Korea
+Spatial Resolution: ~5 km
+Update frequency: Every 3 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: GSM
+Region: Global
+Spatial Resolution: ~55 km
+Update frequency: Every 6 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                        </array>
+                    </dict>
+                    <dict>
+                        <key>Category</key>
+                        <string>MET Norway</string>
+                        <key>Tweaks</key>
+                        <array>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: MET Nordic
+Region: Norway, Denmark, Sweden, Finland
+Spatial Resolution: ~1 km
+Update frequency: Every hour</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                        </array>
+                    </dict>
+                    <dict>
+                        <key>Category</key>
+                        <string>GEM</string>
+                        <key>Tweaks</key>
+                        <array>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: HRDPS Continental
+Region: Canada, Nothern US
+Spatial Resolution: 2.5 km
+Update frequency: Every 6 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                            <dict>
+                                <key>Label</key>
+                                <string>Mode: GEM Regional
+Region: North America, North Pole
+Spatial Resolution: 10 km
+Update frequency: Every 6 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                            <dict>
+                                <key>Label</key>
+                                <string>Model: GEM Global
+Region: Global
+Spatial Resolution: ~15 km
+Update frequency: Every 12 hours</string>
+                                <key>UI</key>
+                                <string>Text</string>
+                            </dict>
+                        </array>
+                    </dict>
+                </array>
+            </dict>
+        </array>
+    </dict>
+	<dict>
+		<key>Category</key>
+		<string>Memory Module Configuration</string>
+		<key>Tweaks</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<string>memoryModuleShowFree</string>
+				<key>Label</key>
+				<string>Show Free Memory</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>memoryModuleShowUsed</string>
+				<key>Label</key>
+				<string>Show Used Memory</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>memoryModuleShowSystem</string>
+				<key>Label</key>
+				<string>Show System Memory</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>memoryModuleShowTotal</string>
+				<key>Label</key>
+				<string>Show Total Memory</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>memoryModuleUseGB</string>
+				<key>Label</key>
+				<string>Show in GB</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Category</key>
+		<string>Storage Module Configuration</string>
+		<key>Tweaks</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<string>storageModuleShowFree</string>
+				<key>Label</key>
+				<string>Show Free Storage</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>storageModuleShowUsed</string>
+				<key>Label</key>
+				<string>Show Used Storage</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<false/>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>storageModuleShowTotal</string>
+				<key>Label</key>
+				<string>Show Total Storage</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>storageModuleUseGB</string>
+				<key>Label</key>
+				<string>Show in GB</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<true/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Category</key>
+		<string>IP Address Module Configuration</string>
+		<key>Tweaks</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<string>ipModuleShowLocal</string>
+				<key>Label</key>
+				<string>Show Local IP Address</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>ipModuleShowPublic</string>
+				<key>Label</key>
+				<string>Show Public IP Address</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+    <dict>
+		<key>Category</key>
+		<string>Gregorian Date Module Configuration</string>
+		<key>Tweaks</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<string>gregorianDateFormat</string>
+				<key>Label</key>
+				<string>Date Format</string>
+				<key>LabelPosition</key>
+				<string>Left</string>
+				<key>Selection</key>
+				<array>
+					<dict>
+						<key>Label</key>
+						<string>MM/dd (03/20)</string>
+						<key>Value</key>
+						<string>MM/dd</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>MM/dd/yyyy (03/20/2023)</string>
+						<key>Value</key>
+						<string>MM/dd/yyyy</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>MMM dd (Mar 20)</string>
+						<key>Value</key>
+						<string>MMM dd</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>MMM dd yyyy (Mar 20 2023)</string>
+						<key>Value</key>
+						<string>MMM dd yyyy</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>dd/MM (20/03)</string>
+						<key>Value</key>
+						<string>dd/MM</string>
+					</dict>
+					<dict>
+						<key>Label</key>
+						<string>dd/MM/yyyy (20/03/2023)</string>
+						<key>Value</key>
+						<string>dd/MM/yyyy</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>dd MMM (20 Mar)</string>
+						<key>Value</key>
+						<string>dd MMM</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>dd MMM yyyy (20 Mar 2023)</string>
+						<key>Value</key>
+						<string>dd MMM yyyy</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>yyyy/MM/dd (2023/03/20)</string>
+						<key>Value</key>
+						<string>yyyy/MM/dd</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>EEE, MMM dd (Mon, Mar 20)</string>
+						<key>Value</key>
+						<string>EEE, MMM dd</string>
+					</dict>
+                    <dict>
+						<key>Label</key>
+						<string>EEE (Monday)</string>
+						<key>Value</key>
+						<string>EEE</string>
+					</dict>
+				</array>
+				<key>Type</key>
+				<string>String</string>
+				<key>UI</key>
+				<string>Picker</string>
+				<key>Value</key>
+				<string>MM/dd</string>
+			</dict>
+		</array>
+	</dict>
+    <dict>
+		<key>Category</key>
+		<string>Extended Time Module Configuration</string>
+		<key>Tweaks</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<string>extendedTimeShowSeconds</string>
+				<key>Label</key>
+				<string>Show Seconds</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<true/>
+			</dict>
+			<dict>
+				<key>Identifier</key>
+				<string>extendedTimeShowAMPM</string>
+				<key>Label</key>
+				<string>Show AM/PM</string>
+                <key>Identifiers</key>
+                <dict>
+                    <key>To_Disable</key>
+                    <array>
+                        <string>extendedTimeUse24Hours</string>
+                    </array>
+                    <key>To_Enable</key>
+                    <array>
+                        <string>extendedTimeUse24Hours</string>
+                    </array>
+                </dict>
+				<key>UI</key>
+				<string>Hider_Toggle</string>
+				<key>Value</key>
+				<true/>
+			</dict>
+            <dict>
+				<key>Identifier</key>
+				<string>extendedTimeUse24Hours</string>
+				<key>Label</key>
+				<string>use 24 Hours Format</string>
+				<key>Type</key>
+				<string>Bool</string>
+				<key>UI</key>
+				<string>Toggle</string>
+				<key>Value</key>
+				<false/>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Category</key>
+		<string>Tweak Configuration</string>
+        <key>Description</key>
+        <string>This option should only be used by non TrollStore users</string>
+		<key>Tweaks</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<string>updateInterval</string>
+				<key>Label</key>
+				<string>Update Interval (Hour)</string>
+				<key>Max</key>
+				<real>24</real>
+				<key>Min</key>
+				<real>0.25</real>
+				<key>Step</key>
+				<real>0.25</real>
+				<key>Type</key>
+				<string>Double</string>
+				<key>Value</key>
+				<real>2</real>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
