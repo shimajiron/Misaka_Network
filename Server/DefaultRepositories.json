@@ -8,6 +8,7 @@
     {
       "Section": "Private Testers",
       "Repositories": [
+        "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/repo.json",
         "https://raw.githubusercontent.com/hanabiADHD/nbxyRepo/main/repo0.json",
         "https://raw.githubusercontent.com/huligang/coolwcat/main/repo.json",
         "https://yangjiii.tech/file/Repo/repo.json",
