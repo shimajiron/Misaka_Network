@@ -9,6 +9,34 @@
   },
   "RepositoryContents": [
     {
+       "Name": "StageManager Enabler",
+       "Description": "Enable Stage Manager even on unsupported devices",
+       "MinIOSVersion": "16.0",
+        "compatibleExploit": ["MDC", "KFD","TrollStore"],
+       "Author": {
+         "Label": "Duy Tran Khanh",
+         "Links": [
+           {
+             "Label": "Duy Tran Khanh",
+             "Link": "https://x.com/trankha50277352"
+           }
+         ]
+       },
+       "Icon": null,
+       "HeaderImage": null,
+       "Category": "Springboard",
+       "Caption": null,
+       "Screenshot": null,
+       "Releases": [
+         {
+           "Version": "2.0",
+           "Package": "https://github.com/shimajiron/Misaka_Network/raw/main/Addons/com.misakaproject.stagemanager/com.misakaproject.stagemanager-v2.0.misaka",
+           "Description": null
+         }
+       ],
+       "PackageID": "com.misakaproject.stagemanager"
+     },
+    {
       "Name": "LocationSimulator",
       "Description": "Spoof your device's location",
       "MinIOSVersion": "15.0",
