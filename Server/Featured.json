@@ -5,7 +5,7 @@
 			"PackageID": "com.hackzy.pxlsui"
 		},
 		{
-			"RepositoryURL": "https://puck.roeegh.com/repo.json",
+			"RepositoryURL": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/repo.json",
 			"PackageID": "com.roeegh.Palette"
 		},
 		{
