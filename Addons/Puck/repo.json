@@ -1,0 +1,142 @@
+{
+	"RepositoryName": "Puck",
+	"RepositoryDescription": "by striaght-tamago",
+	"RepositoryAuthor": "striaght-tamago",
+	"RepositoryIcon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/assets/Icon.png",
+	"RepositoryWebsite": "",
+	"Default": {
+		"HeaderImage": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/assets/Banner.png",
+		"Author": {
+			"Label": "straight-tamago",
+			"Links": [
+				{
+					"Label": "Twitter",
+					"Link": "https://twitter.com/straight_tamago"
+				}
+			]
+		},
+		"ViewCount": true
+	},
+	"RepositoryContents": [
+		{
+			"Name": "Better Focus",
+			"Description": "•ᴗ•",
+			"Category": "Control Center",
+			"Caption": "Change the Focus module to 1 width and hide the name of all pre-built focus modes.",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6.1",
+			"Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Better%20Focus/Images/Icon.png",
+			"Screenshot": [
+				"https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Better%20Focus/Images/Focus%20On.png",
+				"https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Better%20Focus/Images/Focus%20Off.png",
+				"https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Better%20Focus/Images/Focus%20List.png"
+			],
+			"Releases": [
+				{
+					"Version": "1.1",
+					"Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Better%20Focus/Better%20Focus.misaka",
+					"Description": "🌸 Fix for iOS 15"
+				}
+			],
+			"PackageID": "com.straight-tamago.betterfocus"
+		},
+		{
+			"Name": "Bajji",
+			"Description": "•ᴗ•",
+			"Category": "SpringBoard",
+			"Caption": "Change the color of your badges.\n\nNotice: This will also affect any other part of the OS that uses the systemRedColor. This includes the low battery icon, cancel buttons, etc.",
+			"MinIOSVersion": "16.0",
+			"MaxIOSVersion": "16.6.1",
+			"Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Bajji/Images/Icon.png",
+			"Screenshot": ["https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Bajji/Images/Badges.png"],
+			"Releases": [
+				{
+					"Version": "2.0",
+					"Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Bajji/Bajji.misaka",
+					"Description": "🌸 Custom colors"
+				}
+			],
+			"PackageID": "com.straight-tamago.bajji"
+		},
+		{
+			"Name": "Palette",
+			"Description": "•ᴗ•",
+			"Category": "SpringBoard",
+			"Caption": "Change all available colors on your device.",
+			"MinIOSVersion": "16.0",
+			"MaxIOSVersion": "16.6.1",
+			"Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Palette/Images/Icon.png",
+			"Screenshot": [
+				"https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Palette/Images/Calculator.png",
+				"https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Palette/Images/Settings.png",
+				"https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Palette/Images/ControlCenter.png"
+			],
+			"Releases": [
+				{
+					"Version": "1.1",
+					"Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Palette/Palette.misaka",
+					"Description": "🌸 Fixed Yellow color not working in advanced settings"
+				}
+			],
+			"PackageID": "com.straight-tamago.palette"
+		},
+		{
+			"Name": "Joutai",
+			"Description": "•ᴗ•",
+			"Category": "SpringBoard",
+			"Caption": "Make your statusbar more useful with the ability to show more information.",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6.1",
+			"Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Joutai/Images/Icon.png",
+			"Screenshot": [
+				"https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Joutai/Images/Home.png",
+				"https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Joutai/Images/CC.png",
+				"https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Joutai/Images/Settings.png"
+			],
+			"Releases": [
+				{
+					"Version": "1.5",
+					"Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Joutai/Joutai.misaka",
+					"Description": "🌸 Added Extended Time module"
+				}
+			],
+			"PackageID": "com.straight-tamago.joutai"
+		},
+		{
+			"Name": "Hotai",
+			"Description": "•ᴗ•",
+			"Category": "App Store",
+			"Caption": "Fixes the bug where App Store stops functioning on TrollStore devices.\n\nCredit: The fix was found by sudo and Too Baked For Pie from CyPwn.",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "17.0",
+      			"compatibleExploit": ["MDC", "KFD", "TrollStore", "No Exploit"],
+			"Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Hotai/Images/Icon.png",
+			"Screenshot": [],
+			"Releases": [
+				{
+					"Version": "1.0",
+					"Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Hotai/Hotai.misaka",
+					"Description": "🌸 Initial Release"
+				}
+			],
+			"PackageID": "com.straight-tamago.hotai"
+		},
+		{
+			"Name": "Daru",
+			"Description": "•ᴗ•",
+			"Category": "SpringBoard",
+			"Caption": "Removes the rdar bar without changing resolution.\n\nNote: These changes are persistent.",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6.1",
+			"Icon": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Daru/Images/Icon.png",
+			"Releases": [
+				{
+					"Version": "2.0",
+					"Package": "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/Addons/Puck/Daru/Daru.misaka",
+					"Description": "🌸 Complete rewrite for stability"
+				}
+			],
+			"PackageID": "com.straight-tamago.daru"
+		}
+	]
+}
