@@ -1,6 +1,10 @@
 {
-  "LastUpdate": "2024/01/16 10:48",
+  "LastUpdate": "2024/07/03 13:21",
   "NewRelease": [
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/dora727/KaedeFriedDora/master/Essentials/manifest.json",
+      "PackageID": "cmmb.doraa.shikanokonokonokokoshitantan"
+    },
     {
       "RepositoryURL": "https://phucdo-repo.pages.dev/repo.json",
       "PackageID": "com.dobabaophuc.LSDinoColor"
