@@ -2,13 +2,13 @@
     {
       "Section": "Official",
       "Repositories": [
-        "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json"
+        "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repoDS.json"
       ]
     },
     {
       "Section": "Private Testers",
       "Repositories": [
-        "https://raw.githubusercontent.com/34306/iPA/main/repo_repacked.json"
+        "https://raw.githubusercontent.com/34306/iPA/main/repoDS.json"
       ]
     },
     {
@@ -19,7 +19,7 @@
     {
       "Section": "Backup",
       "Repositories": [
-        "https://raw.githubusercontent.com/shimajiron/MisakaRepoBackup/main/repo.json"
+        "https://raw.githubusercontent.com/shimajiron/MisakaRepoBackup/main/repoDS.json"
       ]
     },
     {
