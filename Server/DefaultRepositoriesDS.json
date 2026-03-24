@@ -1,0 +1,30 @@
+[
+    {
+      "Section": "Official",
+      "Repositories": [
+        "https://raw.githubusercontent.com/shimajiron/Misaka_Network/main/repo.json"
+      ]
+    },
+    {
+      "Section": "Private Testers",
+      "Repositories": [
+        "https://raw.githubusercontent.com/34306/iPA/main/repo.json"
+      ]
+    },
+    {
+      "Section": "Others",
+      "Repositories": [
+      ]
+    },
+    {
+      "Section": "Backup",
+      "Repositories": [
+        "https://raw.githubusercontent.com/shimajiron/MisakaRepoBackup/main/repo.json"
+      ]
+    },
+    {
+      "Section": "Mirror",
+      "Repositories": [
+      ]
+    }
+  ]
